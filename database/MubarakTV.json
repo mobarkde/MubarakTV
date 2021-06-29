@@ -15,9 +15,28 @@
   "language":"العربية",
   "country":"فلسطين",
   "flog":"https://www.countries-ofthe-world.com/flags-normal/flag-of-Palestine.png",
-  "category":"رياضة",
-  "url":"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8"}
+  "category":"منوعات",
+  "url":"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8"},
  
+ {"id":"3",
+  "active":"1",
+  "name":"الفجر أفلام",
+  "logo":"https://arn.ps/cached_uploads/fit/560/436/n/2021/05/05/ajs-1620247904.png",
+  "language":"العربية",
+  "country":"فلسطين",
+  "flog":"https://www.countries-ofthe-world.com/flags-normal/flag-of-Palestine.png",
+  "category":"أفلام",
+  "url":"http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8"},
  
+  {"id":"4",
+  "active":"1",
+  "name":"ناشيونال جيوغرافيك",
+  "logo":"https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png",
+  "language":"العربية",
+  "country":"الإمارات",
+  "flog":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/153px-Flag_of_the_United_Arab_Emirates.svg.png",
+  "category":"وثائقية",
+  "url":"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8"}
 
+ 
 ]
