@@ -1,9 +1,23 @@
 [{"id":"1",
-  "active":"0",
+  "active":"1",
   "name":"بيت لحم",
   "logo":"http://www.elahmad.com/tv/images/bethlehemtv.jpg",
   "language":"العربية",
   "country":"فلسطين",
   "flog":"https://www.countries-ofthe-world.com/flags-normal/flag-of-Palestine.png",
   "category":"رياضة",
-  "url":"https://tna5.bozztv.com/btv2020/index.m3u8"}]
+  "url":"https://tna5.bozztv.com/btv2020/index.m3u8"},
+
+{"id":"2",
+  "active":"1",
+  "name":"أجيال",
+  "logo":"https://arn.ps/cached_uploads/fit/560/436/n/2021/05/05/ajs-1620247904.png",
+  "language":"العربية",
+  "country":"فلسطين",
+  "flog":"https://www.countries-ofthe-world.com/flags-normal/flag-of-Palestine.png",
+  "category":"رياضة",
+  "url":"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8"},
+ 
+ 
+
+]
