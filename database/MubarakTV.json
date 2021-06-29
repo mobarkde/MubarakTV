@@ -36,5 +36,12 @@
   "country":"الإمارات",
   "flog":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/153px-Flag_of_the_United_Arab_Emirates.svg.png",
   "category":"وثائقية",
-  "url":"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8"}
+  "url":"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8"},
+ 
+ {"id":"5","active":"1","name":"PNN","logo":"http://pnn.ps/wp-content/uploads/2020/01/PNN2.png","language":"العربية","country":"فلسطين","flog":"https://www.countryflags.io/PS/shiny/64.png","category":"أخبار","url":"http://217.21.0.15:8081/pnn/pnn/chunks.m3u8?nimblesessionid=62021148"},
+{"id":"6","active":"1","name":"وطن الفلسطينة","logo":"https://www.wattan.net/media/assets/images/logo25b.png","language":"العربية","country":"فلسطين","flog":"https://www.countryflags.io/PS/shiny/64.png","category":"أخبار","url":"http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8"},
+{"id":"7","active":"1","name":"التلفزيون العربي","logo":"https://1.bp.blogspot.com/-tX30HVKMbBg/XpXMUDNyCyI/AAAAAAAAN5Y/XyLVotTC3yYyvT7xEgQKu9IQbBuD1PuWACLcBGAsYHQ/s1600/%25D8%25A7%25D9%2584%25D8%25AA%25D9%2584%25D9%2581%25D8%25B2%25D9%258A%25D9%2588%25D9%2586%2B%25D8%25A7%25D9%2584%25D8%25B9%25D8%25B1%25D8%25A8%25D9%258A.jpg","language":"العربية","country":"بريطانيا","flog":"https://www.countryflags.io/GB/shiny/64.png","category":"أخبار","url":"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"},
+{"id":"8","active":"1","name":"دجلة طرب","logo":"https://www.dijlah.tv/templates/default-2/live-page/images/t.png","language":"العربية","country":"العراق","flog":"https://www.countryflags.io/IQ/shiny/64.png","category":"أغاني","url":"https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8"}
+
+ 
 ]
