@@ -36,7 +36,8 @@
   "country":"الإمارات",
   "flog":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/153px-Flag_of_the_United_Arab_Emirates.svg.png",
   "category":"وثائقية",
-  "url":"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8"}
+  "url":"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8"},
 
- 
+{"id":"5","active":"1","name":"PNN","logo":"http://pnn.ps/wp-content/uploads/2020/01/PNN2.png","language":"العربية","country":"فلسطين","flog":"https://www.countryflags.io/PS/shiny/64.png","category":"أخبار","url":"http://217.21.0.15:8081/pnn/pnn/chunks.m3u8?nimblesessionid=62021148"}
+
 ]
