@@ -1,1 +1,6 @@
-[{"id":"1","date":"01.01.2021","name":"Neujahr"}] 
+[{"id":"1","date":"01.01.2021","name":"Neujahr"},
+{"id":"2","date":"06.01.2021","name":"Ostersonntag"},
+{"id":"3","date":"08.03.2021","name":"Internationaler Frauentag"},
+{"id":"4","date":"02.04.2021","name":"Karfreitag"},
+{"id":"5","date":"04.04.2021","name":"Ostersonntag"}
+] 
