@@ -28,4 +28,19 @@
  {"id":"27","date":"03.10.2022","name":"Tag der deutschen Einheit"},
  {"id":"28","date":"01.11.2022","name":"Allerheiligen"},
  {"id":"29","date":"25.12.2022","name":"1. Weihnachtsfeiertag"},
- {"id":"30","date":"26.12.2022","name":"2. Weihnachtsfeiertag"}] 
+ {"id":"30","date":"26.12.2022","name":"2. Weihnachtsfeiertag"},
+
+ {"id":"31","date":"01.01.2023","name":"Neujahr"},
+{"id":"32","date":"06.01.2023","name":"Heilige Drei Könige"},
+{"id":"33","date":"07.04.2023","name":"Karfreitag"},
+{"id":"34","date":"09.04.2023","name":"Ostersonntag"},
+{"id":"35","date":"10.04.2023","name":"Ostermontag"},
+ {"id":"36","date":"01.05.2023","name":"Tag der Arbeit"},
+ {"id":"37","date":"18.05.2023","name":"Christi Himmelfahrt"},
+ {"id":"38","date":"29.05.2023","name":"Pfingstmontag"},
+ {"id":"39","date":"08.06.2023","name":"Fronleichnam"},
+ {"id":"40","date":"15.08.2023","name":"Mariä Himmelfahrt"},
+ {"id":"41","date":"03.10.2023","name":"Tag der deutschen Einheit"},
+ {"id":"42","date":"01.11.2023","name":"Allerheiligen"},
+ {"id":"43","date":"25.12.2023","name":"1. Weihnachtsfeiertag"},
+ {"id":"44","date":"26.12.2023","name":"2. Weihnachtsfeiertag"}] 
