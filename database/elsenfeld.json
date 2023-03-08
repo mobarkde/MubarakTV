@@ -1,5 +1,5 @@
 [
-  {"id":1, "name":"", "url":"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1678309422~dirs=1~hash=099b413f34e48aa8ca8e0/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8"},
-  {"id":1, "name":"", "url":"https://cllive.itworkscdn.net/ksasunnalive/token=nva=1678309683~dirs=1~hash=0b81da1837a132ff3ab96/ksasunna.smil/ksasunna_480p_chunks_dvr.m3u8"}
+  {"id":1, "name":"Kur'an-ı Kerim", "url":"https://win.holol.com/live/quran/chunklist.m3u8"},
+  {"id":1, "name":"Sünnet", "url":"https://win.holol.com/live/sunnah/chunklist.m3u8"}
 
 ]
