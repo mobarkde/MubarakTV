@@ -99,7 +99,6 @@
 {'id': 289, 'active': 1, 'name': 'قناة الإتحاد بث مباشر ', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/alittihad.jpg', 'url': 'https://live.alittihad.tv:444/ittihad/index.m3u8'} ,
 {'id': 293, 'active': 1, 'name': 'قناة البحرين الرياضية بث مباشر Bahrain Sport TV', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/BharainSport.jpg', 'url': 'https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1045080757_b2487000.m3u8'} ,
 {'id': 294, 'active': 1, 'name': 'قناة قناة البحرين الرياضية 2 بث مباشر Bahrain Sport TV 2', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/bahrainS2tv.jpg', 'url': 'https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8'} ,
-
 {'id': 1, 'active': 1, 'name': 'قناة قطر بث مباشر ', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/qatar.jpg', 'url': 'https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8'} ,
 {'id': 2, 'active': 1, 'name': 'قناة قطر 2 الفضائية بث مباشر ', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/qatar2.jpg', 'url': 'https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8'} ,
 {'id': 3, 'active': 1, 'name': 'قناة قطر اليوم بث مباشر ', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/qatar-today.jpg', 'url': 'https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8'} ,
