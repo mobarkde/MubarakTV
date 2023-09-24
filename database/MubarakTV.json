@@ -174,7 +174,6 @@
       "logo": "http://www.azrotv.com/iphone/images/ar_jpg/AlRayyan2.jpg",
       "url":"https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8"
    },
-   [
 {'id': 1, 'active': 1, 'name': 'قناة قطر بث مباشر ', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/qatar.jpg', 'url': 'https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8'} ,
 {'id': 2, 'active': 1, 'name': 'قناة قطر 2 الفضائية بث مباشر ', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/qatar2.jpg', 'url': 'https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8'} ,
 {'id': 3, 'active': 1, 'name': 'قناة قطر اليوم بث مباشر ', 'logo': 'http://azrotv.com/iphone/images/ar_jpg/qatar-today.jpg', 'url': 'https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8'} ,
@@ -581,5 +580,4 @@
 {'id': 766, 'active': 1, 'name': 'Watch APA TV ', 'logo': 'http://azrotv.com/iphone/images/fr_jpg/apa.jpg', 'url': 'http://rtmp.apa.tv/@pagroup!23.m3u8'} ,
 {'id': 767, 'active': 1, 'name': 'Watch Aznews TV (AN.T) ', 'logo': 'http://azrotv.com/iphone/images/fr_jpg/ant.jpg', 'url': 'https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8'} ,
 {'id': 769, 'active': 1, 'name': 'Watch EL TV ', 'logo': 'http://azrotv.com/iphone/images/fr_jpg/eltv.jpg', 'url': 'http://85.132.53.162:1935/live/eltv/playlist.m3u8'}
-]
 ]
