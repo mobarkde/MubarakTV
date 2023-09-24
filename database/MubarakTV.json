@@ -11,7 +11,7 @@
       "active":"1",
       "name":"السلام الفلسطينية",
       "logo": "https://www.salam-tv.net/data/image/290X250/01070116039362264075183118728117.jpg",
-      "url":"https://htvmada.mada.ps:4443/salamtv/tracks-v1a1/mono.m3u8"
+      "url":"http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8"
    },
       {
       "id":"3",
