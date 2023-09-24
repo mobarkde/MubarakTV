@@ -12,5 +12,26 @@
       "name":"السلام الفلسطينية",
       "logo": "https://www.salam-tv.net/data/image/290X250/01070116039362264075183118728117.jpg",
       "url":"https://htvmada.mada.ps:4443/salamtv/tracks-v1a1/mono.m3u8"
+   },
+      {
+      "id":"3",
+      "active":"1",
+      "name":"أجيال الفلسطينية",
+      "logo": "https://www.fatehinfo.ps/upload/photo_library/photo_old/1_1386184867_4884.jpg",
+      "url":"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8"
+   },
+      {
+      "id":"4",
+      "active":"1",
+      "name":"النوارس الفلسطينية",
+      "logo": "http://jawa.ps/nawras-logo.png",
+      "url":"http://tv.jawa.ps:1935/jawa/nawrastv/chunklist_w319171461.m3u8"
+   },
+   {
+      "id":"5",
+      "active":"1",
+      "name":"شباب الفلسطينية",
+      "logo": "https://shababfm.ps/wp-content/uploads/2023/01/cropped-Panorama-for-television-press-and-media-Shabab-FM-1.png",
+      "url":"https://htvint.mada.ps/shababfm/tracks-v1a1/mono.m3u8"
    }
 ]
