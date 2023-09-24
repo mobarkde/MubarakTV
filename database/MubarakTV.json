@@ -1,16 +1,16 @@
 [
    {
       "id":"1",
-      "active":"1",
+      "active":"0",
       "name":"ماجد",
       "logo":"https://upload.wikimedia.org/wikipedia/ar/0/0b/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D8%A7%D8%AC%D8%AF_%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84.jpg",
       "url":"https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8"
    },
    {
-      "id":"1",
+      "id":"2",
       "active":"1",
-      "name":"ماجد",
-      "logo":"https://upload.wikimedia.org/wikipedia/ar/0/0b/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D8%A7%D8%AC%D8%AF_%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84.jpg",
-      "url":"https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8"
+      "name":"السلام الفلسطينية",
+      "logo": "https://www.salam-tv.net/data/image/290X250/01070116039362264075183118728117.jpg",
+      "url":"https://htvmada.mada.ps:4443/salamtv/tracks-v1a1/mono.m3u8"
    }
 ]
