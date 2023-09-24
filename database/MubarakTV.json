@@ -9,106 +9,169 @@
    {
       "id":"2",
       "active":"1",
-      "name":"السلام الفلسطينية",
-      "logo": "https://www.salam-tv.net/data/image/290X250/01070116039362264075183118728117.jpg",
-      "url":"https://htvmada.mada.ps:4443/salamtv/tracks-v1a1/mono.m3u8"
-   },
-      {
-      "id":"3",
-      "active":"1",
-      "name":"أجيال الفلسطينية",
-      "logo": "https://www.fatehinfo.ps/upload/photo_library/photo_old/1_1386184867_4884.jpg",
-      "url":"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8"
-   },
-      {
-      "id":"4",
-      "active":"1",
-      "name":"النوارس الفلسطينية",
-      "logo": "http://jawa.ps/nawras-logo.png",
-      "url":"http://tv.jawa.ps:1935/jawa/nawrastv/chunklist_w319171461.m3u8"
-   },
-   {
-      "id":"5",
-      "active":"1",
-      "name":"شباب الفلسطينية",
-      "logo": "https://shababfm.ps/wp-content/uploads/2023/01/cropped-Panorama-for-television-press-and-media-Shabab-FM-1.png",
-      "url":"https://streaming.zaytonatube.com:8081/ShababFM/shabab/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"6",
-      "active":"1",
-      "name":"وتر 1 الفلسطينية",
-      "logo": "http://www.wbn.ps/assets/images/logo-h.png",
-      "url":"http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"7",
-      "active":"1",
-      "name":"وطن الفلسطينية",
-      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/wattan.jpg",
-      "url":"http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"8",
-      "active":"1",
-      "name":"المدينة الفلسطينية",
-      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/almadinatv_palestine.jpg",
-      "url":"https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"9",
-      "active":"1",
-      "name":"راجعين الفلسطينية",
-      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/rajeen.jpg",
-      "url":"https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8"
-   },
-   {
-      "id":"10",
-      "active":"1",
-      "name":"نابلس 1 الفلسطينية",
-      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
-      "url":"http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"11",
-      "active":"1",
-      "name":"نابلس 2 الفلسطينية",
-      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
-      "url":"http://streaming.zaytonatube.com:8080/nb/nb/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"12",
-      "active":"1",
-      "name":"نابلس 3 الفلسطينية",
-      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
-      "url":"http://streaming.zaytonatube.com:8080/NablusMix3/NablusMix3/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"13",
-      "active":"1",
-      "name":"نابلس 4 الفلسطينية",
-      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
-      "url":"https://flu.systemnet.tv/mix1/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "id":"14",
-      "active":"1",
       "name":"سبيستون",
       "logo": "http://www.azrotv.com/iphone/images/ar_jpg/spstn.jpg",
       "url":"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1373081917_b1296000_slAR.m3u8"
    },
    {
-      "id":"15",
+      "id":"3",
       "active":"1",
       "name":"ماجد",
       "logo": "http://www.azrotv.com/iphone/images/ar_jpg/majid.jpg",
       "url":"https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist.m3u8"
    },
    {
-      "id":"16",
+      "id":"4",
       "active":"1",
       "name":"قناة أطفال ومواهب",
       "logo": "http://www.azrotv.com/iphone/images/ar_jpg/atfalwamwaheb.jpg",
       "url":"https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8"
+   },
+   {
+      "id":"5",
+      "active":"1",
+      "name":"السلام الفلسطينية",
+      "logo": "https://www.salam-tv.net/data/image/290X250/01070116039362264075183118728117.jpg",
+      "url":"https://htvmada.mada.ps:4443/salamtv/tracks-v1a1/mono.m3u8"
+   },
+      {
+      "id":"6",
+      "active":"1",
+      "name":"أجيال الفلسطينية",
+      "logo": "https://www.fatehinfo.ps/upload/photo_library/photo_old/1_1386184867_4884.jpg",
+      "url":"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8"
+   },
+      {
+      "id":"7",
+      "active":"1",
+      "name":"النوارس الفلسطينية",
+      "logo": "http://jawa.ps/nawras-logo.png",
+      "url":"http://tv.jawa.ps:1935/jawa/nawrastv/chunklist_w319171461.m3u8"
+   },
+   {
+      "id":"8",
+      "active":"1",
+      "name":"شباب الفلسطينية",
+      "logo": "https://shababfm.ps/wp-content/uploads/2023/01/cropped-Panorama-for-television-press-and-media-Shabab-FM-1.png",
+      "url":"https://streaming.zaytonatube.com:8081/ShababFM/shabab/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"9",
+      "active":"1",
+      "name":"وتر 1 الفلسطينية",
+      "logo": "http://www.wbn.ps/assets/images/logo-h.png",
+      "url":"http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"10",
+      "active":"1",
+      "name":"وطن الفلسطينية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/wattan.jpg",
+      "url":"http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"11",
+      "active":"1",
+      "name":"المدينة الفلسطينية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/almadinatv_palestine.jpg",
+      "url":"https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"12",
+      "active":"1",
+      "name":"راجعين الفلسطينية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/rajeen.jpg",
+      "url":"https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8"
+   },
+   {
+      "id":"13",
+      "active":"1",
+      "name":"نابلس 1 الفلسطينية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
+      "url":"http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"14",
+      "active":"1",
+      "name":"نابلس 2 الفلسطينية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
+      "url":"http://streaming.zaytonatube.com:8080/nb/nb/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"15",
+      "active":"1",
+      "name":"نابلس 3 الفلسطينية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
+      "url":"http://streaming.zaytonatube.com:8080/NablusMix3/NablusMix3/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"16",
+      "active":"1",
+      "name":"نابلس 4 الفلسطينية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/nabluslive4.jpg",
+      "url":"https://flu.systemnet.tv/mix1/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "id":"17",
+      "active":"1",
+      "name":"الجزيرة الوثائقية",
+      "logo":"http://www.azrotv.com/iphone/images/ar_jpg/aljazeera-documentary.jpg",
+      "url":"http://95.216.180.111:1935/live/111/chunklist.m3u8"
+   },
+   {
+      "id":"18",
+      "active":"1",
+      "name":"عمان الثقافية",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/oman_cultural.jpg",
+      "url":"https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
+   },
+   {
+      "id":"19",
+      "active":"1",
+      "name":"ناشيونال جيوغرافيك",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/National-Geographic-Live.jpg",
+      "url":"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8"
+   },
+   {
+      "id":"20",
+      "active":"1",
+      "name":"الجزيرة",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg",
+      "url":"http://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+   },
+   {
+      "id":"17",
+      "active":"1",
+      "name":"الجزيرة مباشر",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/aljazeera_mubashir.jpg",
+      "url":"https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
+   },
+   {
+      "id":"17",
+      "active":"1",
+      "name":"قطر 1",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/qatar.jpg",
+      "url":"https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8"
+   },
+   {
+      "id":"17",
+      "active":"1",
+      "name":"قطر 2",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/qatar2.jpg",
+      "url":"https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8"
+   },
+   {
+      "id":"17",
+      "active":"1",
+      "name":"الريان",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/ryan.jpg",
+      "url":"https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8"
+   },
+   {
+      "id":"17",
+      "active":"1",
+      "name":"الريان قديم",
+      "logo": "http://www.azrotv.com/iphone/images/ar_jpg/AlRayyan2.jpg",
+      "url":"https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8"
    }
 ]
