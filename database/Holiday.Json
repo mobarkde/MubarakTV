@@ -1,5 +1,4 @@
-[ 
-{"id":"0","date":"29.07.2024","name":"0"},
+[ {"id":"0","date":"29.07.2024","name":"0"},
 {"id":"0","date":"30.07.2024","name":"0"},
 {"id":"0","date":"31.07.2024","name":"0"},
 {"id":"0","date":"01.08.2024","name":"0"},
@@ -204,8 +203,7 @@
  {"id":"55","date":"03.10.2025","name":"Tag der deutschen Einheit"},
  {"id":"56","date":"01.11.2025","name":"Allerheiligen"},
  {"id":"57","date":"25.12.2025","name":"1. Weihnachtsfeiertag"},
- {"id":"58","date":"26.12.2025","name":"2. Weihnachtsfeiertag"}
-
+ {"id":"58","date":"26.12.2025","name":"2. Weihnachtsfeiertag"},
 
   {"id":"45","date":"01.01.2026","name":"Neujahr"},
 {"id":"46","date":"06.01.2026","name":"Heilige Drei Könige"},
@@ -220,5 +218,4 @@
  {"id":"56","date":"01.11.2026","name":"Allerheiligen"},
  {"id":"57","date":"25.12.2026","name":"1. Weihnachtsfeiertag"},
  {"id":"58","date":"26.12.2026","name":"2. Weihnachtsfeiertag"}
-
 ] 
