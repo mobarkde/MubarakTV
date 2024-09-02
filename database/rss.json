@@ -1,21 +1,42 @@
+# https://newspapersonline.com/ar/%D8%A7%D9%84%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9/
+
 [
-{
-  "name": "البلاد نت",
-  "country": "الجزائر",
-  "language": "العربية",
-  "category": "سياسة",
-  "type": "صحيفة"
-  "logo": "",
-  "title": true,
-  "description": false,
-  "link": true,
-  "pubDate": true,
-  "datatimeformat":"",
-  "url": "https://www.elbilad.net/",
-  "rss": "https://www.elbilad.net/feed",
-  "elements_count": 4,
-  "elements": "title-description-link-pubDate"
-}
+  {
+    "version": 2.0,
+    "name": "البلاد نت",
+    "country": "الجزائر",
+    "language": "العربية",
+    "category": "سياسة",
+    "type": "صحيفة"
+    "logo": "",
+    "title": true,
+    "description": false,
+    "link": true,
+    "pubDate": true,
+    "datatimeformat":"",
+    "url": "https://www.elbilad.net/",
+    "rss": "https://www.elbilad.net/feed",
+    "elements_count": 4,
+    "elements": "title-description-link-pubDate"
+  },
+  {
+    "version": 1.0,
+    "name": "",
+    "country": "الجزائر",
+    "language": "العربية",
+    "category": "سياسة",
+    "type": "صحيفة"
+    "logo": "",
+    "title": true,
+    "description": false,
+    "link": true,
+    "pubDate": true,
+    "datatimeformat":"",
+    "url": "https://www.elbilad.net/",
+    "rss": "https://www.elbilad.net/feed",
+    "elements_count": 4,
+    "elements": "title-description-link-pubDate"
+  }
 
 
 ]
