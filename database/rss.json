@@ -9,11 +9,8 @@
     "category": "سياسة",
     "type": "صحيفة"
     "logo": "",
-    "title": true,
     "description": false,
-    "link": true,
-    "pubDate": true,
-    "datatimeformat":"",
+    "datatimeformat":"10:39 | 02-09-2024",
     "url": "https://www.elbilad.net/",
     "rss": "https://www.elbilad.net/feed",
     "elements_count": 4,
@@ -21,21 +18,18 @@
   },
   {
     "version": 1.0,
-    "name": "",
+    "name": "الخبر",
     "country": "الجزائر",
     "language": "العربية",
     "category": "سياسة",
     "type": "صحيفة"
     "logo": "",
-    "title": true,
-    "description": false,
-    "link": true,
-    "pubDate": true,
-    "datatimeformat":"",
-    "url": "https://www.elbilad.net/",
-    "rss": "https://www.elbilad.net/feed",
+    "description": true,
+    "datatimeformat":"Mon, 02 Sep 2024 10:39:13 +0100",
+    "url": "https://www.elkhabar.com",
+    "rss": "https://www.elkhabar.com/feeds",
     "elements_count": 4,
-    "elements": "title-description-link-pubDate"
+    "elements": "title-description-link-pubDate-guid"
   }
 
 
