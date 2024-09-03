@@ -1,36 +1,82 @@
-# https://newspapersonline.com/ar/%D8%A7%D9%84%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9/
-
 [
-  {
-    "version": 2.0,
-    "name": "البلاد نت",
-    "country": "الجزائر",
+   {
+    "name": "قناة العربية",
+    "logo": "https://www.alarabiya.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/touch/chrome-touch-icon-192x192.png",
+    "font": "alarabiya",
+    "country": "السعودية",
     "language": "العربية",
-    "category": "سياسة",
-    "type": "صحيفة"
-    "logo": "",
-    "description": false,
-    "datatimeformat":"10:39 | 02-09-2024",
-    "url": "https://www.elbilad.net/",
-    "rss": "https://www.elbilad.net/feed",
-    "elements_count": 4,
-    "elements": "title-description-link-pubDate"
+    "keys": "title-link-guid-pubDate-dc:creator-description-content:encoded-media:content",
+    "disable": "",
+    "description": "اقرأ أهم وأبرز الأخبار والتقارير عربياً وعالمياً من قناة العربية في الشأن السياسي والاقتصادي والرياضي والصحي والمزيد حصرياً عبر موقعنا الالكتروني.",
+    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
+    "datatype": "xml",
+    "category": "قناة",
+    "rss": [
+      {
+        "name": "أخبار الصفحة الرئيسية",
+        "category": "سياسة",
+        "url": "https://www.alarabiya.net/feed/rss2/ar.xml"
+      },
+      {
+        "name": "أخبار العرب والعالم",
+        "category": "سياسة",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml"
+      },
+      {
+        "name": "أخبار السعودية",
+        "category": "محليات",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/saudi-today.xml"
+      },
+      {
+        "name": "أخبار الاقتصاد (أسواق)",
+        "category": "اقتصاد",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml"
+      },
+      {
+        "name": "أخبار الرياضة",
+        "category": "رياضة",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/sport.xml"
+      },
+      {
+        "name": "أخبار منوعة",
+        "category": "منوعات",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
+      },
+      {
+        "name": "المقالات",
+        "category": "سياسة",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/views.xml"
+      },
+      {
+        "name": "أخبار تكنولوجيا",
+        "category": "تكنولوجيا",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/technology.xml"
+      },
+      {
+        "name": "أخبار الأخيرة",
+        "category": "منوعات",
+        "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
+      }
+    ]
   },
   {
-    "version": 1.0,
-    "name": "الخبر",
-    "country": "الجزائر",
+    "name": "الجزيرة نت",
+    "logo": "https://www.aljazeera.net/images/logo_aja.png",
+    "font": "aljazeera",
+    "country": "قطر",
     "language": "العربية",
-    "category": "سياسة",
-    "type": "صحيفة"
-    "logo": "",
-    "description": true,
-    "datatimeformat":"Mon, 02 Sep 2024 10:39:13 +0100",
-    "url": "https://www.elkhabar.com",
-    "rss": "https://www.elkhabar.com/feeds",
-    "elements_count": 4,
-    "elements": "title-description-link-pubDate-guid"
+    "keys": "link-title-description-pubDate-category-guid",
+    "disable": "guid",
+    "description": "الجزيرة نت: آخر أخبار اليوم حول العالم",
+    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
+    "datatype": "file",
+    "category": "قناة",
+    "rss": [
+      {
+        "name": "الجزيرة نت",
+        "category": "سياسة",
+        "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
+      }
+    ]
   }
-
-
 ]
