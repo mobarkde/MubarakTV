@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "code": "ps",
+    "name": "Pashto"
+  },
+  {
+    "id": 2,
+    "code": "sv",
+    "name": "Swedish"
+  },
+  {
+    "id": 3,
+    "code": "sq",
+    "name": "Albanian"
+  },
+  {
+    "id": 4,
+    "code": "ar",
+    "name": "Arabic"
+  },
+  {
+    "id": 5,
+    "code": "en",
+    "name": "English"
+  },
+  {
+    "id": 6,
+    "code": "ca",
+    "name": "Catalan"
+  },
+  {
+    "id": 7,
+    "code": "pt",
+    "name": "Portuguese"
+  },
+  {
+    "id": 8,
+    "code": "es",
+    "name": "Spanish"
+  },
+  {
+    "id": 9,
+    "code": "hy",
+    "name": "Armenian"
+  },
+  {
+    "id": 10,
+    "code": "nl",
+    "name": "Dutch"
+  },
+  {
+    "id": 11,
+    "code": "de",
+    "name": "German"
+  },
+  {
+    "id": 12,
+    "code": "az",
+    "name": "Azerbaijani"
+  },
+  {
+    "id": 13,
+    "code": "bn",
+    "name": "Bengali"
+  },
+  {
+    "id": 14,
+    "code": "be",
+    "name": "Belarusian"
+  },
+  {
+    "id": 15,
+    "code": "fr",
+    "name": "French"
+  },
+  {
+    "id": 16,
+    "code": "dz",
+    "name": "Dzongkha"
+  },
+  {
+    "id": 17,
+    "code": "bs",
+    "name": "Bosnian"
+  },
+  {
+    "id": 18,
+    "code": "ms",
+    "name": "Malay"
+  },
+  {
+    "id": 19,
+    "code": "bg",
+    "name": "Bulgarian"
+  },
+  {
+    "id": 20,
+    "code": "rn",
+    "name": "Kirundi"
+  },
+  {
+    "id": 21,
+    "code": "km",
+    "name": "Khmer"
+  },
+  {
+    "id": 22,
+    "code": "zh",
+    "name": "Chinese"
+  },
+  {
+    "id": 23,
+    "code": "km",
+    "name": "Comorian"
+  },
+  {
+    "id": 24,
+    "code": "hr",
+    "name": "Croatian"
+  },
+  {
+    "id": 25,
+    "code": "el",
+    "name": "Greek"
+  },
+  {
+    "id": 26,
+    "code": "cs",
+    "name": "Czech"
+  },
+  {
+    "id": 27,
+    "code": "da",
+    "name": "Danish"
+  },
+  {
+    "id": 28,
+    "code": "ti",
+    "name": "Tigrinya"
+  },
+  {
+    "id": 29,
+    "code": "et",
+    "name": "Estonian"
+  },
+  {
+    "id": 30,
+    "code": "ss",
+    "name": "Swazi"
+  },
+  {
+    "id": 31,
+    "code": "am",
+    "name": "Amharic"
+  },
+  {
+    "id": 32,
+    "code": "fo",
+    "name": "Faroese"
+  },
+  {
+    "id": 33,
+    "code": "fm",
+    "name": "Federated States of Micronesia"
+  },
+  {
+    "id": 34,
+    "code": "fi",
+    "name": "Finnish"
+  },
+  {
+    "id": 35,
+    "code": "ka",
+    "name": "Georgian"
+  },
+  {
+    "id": 36,
+    "code": "kl",
+    "name": "Greenlandic"
+  },
+  {
+    "id": 37,
+    "code": "ht",
+    "name": "Haitian Creole"
+  },
+  {
+    "id": 38,
+    "code": "la",
+    "name": "Latin"
+  },
+  {
+    "id": 39,
+    "code": "zh",
+    "name": "Chinese (Cantonese)"
+  },
+  {
+    "id": 40,
+    "code": "hu",
+    "name": "Hungarian"
+  },
+  {
+    "id": 41,
+    "code": "is",
+    "name": "Icelandic"
+  },
+  {
+    "id": 42,
+    "code": "hi",
+    "name": "Hindi"
+  },
+  {
+    "id": 43,
+    "code": "id",
+    "name": "Indonesian"
+  },
+  {
+    "id": 44,
+    "code": "fa",
+    "name": "Persian"
+  },
+  {
+    "id": 45,
+    "code": "it",
+    "name": "Italian"
+  },
+  {
+    "id": 46,
+    "code": "ja",
+    "name": "Japanese"
+  },
+  {
+    "id": 47,
+    "code": "kk",
+    "name": "Kazakh"
+  },
+  {
+    "id": 48,
+    "code": "sw",
+    "name": "Swahili"
+  },
+  {
+    "id": 49,
+    "code": "ky",
+    "name": "Kyrgyz"
+  },
+  {
+    "id": 50,
+    "code": "lo",
+    "name": "Lao"
+  },
+  {
+    "id": 51,
+    "code": "lv",
+    "name": "Latvian"
+  },
+  {
+    "id": 52,
+    "code": "st",
+    "name": "Sesotho"
+  },
+  {
+    "id": 53,
+    "code": "lt",
+    "name": "Lithuanian"
+  },
+  {
+    "id": 54,
+    "code": "lb",
+    "name": "Luxembourgish"
+  },
+  {
+    "id": 55,
+    "code": "mg",
+    "name": "Malagasy"
+  },
+  {
+    "id": 56,
+    "code": "ny",
+    "name": "Chichewa"
+  },
+  {
+    "id": 57,
+    "code": "dv",
+    "name": "Divehi"
+  },
+  {
+    "id": 58,
+    "code": "mt",
+    "name": "Maltese"
+  },
+  {
+    "id": 59,
+    "code": "mh",
+    "name": "Marshallese"
+  },
+  {
+    "id": 60,
+    "code": "ro",
+    "name": "Romanian"
+  },
+  {
+    "id": 61,
+    "code": "mn",
+    "name": "Mongolian"
+  },
+  {
+    "id": 62,
+    "code": "sr",
+    "name": "Serbian"
+  },
+  {
+    "id": 63,
+    "code": "my",
+    "name": "Burmese"
+  },
+  {
+    "id": 64,
+    "code": "na",
+    "name": "Nauruan"
+  },
+  {
+    "id": 65,
+    "code": "ne",
+    "name": "Nepali"
+  },
+  {
+    "id": 66,
+    "code": "niu",
+    "name": "Niuean"
+  },
+  {
+    "id": 67,
+    "code": "ko",
+    "name": "Korean"
+  },
+  {
+    "id": 68,
+    "code": "mk",
+    "name": "Macedonian"
+  },
+  {
+    "id": 69,
+    "code": "ch",
+    "name": "Chamorro"
+  },
+  {
+    "id": 70,
+    "code": "no",
+    "name": "Norwegian"
+  },
+  {
+    "id": 71,
+    "code": "ur",
+    "name": "Urdu"
+  },
+  {
+    "id": 72,
+    "code": "pau",
+    "name": "Palauan"
+  },
+  {
+    "id": 73,
+    "code": "pl",
+    "name": "Polish"
+  },
+  {
+    "id": 74,
+    "code": "ru",
+    "name": "Russian"
+  },
+  {
+    "id": 75,
+    "code": "rw",
+    "name": "Kinyarwanda"
+  },
+  {
+    "id": 76,
+    "code": "sm",
+    "name": "Samoan"
+  },
+  {
+    "id": 77,
+    "code": "sk",
+    "name": "Slovak"
+  },
+  {
+    "id": 78,
+    "code": "sl",
+    "name": "Slovene"
+  },
+  {
+    "id": 79,
+    "code": "so",
+    "name": "Somali"
+  },
+  {
+    "id": 80,
+    "code": "af",
+    "name": "Afrikaans"
+  },
+  {
+    "id": 81,
+    "code": "si",
+    "name": "Sinhala"
+  },
+  {
+    "id": 82,
+    "code": "zh",
+    "name": "Mandarin"
+  },
+  {
+    "id": 83,
+    "code": "tg",
+    "name": "Tajik"
+  },
+  {
+    "id": 84,
+    "code": "th",
+    "name": "Thai"
+  },
+  {
+    "id": 85,
+    "code": "tet",
+    "name": "Tetum"
+  },
+  {
+    "id": 86,
+    "code": "tkl",
+    "name": "Tokelauan"
+  },
+  {
+    "id": 87,
+    "code": "to",
+    "name": "Tongan"
+  },
+  {
+    "id": 88,
+    "code": "tk",
+    "name": "Turkmen"
+  },
+  {
+    "id": 89,
+    "code": "tu",
+    "name": "Tuvaluan"
+  },
+  {
+    "id": 90,
+    "code": "tr",
+    "name": "Turkish"
+  },
+  {
+    "id": 91,
+    "code": "uk",
+    "name": "Ukrainian"
+  },
+  {
+    "id": 92,
+    "code": "uz",
+    "name": "Uzbek"
+  },
+  {
+    "id": 93,
+    "code": "bi",
+    "name": "Bislama"
+  },
+  {
+    "id": 94,
+    "code": "vi",
+    "name": "Vietnamese"
+  },
+  {
+    "id": 95,
+    "code": "cy",
+    "name": "Welsh"
+  },
+  {
+    "id": 96,
+    "code": "wls",
+    "name": "Wallisian"
+  }
+]
