@@ -7,75 +7,75 @@
     "nameEn": "Arabic"
 
   },
-  {
+    {
     "id": 2,
+    "code": "en",
+    "name": "English",
+    "nameAr": "الإنجليزية",
+    "nameEn": "English"
+  },
+    {
+    "id": 3,
+    "code": "de",
+    "name": "Deutsch",
+    "nameAr": "الألمانية",
+    "nameEn": "German"
+  },
+  {
+    "id": 4,
     "code": "ps",
     "name": "پښتو",
     "nameAr": "الباشتو",
     "nameEn": "Pashto"
   },
   {
-    "id": 3,
+    "id": 5,
     "code": "sv",
     "name": "Svenska",
     "nameAr": "السويدية",
     "nameEn": "Swedish"
   },
   {
-    "id": 4,
+    "id": 6,
     "code": "sq",
     "name": "Shqip",
     "nameAr": "الألبانية",
     "nameEn": "Albanian"
   },
   {
-    "id": 5,
-    "code": "en",
-    "name": "English",
-    "nameAr": "الإنجليزية",
-    "nameEn": "English"
-  },
-  {
-    "id": 6,
+    "id": 7,
     "code": "ca",
     "name": "Català",
     "nameAr": "الكاتالونية",
     "nameEn": "Catalan"
   },
   {
-    "id": 7,
+    "id": 8,
     "code": "pt",
     "name": "Português",
     "nameAr": "البرتغالية",
     "nameEn": "Portuguese"
   },
   {
-    "id": 8,
+    "id": 9,
     "code": "es",
     "name": "Español",
     "nameAr": "الإسبانية",
     "nameEn": "Spanish"
   },
   {
-    "id": 9,
+    "id": 10,
     "code": "hy",
     "name": "Հայերեն",
     "nameAr": "الأرمنية",
     "nameEn": "Armenian"
   },
   {
-    "id": 10,
+    "id": 11,
     "code": "nl",
     "name": "Nederlands",
     "nameAr": "الهولندية",
     "nameEn": "Dutch"
-  },
-  {
-    "id": 11,
-    "code": "de",
-    "name": "Deutsch",
-    "nameAr": "الألمانية",
-    "nameEn": "German"
   },
   {
     "id": 12,
