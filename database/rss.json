@@ -1,16 +1,10 @@
 [
    {
-    "name": "قناة العربية",
-    "logo": "https://www.alarabiya.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/touch/chrome-touch-icon-192x192.png",
-    "font": "alarabiya",
-    "country": "السعودية",
-    "language": "العربية",
+    "name": 1,
     "keys": "title-link-guid-pubDate-dc:creator-description-content:encoded-media:content",
     "disable": "",
-    "description": "اقرأ أهم وأبرز الأخبار والتقارير عربياً وعالمياً من قناة العربية في الشأن السياسي والاقتصادي والرياضي والصحي والمزيد حصرياً عبر موقعنا الالكتروني.",
     "datatime": "E, dd MMM yyyy HH:mm:ss Z",
     "datatype": "xml",
-    "category": "قناة",
     "rss": [
       {
         "name": "أخبار الصفحة الرئيسية",
@@ -61,16 +55,10 @@
   },
   {
     "name": "الجزيرة نت",
-    "logo": "https://www.aljazeera.net/images/logo_aja.png",
-    "font": "aljazeera",
-    "country": "قطر",
-    "language": "العربية",
     "keys": "link-title-description-pubDate-category-guid",
     "disable": "guid",
-    "description": "الجزيرة نت: آخر أخبار اليوم حول العالم",
     "datatime": "E, dd MMM yyyy HH:mm:ss Z",
     "datatype": "file",
-    "category": "قناة",
     "rss": [
       {
         "name": "الجزيرة نت",
