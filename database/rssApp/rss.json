@@ -1,6 +1,7 @@
 [
-   {
-    "name": 1,
+  {
+    "id": 1,
+    "channel_id": 1,
     "keys": "title-link-guid-pubDate-dc:creator-description-content:encoded-media:content",
     "disable": "",
     "datatime": "E, dd MMM yyyy HH:mm:ss Z",
@@ -8,53 +9,63 @@
     "rss": [
       {
         "name": "أخبار الصفحة الرئيسية",
-        "category": "سياسة",
+        "category": 6,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar.xml"
       },
       {
         "name": "أخبار العرب والعالم",
-        "category": "سياسة",
+        "category": 6,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml"
       },
       {
         "name": "أخبار السعودية",
-        "category": "محليات",
+        "category": 14,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/saudi-today.xml"
       },
       {
         "name": "أخبار الاقتصاد (أسواق)",
-        "category": "اقتصاد",
+        "category": 8,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml"
       },
       {
         "name": "أخبار الرياضة",
-        "category": "رياضة",
+        "category": 7,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/sport.xml"
       },
       {
         "name": "أخبار منوعة",
-        "category": "منوعات",
+        "category": 22,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
       },
       {
         "name": "المقالات",
-        "category": "سياسة",
+        "category": 6,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/views.xml"
       },
       {
         "name": "أخبار تكنولوجيا",
-        "category": "تكنولوجيا",
+        "category": 10,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/technology.xml"
       },
       {
         "name": "أخبار الأخيرة",
-        "category": "منوعات",
+        "category": 22,
+        "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
       }
     ]
   },
   {
-    "name": "الجزيرة نت",
+    "id": 1,
+    "channel_id": 2,
     "keys": "link-title-description-pubDate-category-guid",
     "disable": "guid",
     "datatime": "E, dd MMM yyyy HH:mm:ss Z",
@@ -62,7 +73,8 @@
     "rss": [
       {
         "name": "الجزيرة نت",
-        "category": "سياسة",
+        "category": 6,
+        "language": 1,
         "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
       }
     ]
