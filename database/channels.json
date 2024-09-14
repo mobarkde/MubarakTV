@@ -1,26 +1,72 @@
 [
-  "id":1,
-  "name":[
-    "name":"قناة العربية",
-    "arabic":"قناة العربية",
-    "english":"al-Arabiya"
-  ],
-  "description":[
-    "description":"العربية هي قناة إخبارية باللغة العربية مقرها مدينة دبي للإعلام في دولة الإمارات العربية المتحدة. تأسست المحطة التلفزيونية في 3 مارس 2003 كجزء من مجموعة MBC الإعلامية. ويكيبيديا",
-    "arabic":"العربية هي قناة إخبارية باللغة العربية مقرها مدينة دبي للإعلام في دولة الإمارات العربية المتحدة. تأسست المحطة التلفزيونية في 3 مارس 2003 كجزء من مجموعة MBC الإعلامية. ويكيبيديا",
-    "english":"Al-Arabiya ist ein arabischsprachiger Nachrichtensender in der Dubai Media City in den Vereinigten Arabischen Emiraten. Der Fernsehsender wurde am 3. März 2003 als Teil des Medienkonzerns MBC gegründet. Wikipedia"
-],
-  "logo":[
-    "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/Alarabiya.png"
-    ],
-  "category":[
-    ],
-  "language":[
-    "ar"
-    ],
-  "country":[
-    "SA",
-    "AE"
+  {
+    "id": 1,
+    "channel_id": 1,
+    "keys": "title-link-guid-pubDate-dc:creator-description-content:encoded-media:content",
+    "disable": "",
+    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
+    "datatype": "xml",
+    "rss": [
+      {
+        "name": "أخبار الصفحة الرئيسية",
+        "category": 6,
+        "url": "https://www.alarabiya.net/feed/rss2/ar.xml"
+      },
+      {
+        "name": "أخبار العرب والعالم",
+        "category": 6,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml"
+      },
+      {
+        "name": "أخبار السعودية",
+        "category": 14,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/saudi-today.xml"
+      },
+      {
+        "name": "أخبار الاقتصاد (أسواق)",
+        "category": 8,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml"
+      },
+      {
+        "name": "أخبار الرياضة",
+        "category": 7,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/sport.xml"
+      },
+      {
+        "name": "أخبار منوعة",
+        "category": 22,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
+      },
+      {
+        "name": "المقالات",
+        "category": 6,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/views.xml"
+      },
+      {
+        "name": "أخبار تكنولوجيا",
+        "category": 10,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/technology.xml"
+      },
+      {
+        "name": "أخبار الأخيرة",
+        "category": 22,
+        "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
+      }
     ]
-
+  },
+  {
+    "id": 1,
+    "channel_id": 2,
+    "keys": "link-title-description-pubDate-category-guid",
+    "disable": "guid",
+    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
+    "datatype": "file",
+    "rss": [
+      {
+        "name": "الجزيرة نت",
+        "category": 6,
+        "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
+      }
+    ]
+  }
 ]
