@@ -11,19 +11,16 @@
     "english":"Al-Arabiya ist ein arabischsprachiger Nachrichtensender in der Dubai Media City in den Vereinigten Arabischen Emiraten. Der Fernsehsender wurde am 3. März 2003 als Teil des Medienkonzerns MBC gegründet. Wikipedia"
 ],
   "logo":[
-    "https://github.com/mobarkde/MubarakTV/blob/main/dataset/images/logos/sa/Alarabiya.png?raw=true"
+    "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/Alarabiya.png"
     ],
   "category":[
-    1,
-    2,
-    3
     ],
   "language":[
-    1
+    "ar"
     ],
   "country":[
-    201,
-    244
+    "SA",
+    "AE"
     ]
 
 ]
