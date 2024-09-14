@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "arabic": "قناة تلفزيونية",
+      "english": "Channel TV"
+    },
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "name": {
+      "arabic": "إذاعة",
+      "english": "Radio"
+    },
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "name": {
+      "arabic": "جريدة",
+      "english": "Journal"
+    },
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "name": {
+      "arabic": "مجلة",
+      "english": "Magazine"
+    },
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "name": {
+      "arabic": "موقع الكتروني",
+      "english": "Web"
+    },
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "name": {
+      "arabic": "سياسة",
+      "english": "Policy"
+    },
+    "icon": ""
+  },
+  {
+    "id": 7,
+    "name": {
+      "arabic": "رياضة",
+      "english": "Sport"
+    },
+    "icon": ""
+  },
+  {
+    "id": 8,
+    "name": {
+      "arabic": "اقتصاد",
+      "english": "Economy"
+    },
+    "icon": ""
+  },
+  {
+    "id": 9,
+    "name": {
+      "arabic": "فن",
+      "english": "Art"
+    },
+    "icon": ""
+  },
+  {
+    "id": 10,
+    "name": {
+      "arabic": "تقنية",
+      "english": "Technology"
+    },
+    "icon": ""
+  },
+  {
+    "id": 11,
+    "name": {
+      "arabic": "الوسائط المتعددة",
+      "english": "Multimedia"
+    },
+    "icon": ""
+  },
+  {
+    "id": 12,
+    "name": {
+      "arabic": "ازياء",
+      "english": "Fashions"
+    },
+    "icon": ""
+  },
+  {
+    "id": 13,
+    "name": {
+      "arabic": "سياحة",
+      "english": "Tourism"
+    },
+    "icon": ""
+  },
+  {
+    "id": 14,
+    "name": {
+      "arabic": "محليات",
+      "english": "Local news"
+    },
+    "icon": ""
+  },
+  {
+    "id": 15,
+    "name": {
+      "arabic": "ثقافة",
+      "english": "Culture"
+    },
+    "icon": ""
+  },
+  {
+    "id": 16,
+    "name": {
+      "arabic": "الناس",
+      "english": "People"
+    },
+    "icon": ""
+  },
+  {
+    "id": 17,
+    "name": {
+      "arabic": "المرأة",
+      "english": "Woman"
+    },
+    "icon": ""
+  },
+  {
+    "id": 18,
+    "name": {
+      "arabic": "الشباب",
+      "english": "Youth"
+    },
+    "icon": ""
+  },
+  {
+    "id": 19,
+    "name": {
+      "arabic": "الحج",
+      "english": "Hajj"
+    },
+    "icon": ""
+  },
+  {
+    "id": 20,
+    "name": {
+      "arabic": "تحقيقات",
+      "english": "Reportages"
+    },
+    "icon": ""
+  },
+  {
+    "id": 21,
+    "name": {
+      "arabic": "كاريكاتير",
+      "english": "Caricature"
+    },
+    "icon": ""
+  },
+  {
+    "id": 22,
+    "name": {
+      "arabic": "منوعات",
+      "english": "Variety"
+    },
+    "icon": ""
+  },
+  {
+    "id": 23,
+    "name": {
+      "arabic": "مناسبات",
+      "english": "Occasions"
+    },
+    "icon": ""
+  },
+  {
+    "id": 23,
+    "name": {
+      "arabic": "غرائب",
+      "english": "Wonders and wonders"
+    },
+    "icon": ""
+  },
+  {
+    "id": 24,
+    "name": {
+      "arabic": "أخيرة",
+      "english": "Last page"
+    },
+    "icon": ""
+  },
+  {
+    "id": 25,
+    "name": {
+      "arabic": "مباريات اليوم",
+      "english": "Today's matches"
+    },
+    "icon": ""
+  },
+  {
+    "id": 26,
+    "name": {
+      "arabic": "السيارات",
+      "english": "Cars"
+    },
+    "icon": ""
+  },
+  {
+    "id": 27,
+    "name": {
+      "arabic": "حوادث",
+      "english": "Incidents"
+    },
+    "icon": ""
+  },
+  {
+    "id": 28,
+    "name": {
+      "arabic": "مطبخ",
+      "english": ""
+    },
+    "icon": ""
+  },
+  {
+    "id": 29,
+    "name": {
+      "arabic": "علوم",
+      "english": "Sciences"
+    },
+    "icon": ""
+  },
+  {
+    "id": 30,
+    "name": {
+      "arabic": "خدمات",
+      "english": "Services"
+    },
+    "icon": ""
+  },
+  {
+    "id": 31,
+    "name": {
+      "arabic": "وظائف",
+      "english": "Jobs"
+    },
+    "icon": ""
+  },
+  {
+    "id": 32,
+    "name": {
+      "arabic": "نصائح",
+      "english": "Tips"
+    },
+    "icon": ""
+  },
+  {
+    "id": 33,
+    "name": {
+      "arabic": "فعاليات",
+      "english": "Actions"
+    },
+    "icon": ""
+  },
+  {
+    "id": 34,
+    "name": {
+      "arabic": "دراسات",
+      "english": "Studies"
+    },
+    "icon": ""
+  },
+  {
+    "id": 35,
+    "name": {
+      "arabic": "صحة",
+      "english": "Health"
+    },
+    "icon": ""
+  },
+  {
+    "id": 36,
+    "name": {
+      "arabic": "التربية و التعليم",
+      "english": "Education"
+    },
+    "icon": ""
+  }
+]
