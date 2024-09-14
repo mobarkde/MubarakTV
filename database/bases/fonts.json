@@ -1,10 +1,82 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "name": {
-      "arabic": "",
-      "english": ""
+      "arabic": "جريدة الجزيرة غامق",
+      "english": "Al-jazirah Bold"
     },
-    "url": ""
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/al_jazirah_bold.ttf"
+  },
+    {
+    "id": 2,
+    "name": {
+      "arabic": "جريدة الوطن غامق",
+      "english": "Alwatan Bold"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/alwatan_bold.ttf"
+  },
+    {
+    "id": 3,
+    "name": {
+      "arabic": "Bein Sport غامق",
+      "english": "Bein Sport Bold"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/bein_sport_black.ttf"
+  },
+  {
+    "id": 4,
+    "name": {
+      "arabic": "Bein Sport عادي",
+      "english": "Bein Sport normal"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/bein_sport_normal.ttf"
+  },
+    {
+    "id": 5,
+    "name": {
+      "arabic": "LBC غامق",
+      "english": "LBC Bold"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/lbc_bold.otf"
+  },
+    {
+    "id": 6,
+    "name": {
+      "arabic": "LBC عادي",
+      "english": "LBC regular"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/lbc_regular.otf"
+  },
+  {
+    "id": 7,
+    "name": {
+      "arabic": "شركة موبايلي",
+      "english": "Mobily"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/mobily.ttf"
+  },
+    {
+    "id": 8,
+    "name": {
+      "arabic": "خط مونادي",
+      "english": "Monadi"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/monadi.ttf"
+  },
+    {
+    "id": 9,
+    "name": {
+      "arabic": "أوريدو ثقيل",
+      "english": "Ooredoo Heavy"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/ooredoo_heavy.ttf"
+  },
+    {
+    "id": 10,
+    "name": {
+      "arabic": "أوريدو عادي",
+      "english": "Ooredoo regular"
+    },
+    "url": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/ooredoo_regular.ttf"
   }
 ]
