@@ -1,1 +1,178 @@
-
+[
+  {
+    "id": 1,
+    "key": "channel",
+    "name": {
+      "arabic": "",
+      "english": "Channel"
+    }
+  },
+  {
+    "id": 2,
+    "key": "title",
+    "name": {
+      "arabic": "",
+      "english": "Title"
+    }
+  },
+  {
+    "id": 3,
+    "key": "description",
+    "name": {
+      "arabic": "",
+      "english": "Description"
+    }
+  },
+  {
+    "id": 4,
+    "key": "link",
+    "name": {
+      "arabic": "",
+      "english": "Link"
+    }
+  },
+  {
+    "id": 5,
+    "key": "lastBuildDate",
+    "name": {
+      "arabic": "",
+      "english": "Last Build Date"
+    }
+  },
+  {
+    "id": 6,
+    "key": "language",
+    "name": {
+      "arabic": "",
+      "english": "Language"
+    }
+  },
+  {
+    "id": 7,
+    "key": "content",
+    "name": {
+      "arabic": "",
+      "english": "Content"
+    }
+  },
+  {
+    "id": 8,
+    "key": "category",
+    "name": {
+      "arabic": "",
+      "english": "Category"
+    }
+  },
+  {
+    "id": 9,
+    "key": "pubDate",
+    "name": {
+      "arabic": "",
+      "english": ""
+    }
+  },
+  {
+    "id": 10,
+    "key": "atom:link",
+    "name": {
+      "arabic": "",
+      "english": ""
+    }
+  },
+  {
+    "id": 11,
+    "key": "copyright",
+    "name": {
+      "arabic": "",
+      "english": "Copyright"
+    }
+  },
+  {
+    "id": 12,
+    "key": "guid",
+    "name": {
+      "arabic": "",
+      "english": "Guid"
+    }
+  },
+  {
+    "id": 13,
+    "key": "dc:creator",
+    "name": {
+      "arabic": "",
+      "english": "Creator"
+    }
+  },
+  {
+    "id": 14,
+    "key": "media:keywords",
+    "name": {
+      "arabic": "",
+      "english": "Keywords"
+    }
+  },
+  {
+    "id": 15,
+    "key": "content:encoded",
+    "name": {
+      "arabic": "",
+      "english": ""
+    }
+  },
+  {
+    "id": 16,
+    "key": "media:content",
+    "name": {
+      "arabic": "",
+      "english": ""
+    }
+  },
+  {
+    "id": 17,
+    "key": "ttl",
+    "name": {
+      "arabic": "",
+      "english": ""
+    }
+  },
+  {
+    "id": 18,
+    "key": "image",
+    "name": {
+      "arabic": "",
+      "english": "Image"
+    }
+  },
+  {
+    "id": 19,
+    "key": "author",
+    "name": {
+      "arabic": "",
+      "english": "Author"
+    }
+  },
+  {
+    "id": 20,
+    "key": "url",
+    "name": {
+      "arabic": "",
+      "english": "Url"
+    }
+  },
+  {
+    "id": 21,
+    "key": "enclosure",
+    "name": {
+      "arabic": "",
+      "english": "Enclosure"
+    }
+  },
+  {
+    "id": 22,
+    "key": "media:thumbnail",
+    "name": {
+      "arabic": "",
+      "english": ""
+    }
+  }
+]
