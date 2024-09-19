@@ -2,6 +2,7 @@
   {
     "id": 1,
     "key": "channel",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Channel"
@@ -10,6 +11,7 @@
   {
     "id": 2,
     "key": "title",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Title"
@@ -18,6 +20,7 @@
   {
     "id": 3,
     "key": "description",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Description"
@@ -26,6 +29,7 @@
   {
     "id": 4,
     "key": "link",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Link"
@@ -34,6 +38,7 @@
   {
     "id": 5,
     "key": "lastBuildDate",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Last Build Date"
@@ -42,6 +47,7 @@
   {
     "id": 6,
     "key": "language",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Language"
@@ -50,6 +56,7 @@
   {
     "id": 7,
     "key": "content",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Content"
@@ -58,6 +65,7 @@
   {
     "id": 8,
     "key": "category",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Category"
@@ -66,6 +74,7 @@
   {
     "id": 9,
     "key": "pubDate",
+    "similar": 5,
     "name": {
       "arabic": "",
       "english": ""
@@ -74,6 +83,7 @@
   {
     "id": 10,
     "key": "atom:link",
+    "similar": 4,
     "name": {
       "arabic": "",
       "english": ""
@@ -82,6 +92,7 @@
   {
     "id": 11,
     "key": "copyright",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Copyright"
@@ -90,6 +101,7 @@
   {
     "id": 12,
     "key": "guid",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Guid"
@@ -98,6 +110,7 @@
   {
     "id": 13,
     "key": "dc:creator",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Creator"
@@ -106,6 +119,7 @@
   {
     "id": 14,
     "key": "media:keywords",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Keywords"
@@ -114,6 +128,7 @@
   {
     "id": 15,
     "key": "content:encoded",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": ""
@@ -122,6 +137,7 @@
   {
     "id": 16,
     "key": "media:content",
+    "similar": 7,
     "name": {
       "arabic": "",
       "english": ""
@@ -130,6 +146,7 @@
   {
     "id": 17,
     "key": "ttl",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": ""
@@ -138,6 +155,7 @@
   {
     "id": 18,
     "key": "image",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Image"
@@ -146,6 +164,7 @@
   {
     "id": 19,
     "key": "author",
+    "similar": 13,
     "name": {
       "arabic": "",
       "english": "Author"
@@ -154,6 +173,7 @@
   {
     "id": 20,
     "key": "url",
+    "similar": 4,
     "name": {
       "arabic": "",
       "english": "Url"
@@ -162,6 +182,7 @@
   {
     "id": 21,
     "key": "enclosure",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": "Enclosure"
@@ -170,6 +191,7 @@
   {
     "id": 22,
     "key": "media:thumbnail",
+    "similar": 0,
     "name": {
       "arabic": "",
       "english": ""
