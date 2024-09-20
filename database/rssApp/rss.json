@@ -2,80 +2,94 @@
   {
     "id": 1,
     "channel_id": 1,
-    "keys": "title-link-guid-pubDate-dc:creator-description-content:encoded-media:content",
-    "disable": "",
-    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
-    "datatype": "xml",
+    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
     "rss": [
       {
+        "id": 1,
+        "name": "الجزيرة نت",
+        "datatype": "file",
+        "category": 6,
+        "language": 1,
+        "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "channel_id": 2,
+    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
+    "rss": [
+      {
+        "id": 2,
+        "datatype": "xml",
         "name": "أخبار الصفحة الرئيسية",
         "category": 6,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar.xml"
       },
       {
+         "id": 3,
+        "datatype": "xml",
         "name": "أخبار العرب والعالم",
         "category": 6,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml"
       },
       {
+         "id": 4,
+        "datatype": "xml",
         "name": "أخبار السعودية",
         "category": 14,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/saudi-today.xml"
       },
       {
+         "id": 5,
+        "datatype": "xml",
         "name": "أخبار الاقتصاد (أسواق)",
         "category": 8,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml"
       },
       {
+         "id": 6,
+        "datatype": "xml",
         "name": "أخبار الرياضة",
         "category": 7,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/sport.xml"
       },
       {
+         "id": 7,
+        "datatype": "xml",
         "name": "أخبار منوعة",
         "category": 22,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
       },
       {
+         "id": 8,
+        "datatype": "xml",
         "name": "المقالات",
         "category": 6,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/views.xml"
       },
       {
+         "id": 9,
+        "datatype": "xml",
         "name": "أخبار تكنولوجيا",
         "category": 10,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/technology.xml"
       },
       {
+         "id": 10,
+        "datatype": "xml",
         "name": "أخبار الأخيرة",
         "category": 22,
         "language": 1,
         "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "channel_id": 2,
-    "keys": "link-title-description-pubDate-category-guid",
-    "disable": "guid",
-    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
-    "datatype": "file",
-    "rss": [
-      {
-        "name": "الجزيرة نت",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
       }
     ]
   }
