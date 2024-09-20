@@ -7,7 +7,7 @@
       "english": "Al Jazeera"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/qa/al_jazeera.png",
-    "font": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/al_jazirah_bold.ttf",
+    "font": 0,
     "countries": [
       "QA"
     ],
@@ -28,7 +28,7 @@
       "english": "Alarabiya"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/Alarabiya.png",
-    "font": "",
+    "font": 0,
     "countries": [
       "SA", "AE"
     ],
