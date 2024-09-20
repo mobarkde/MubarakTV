@@ -92,5 +92,60 @@
         "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
       }
     ]
+  },
+    {
+    "id": 3,
+    "channel_id": 3,
+    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
+    "rss": [
+      {
+        "id": 11,
+        "name": "أخبار الصفحة الرئيسية",
+        "datatype": "xml",
+        "category": 6,
+        "language": 1,
+        "url": "https://www.alhadath.net/.mrss/alhadath.xml"
+      },
+      {
+        "id": 12,
+        "name": "أخبار اليمن",
+        "datatype": "xml",
+        "category": 6,
+        "language": 1,
+        "url": "https://www.alhadath.net/.mrss/alhadath/yemen.xml"
+      },
+      {
+        "id": 13,
+        "name": "أخبار سوريا",
+        "datatype": "xml",
+        "category": 6,
+        "language": 1,
+        "url": "https://www.alhadath.net/.mrss/alhadath/syria.xml"
+      },
+      {
+        "id": 14,
+        "name": "أخبار مصر",
+        "datatype": "xml",
+        "category": 6,
+        "language": 1,
+        "url": "https://www.alhadath.net/.mrss/alhadath/egypt.xml"
+      },
+      {
+        "id": 15,
+        "name": "أخبار العراق",
+        "datatype": "xml",
+        "category": 6,
+        "language": 1,
+        "url": "https://www.alhadath.net/.mrss/alhadath/iraq.xml"
+      },
+      {
+        "id": 16,
+        "name": "أخبار المغرب العربي",
+        "datatype": "xml",
+        "category": 6,
+        "language": 1,
+        "url": "https://www.alhadath.net/.mrss/alhadath/maghreb.xml"
+      }
+    ]
   }
 ]
