@@ -1,72 +1,44 @@
 [
   {
     "id": 1,
-    "channel_id": 1,
-    "keys": "title-link-guid-pubDate-dc:creator-description-content:encoded-media:content",
-    "disable": "",
-    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
-    "datatype": "xml",
-    "rss": [
-      {
-        "name": "أخبار الصفحة الرئيسية",
-        "category": 6,
-        "url": "https://www.alarabiya.net/feed/rss2/ar.xml"
-      },
-      {
-        "name": "أخبار العرب والعالم",
-        "category": 6,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml"
-      },
-      {
-        "name": "أخبار السعودية",
-        "category": 14,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/saudi-today.xml"
-      },
-      {
-        "name": "أخبار الاقتصاد (أسواق)",
-        "category": 8,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml"
-      },
-      {
-        "name": "أخبار الرياضة",
-        "category": 7,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/sport.xml"
-      },
-      {
-        "name": "أخبار منوعة",
-        "category": 22,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
-      },
-      {
-        "name": "المقالات",
-        "category": 6,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/views.xml"
-      },
-      {
-        "name": "أخبار تكنولوجيا",
-        "category": 10,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/technology.xml"
-      },
-      {
-        "name": "أخبار الأخيرة",
-        "category": 22,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
-      }
-    ]
+    "name": {
+      "name": "الجزيرة",
+      "arabic": "الجزيرة",
+      "english": "Al Jazeera"
+    },
+    "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/qa/al_jazeera.png",
+    "font": "https://github.com/mobarkde/MubarakTV/raw/main/dataset/fonts/al_jazirah_bold.ttf",
+    "countries": [
+      "QA"
+    ],
+    "categories": [
+      1, 5, 6
+    ],
+    "description": {
+      "description": "قناة الجزيرة هي قناة تلفزيونية إخبارية حكومية، تابعة لشبكة الجزيرة الإعلامية، تأسست في 1 نوفمبر 1996، ويقع مقرها في العاصمة القطرية الدوحة. في البداية بدأت بوصفها قناة فضائية للأنباء العربية والشؤون الجارية، ومنذ ذلك الحين مع نفس الاسم «الجزيرة»، توسعت القناة لتصبح شبكة إعلامية دولية بعدد من المنافذ، منها شبكة الإنترنت وقنوات تلفازية متخصصة في لغات متعددة في عدة مناطق من العالم.",
+      "arabic": "قناة الجزيرة هي قناة تلفزيونية إخبارية حكومية، تابعة لشبكة الجزيرة الإعلامية، تأسست في 1 نوفمبر 1996، ويقع مقرها في العاصمة القطرية الدوحة. في البداية بدأت بوصفها قناة فضائية للأنباء العربية والشؤون الجارية، ومنذ ذلك الحين مع نفس الاسم «الجزيرة»، توسعت القناة لتصبح شبكة إعلامية دولية بعدد من المنافذ، منها شبكة الإنترنت وقنوات تلفازية متخصصة في لغات متعددة في عدة مناطق من العالم.",
+      "english": "Al Jazeera Arabic is a Qatari state-owned Arabic-language news television network. It is based in Doha and operated by the Al Jazeera Media Network, which also operates Al Jazeera English. It is the largest news network in the Middle East and North Africa region.It was founded in 1996 by the then Emir of Qatar Sheikh Hamad bin Khalifa Al Thani."
+    }
   },
   {
-    "id": 1,
-    "channel_id": 2,
-    "keys": "link-title-description-pubDate-category-guid",
-    "disable": "guid",
-    "datatime": "E, dd MMM yyyy HH:mm:ss Z",
-    "datatype": "file",
-    "rss": [
-      {
-        "name": "الجزيرة نت",
-        "category": 6,
-        "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
-      }
-    ]
+    "id": 2,
+    "name": {
+      "name": "العربية",
+      "arabic": "العربية",
+      "english": "Alarabiya"
+    },
+    "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/Alarabiya.png",
+    "font": "",
+    "countries": [
+      "SA", "AE"
+    ],
+    "categories": [
+      1, 5, 6
+    ],
+    "description": {
+      "description": "العربية هي قناة إخبارية باللغة العربية في مدينة دبي الإعلامية في الإمارات العربية المتحدة.",
+      "arabic": "العربية هي قناة إخبارية باللغة العربية في مدينة دبي الإعلامية في الإمارات العربية المتحدة.",
+      "english": "Al-Arabiya is an Arabic-language news channel in Dubai Media City in the United Arab Emirates."
+    }
   }
 ]
