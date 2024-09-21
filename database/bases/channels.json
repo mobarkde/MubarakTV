@@ -49,7 +49,7 @@
       "english": "Alhadath"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/alhadath.png",
-    "font": "",
+    "font": 0,
     "countries": [
       "SA",
       "AE"
