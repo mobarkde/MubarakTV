@@ -2,7 +2,7 @@
   {
     "id": 1,
     "channel_id": 1,
-    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
+    "datetime": "E, dd MMM yyyy HH:mm:ss XXX",
     "rss": [
       {
         "id": 1,
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "channel_id": 2,
-    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
+    "datetime": "E, dd MMM yyyy HH:mm:ss XXX",
     "rss": [
       {
         "id": 2,
@@ -96,7 +96,7 @@
     {
     "id": 3,
     "channel_id": 3,
-    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
+    "datetime": "E, dd MMM yyyy HH:mm:ss XXX",
     "rss": [
       {
         "id": 11,
