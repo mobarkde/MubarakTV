@@ -40,29 +40,5 @@
       "arabic": "العربية هي قناة إخبارية باللغة العربية في مدينة دبي الإعلامية في الإمارات العربية المتحدة.",
       "english": "Al-Arabiya is an Arabic-language news channel in Dubai Media City in the United Arab Emirates."
     }
-  },
-    {
-    "id": 3,
-    "name": {
-      "name": "الحدث",
-      "arabic": "الحدث",
-      "english": "Alhadath"
-    },
-    "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/alhadath.png",
-    "font": 0,
-    "countries": [
-      "SA",
-      "AE"
-    ],
-    "categories": [
-      1,
-      5,
-      6
-    ],
-    "description": {
-      "description": "الحدة هي قناة تفاعلية للأخبار السعودية التي تركز على الأحداث السياسية في المنطقة العربية.",
-      "arabic": "الحدة هي قناة تفاعلية للأخبار السعودية التي تركز على الأحداث السياسية في المنطقة العربية.",
-      "english": "Al-Hadath is a Saudi news interactive channel focusing on political events in the Arab region."
-    }
   }
 ]
