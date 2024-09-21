@@ -861,7 +861,7 @@
         }
     },
     {
-        "id": 26,
+        "id": 25,
         "code": "BM",
         "name": {
             "name": "Bermuda",
@@ -898,7 +898,7 @@
         }
     },
     {
-        "id": 27,
+        "id": 26,
         "code": "BT",
         "name": {
             "name": "भूटान",
@@ -934,7 +934,7 @@
         }
     },
     {
-        "id": 28,
+        "id": 27,
         "code": "BO",
         "name": {
             "name": "Bolivia",
@@ -971,7 +971,7 @@
         }
     },
     {
-        "id": 29,
+        "id": 28,
         "code": "BQ",
         "name": {
             "name": "Caribisch Nederland",
@@ -1006,7 +1006,7 @@
         }
     },
     {
-        "id": 30,
+        "id": 29,
         "code": "BA",
         "name": {
             "name": "Bosna i Hercegovina",
@@ -1043,7 +1043,7 @@
         }
     },
     {
-        "id": 32,
+        "id": 30,
         "code": "BW",
         "name": {
             "name": "Botswana",
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "id": 33,
+        "id": 31,
         "code": "BR",
         "name": {
             "name": "Brasil",
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "id": 34,
+        "id": 32,
         "code": "IO",
         "name": {
             "name": "British Indian Ocean Territory",
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "id": 35,
+        "id": 33,
         "code": "BN",
         "name": {
             "name": "Brunei Darussalam",
@@ -1189,7 +1189,7 @@
         }
     },
     {
-        "id": 36,
+        "id": 34,
         "code": "BG",
         "name": {
             "name": "България",
@@ -1225,7 +1225,7 @@
         }
     },
     {
-        "id": 37,
+        "id": 35,
         "code": "BF",
         "name": {
             "name": "Burkina Faso",
@@ -1262,7 +1262,7 @@
         }
     },
     {
-        "id": 38,
+        "id": 36,
         "code": "BI",
         "name": {
             "name": "Burundi",
@@ -1298,7 +1298,7 @@
         }
     },
     {
-        "id": 39,
+        "id": 37,
         "code": "CV",
         "name": {
             "name": "Cabo Verde",
@@ -1334,7 +1334,7 @@
         }
     },
     {
-        "id": 40,
+        "id": 38,
         "code": "KH",
         "name": {
             "name": "កម្ពុជា",
@@ -1370,7 +1370,7 @@
         }
     },
     {
-        "id": 41,
+        "id": 39,
         "code": "CM",
         "name": {
             "name": "Cameroun",
@@ -1407,7 +1407,7 @@
         }
     },
     {
-        "id": 42,
+        "id": 40,
         "code": "CA",
         "name": {
             "name": "Canada",
@@ -1444,7 +1444,7 @@
         }
     },
     {
-        "id": 43,
+        "id": 41,
         "code": "KY",
         "name": {
             "name": "Cayman Islands",
@@ -1481,7 +1481,7 @@
         }
     },
     {
-        "id": 44,
+        "id": 42,
         "code": "CF",
         "name": {
             "name": "République centrafricaine",
@@ -1518,7 +1518,7 @@
         }
     },
     {
-        "id": 45,
+        "id": 43,
         "code": "TD",
         "name": {
             "name": "Tchad",
@@ -1555,43 +1555,7 @@
         }
     },
     {
-        "id": 47,
-        "code": "CV",
-        "name": {
-            "name": "Cabo Verde",
-            "arabic": "الرأس الأخضر",
-            "english": "Cape Verde"
-        },
-        "capital": "Praia",
-        "continent": "Africa",
-        "dialCode": "+238",
-        "languages": "pt",
-        "currency": "CVE",
-        "population": 531239,
-        "flag": {
-            "image": "cv.png",
-            "emoji": "🇨🇻"
-        },
-        "location": {
-            "latitude": 16.0,
-            "longitude": -24.0
-        },
-        "area": {
-            "water": 0.01,
-            "land": 0.99,
-            "total": 4033
-        },
-        "religion": {
-            "christianity": 0.9,
-            "other": 0.1
-        },
-        "time_zone": {
-            "winter": "-1",
-            "summer": "-1"
-        }
-    },
-    {
-        "id": 48,
+        "id": 44,
         "code": "CL",
         "name": {
             "name": "Chile",
@@ -1628,7 +1592,7 @@
         }
     },
     {
-        "id": 49,
+        "id": 45,
         "code": "CN",
         "name": {
             "name": "中国",
@@ -1666,7 +1630,7 @@
         }
     },
     {
-        "id": 50,
+        "id": 46,
         "code": "CX",
         "name": {
             "name": "Christmas Island",
@@ -1703,7 +1667,7 @@
         }
     },
     {
-        "id": 51,
+        "id": 47,
         "code": "CC",
         "name": {
             "name": "Cocos (Keeling) Islands",
@@ -1740,7 +1704,7 @@
         }
     },
     {
-        "id": 52,
+        "id": 48,
         "code": "CO",
         "name": {
             "name": "Colombia",
@@ -1777,7 +1741,7 @@
         }
     },
     {
-        "id": 53,
+        "id": 49,
         "code": "KM",
         "name": {
             "name": "Comores",
@@ -1812,7 +1776,7 @@
         }
     },
     {
-        "id": 54,
+        "id": 50,
         "code": "CK",
         "name": {
             "name": "Cook Islands",
@@ -1848,7 +1812,7 @@
         }
     },
     {
-        "id": 55,
+        "id": 51,
         "code": "CR",
         "name": {
             "name": "Costa Rica",
@@ -1885,7 +1849,7 @@
         }
     },
     {
-        "id": 56,
+        "id": 52,
         "code": "HR",
         "name": {
             "name": "Hrvatska",
@@ -1922,7 +1886,7 @@
         }
     },
     {
-        "id": 57,
+        "id": 53,
         "code": "CU",
         "name": {
             "name": "Cuba",
@@ -1959,7 +1923,7 @@
         }
     },
     {
-        "id": 58,
+        "id": 54,
         "code": "CW",
         "name": {
             "name": "Curaçao",
@@ -1996,7 +1960,7 @@
         }
     },
     {
-        "id": 59,
+        "id": 55,
         "code": "CY",
         "name": {
             "name": "Κύπρος",
@@ -2033,7 +1997,7 @@
         }
     },
     {
-        "id": 60,
+        "id": 56,
         "code": "CZ",
         "name": {
             "name": "Česko",
@@ -2070,7 +2034,7 @@
         }
     },
     {
-        "id": 61,
+        "id": 57,
         "code": "CI",
         "name": {
             "name": "Côte d'Ivoire",
@@ -2107,7 +2071,7 @@
         }
     },
     {
-        "id": 62,
+        "id": 58,
         "code": "CD",
         "name": {
             "name": "République démocratique du Congo",
@@ -2144,7 +2108,7 @@
         }
     },
     {
-        "id": 63,
+        "id": 59,
         "code": "DK",
         "name": {
             "name": "Danmark",
@@ -2180,7 +2144,7 @@
         }
     },
     {
-        "id": 64,
+        "id": 60,
         "code": "DJ",
         "name": {
             "name": "Djibouti",
@@ -2216,7 +2180,7 @@
         }
     },
     {
-        "id": 65,
+        "id": 61,
         "code": "DM",
         "name": {
             "name": "Dominica",
@@ -2253,44 +2217,7 @@
         }
     },
     {
-        "id": 66,
-        "code": "CV",
-        "name": {
-            "name": "Cabo Verde",
-            "arabic": "الرأس الأخضر",
-            "english": "Cape Verde"
-        },
-        "capital": "Praia",
-        "continent": "Africa",
-        "dialCode": "+238",
-        "languages": "pt",
-        "currency": "CVE",
-        "population": 550000,
-        "flag": {
-            "image": "cv.png",
-            "emoji": "🇨🇻"
-        },
-        "location": {
-            "latitude": 16.0,
-            "longitude": -24.0
-        },
-        "area": {
-            "water": 0.01,
-            "land": 0.99,
-            "total": 4033
-        },
-        "religion": {
-            "christianity": 0.9,
-            "no_religion": 0.08,
-            "other": 0.02
-        },
-        "time_zone": {
-            "winter": "-1",
-            "summer": "-1"
-        }
-    },
-    {
-        "id": 67,
+        "id": 62,
         "code": "DO",
         "name": {
             "name": "República Dominicana",
@@ -2327,7 +2254,7 @@
         }
     },
     {
-        "id": 68,
+        "id": 63,
         "code": "EC",
         "name": {
             "name": "Ecuador",
@@ -2364,7 +2291,7 @@
         }
     },
     {
-        "id": 69,
+        "id": 64,
         "code": "EG",
         "name": {
             "name": "مصر",
@@ -2400,7 +2327,7 @@
         }
     },
     {
-        "id": 70,
+        "id": 65,
         "code": "SV",
         "name": {
             "name": "El Salvador",
@@ -2436,7 +2363,7 @@
         }
     },
     {
-        "id": 71,
+        "id": 66,
         "code": "GB",
         "name": {
             "name": "United Kingdom of Great Britain and Northern Ireland",
@@ -2473,7 +2400,7 @@
         }
     },
     {
-        "id": 72,
+        "id": 67,
         "code": "GQ",
         "name": {
             "name": "Guinea Ecuatorial",
@@ -2509,7 +2436,7 @@
         }
     },
     {
-        "id": 73,
+        "id": 68,
         "code": "ER",
         "name": {
             "name": "ኤርትራ",
@@ -2545,7 +2472,7 @@
         }
     },
     {
-        "id": 74,
+        "id": 69,
         "code": "EE",
         "name": {
             "name": "Eesti",
@@ -2581,7 +2508,7 @@
         }
     },
     {
-        "id": 75,
+        "id": 70,
         "code": "SZ",
         "name": {
             "name": "Eswatini",
@@ -2617,7 +2544,7 @@
         }
     },
     {
-        "id": 76,
+        "id": 71,
         "code": "ET",
         "name": {
             "name": "ኢትዮጵያ",
@@ -2654,7 +2581,7 @@
         }
     },
     {
-        "id": 77,
+        "id": 72,
         "code": "FK",
         "name": {
             "name": "Falkland Islands (Malvinas)",
@@ -2690,7 +2617,7 @@
         }
     },
     {
-        "id": 78,
+        "id": 73,
         "code": "FO",
         "name": {
             "name": "Føroyar",
@@ -2726,7 +2653,7 @@
         }
     },
     {
-        "id": 79,
+        "id": 74,
         "code": "FM",
         "name": {
             "name": "Micronesia",
@@ -2762,7 +2689,7 @@
         }
     },
     {
-        "id": 80,
+        "id": 75,
         "code": "FJ",
         "name": {
             "name": "Fiji",
@@ -2800,7 +2727,7 @@
         }
     },
     {
-        "id": 81,
+        "id": 76,
         "code": "FI",
         "name": {
             "name": "Suomi",
@@ -2836,7 +2763,7 @@
         }
     },
     {
-        "id": 82,
+        "id": 77,
         "code": "FR",
         "name": {
             "name": "France",
@@ -2873,7 +2800,7 @@
         }
     },
     {
-        "id": 83,
+        "id": 78,
         "code": "GF",
         "name": {
             "name": "Guyane",
@@ -2910,7 +2837,7 @@
         }
     },
     {
-        "id": 84,
+        "id": 79,
         "code": "PF",
         "name": {
             "name": "Polynésie française",
@@ -2947,43 +2874,7 @@
         }
     },
     {
-        "id": 85,
-        "code": "CV",
-        "name": {
-            "name": "Cabo Verde",
-            "arabic": "الرأس الأخضر",
-            "english": "Cape Verde"
-        },
-        "capital": "Praia",
-        "continent": "Africa",
-        "dialCode": "+238",
-        "languages": "pt",
-        "currency": "CVE",
-        "population": 600000,
-        "flag": {
-            "image": "cv.png",
-            "emoji": "🇨🇻"
-        },
-        "location": {
-            "latitude": 16.0,
-            "longitude": -24.0
-        },
-        "area": {
-            "water": 0.02,
-            "land": 0.98,
-            "total": 4033
-        },
-        "religion": {
-            "christianity": 0.9,
-            "no_religion": 0.1
-        },
-        "time_zone": {
-            "winter": "-1",
-            "summer": "-1"
-        }
-    },
-    {
-        "id": 86,
+        "id": 80,
         "code": "TF",
         "name": {
             "name": "Terres australes et antarctiques françaises",
@@ -3019,7 +2910,7 @@
         }
     },
     {
-        "id": 87,
+        "id": 81,
         "code": "GA",
         "name": {
             "name": "Gabon",
@@ -3056,7 +2947,7 @@
         }
     },
     {
-        "id": 88,
+        "id": 82,
         "code": "GM",
         "name": {
             "name": "Gambia",
@@ -3093,7 +2984,7 @@
         }
     },
     {
-        "id": 89,
+        "id": 83,
         "code": "GE",
         "name": {
             "name": "საქართველო",
@@ -3130,7 +3021,7 @@
         }
     },
     {
-        "id": 90,
+        "id": 84,
         "code": "DE",
         "name": {
             "name": "Deutschland",
@@ -3169,7 +3060,7 @@
         }
     },
     {
-        "id": 91,
+        "id": 85,
         "code": "GH",
         "name": {
             "name": "Ghana",
@@ -3207,7 +3098,7 @@
         }
     },
     {
-        "id": 92,
+        "id": 86,
         "code": "GI",
         "name": {
             "name": "Gibraltar",
@@ -3245,7 +3136,7 @@
         }
     },
     {
-        "id": 93,
+        "id": 87,
         "code": "GR",
         "name": {
             "name": "Ελλάδα",
@@ -3282,7 +3173,7 @@
         }
     },
     {
-        "id": 94,
+        "id": 88,
         "code": "GL",
         "name": {
             "name": "Kalaallit Nunaat",
@@ -3318,7 +3209,7 @@
         }
     },
     {
-        "id": 95,
+        "id": 89,
         "code": "GD",
         "name": {
             "name": "Grenada",
@@ -3354,7 +3245,7 @@
         }
     },
     {
-        "id": 96,
+        "id": 90,
         "code": "GP",
         "name": {
             "name": "Guadeloupe",
@@ -3390,7 +3281,7 @@
         }
     },
     {
-        "id": 97,
+        "id": 91,
         "code": "GU",
         "name": {
             "name": "Guam",
@@ -3426,7 +3317,7 @@
         }
     },
     {
-        "id": 98,
+        "id": 92,
         "code": "GT",
         "name": {
             "name": "Guatemala",
@@ -3463,7 +3354,7 @@
         }
     },
     {
-        "id": 99,
+        "id": 93,
         "code": "GG",
         "name": {
             "name": "Guernsey",
@@ -3499,7 +3390,7 @@
         }
     },
     {
-        "id": 100,
+        "id": 94,
         "code": "GN",
         "name": {
             "name": "Guinée",
@@ -3536,7 +3427,7 @@
         }
     },
     {
-        "id": 101,
+        "id": 95,
         "code": "GW",
         "name": {
             "name": "Guiné-Bissau",
@@ -3573,7 +3464,7 @@
         }
     },
     {
-        "id": 102,
+        "id": 96,
         "code": "GY",
         "name": {
             "name": "Guyana",
@@ -3611,7 +3502,7 @@
         }
     },
     {
-        "id": 103,
+        "id": 97,
         "code": "HT",
         "name": {
             "name": "Haïti",
@@ -3648,43 +3539,7 @@
         }
     },
     {
-        "id": 104,
-        "code": "CV",
-        "name": {
-            "name": "Cabo Verde",
-            "arabic": "الرأس الأخضر",
-            "english": "Cabo Verde"
-        },
-        "capital": "Praia",
-        "continent": "Africa",
-        "dialCode": "+238",
-        "languages": "pt",
-        "currency": "CVE",
-        "population": 550000,
-        "flag": {
-            "image": "cv.png",
-            "emoji": "🇨🇻"
-        },
-        "location": {
-            "latitude": 16.0,
-            "longitude": -24.0
-        },
-        "area": {
-            "water": 0.01,
-            "land": 0.99,
-            "total": 4033
-        },
-        "religion": {
-            "christianity": 0.9,
-            "other": 0.1
-        },
-        "time_zone": {
-            "winter": "-1",
-            "summer": "-1"
-        }
-    },
-    {
-        "id": 105,
+        "id": 98,
         "code": "VA",
         "name": {
             "name": "Città del Vaticano",
@@ -3719,7 +3574,7 @@
         }
     },
     {
-        "id": 106,
+        "id": 99,
         "code": "HN",
         "name": {
             "name": "Honduras",
@@ -3755,7 +3610,7 @@
         }
     },
     {
-        "id": 107,
+        "id": 100,
         "code": "HK",
         "name": {
             "name": "香港",
@@ -3793,7 +3648,7 @@
         }
     },
     {
-        "id": 108,
+        "id": 101,
         "code": "HU",
         "name": {
             "name": "Magyarország",
@@ -3830,7 +3685,7 @@
         }
     },
     {
-        "id": 109,
+        "id": 102,
         "code": "IS",
         "name": {
             "name": "Ísland",
@@ -3866,7 +3721,7 @@
         }
     },
     {
-        "id": 110,
+        "id": 103,
         "code": "IN",
         "name": {
             "name": "भारत",
@@ -3906,7 +3761,7 @@
         }
     },
     {
-        "id": 111,
+        "id": 104,
         "code": "ID",
         "name": {
             "name": 360,
@@ -3945,7 +3800,7 @@
         }
     },
     {
-        "id": 112,
+        "id": 105,
         "code": "IR",
         "name": {
             "name": "ایران",
@@ -3981,7 +3836,7 @@
         }
     },
     {
-        "id": 113,
+        "id": 106,
         "code": "IQ",
         "name": {
             "name": "العراق",
@@ -4018,7 +3873,7 @@
         }
     },
     {
-        "id": 114,
+        "id": 107,
         "code": "IE",
         "name": {
             "name": "Ireland",
@@ -4054,7 +3909,7 @@
         }
     },
     {
-        "id": 115,
+        "id": 108,
         "code": "IM",
         "name": {
             "name": "Isle of Man",
@@ -4090,7 +3945,7 @@
         }
     },
     {
-        "id": 116,
+        "id": 109,
         "code": "IT",
         "name": {
             "name": "Italia",
@@ -4126,7 +3981,7 @@
         }
     },
     {
-        "id": 117,
+        "id": 110,
         "code": "JM",
         "name": {
             "name": "Jamaica",
@@ -4162,7 +4017,7 @@
         }
     },
     {
-        "id": 118,
+        "id": 111,
         "code": "JP",
         "name": {
             "name": "日本",
@@ -4200,7 +4055,7 @@
         }
     },
     {
-        "id": 119,
+        "id": 112,
         "code": "JE",
         "name": {
             "name": "Jersey",
@@ -4236,7 +4091,7 @@
         }
     },
     {
-        "id": 120,
+        "id": 113,
         "code": "JO",
         "name": {
             "name": "الأردن",
@@ -4273,7 +4128,7 @@
         }
     },
     {
-        "id": 121,
+        "id": 114,
         "code": "KZ",
         "name": {
             "name": "Қазақстан",
@@ -4310,7 +4165,7 @@
         }
     },
     {
-        "id": 122,
+        "id": 115,
         "code": "KE",
         "name": {
             "name": "Kenya",
@@ -4347,7 +4202,7 @@
         }
     },
     {
-        "id": 123,
+        "id": 116,
         "code": "KI",
         "name": {
             "name": "Kiribati",
@@ -4383,7 +4238,7 @@
         }
     },
     {
-        "id": 124,
+        "id": 117,
         "code": "XK",
         "name": {
             "name": "Kosovo",
@@ -4419,7 +4274,7 @@
         }
     },
     {
-        "id": 125,
+        "id": 118,
         "code": "KW",
         "name": {
             "name": "الكويت",
@@ -4455,7 +4310,7 @@
         }
     },
     {
-        "id": 126,
+        "id": 119,
         "code": "KG",
         "name": {
             "name": "Кыргызстан",
@@ -4492,7 +4347,7 @@
         }
     },
     {
-        "id": 127,
+        "id": 120,
         "code": "LA",
         "name": {
             "name": "ລາວ",
@@ -4529,7 +4384,7 @@
         }
     },
     {
-        "id": 128,
+        "id": 121,
         "code": "LV",
         "name": {
             "name": "Latvia",
@@ -4566,7 +4421,7 @@
         }
     },
     {
-        "id": 129,
+        "id": 122,
         "code": "LB",
         "name": {
             "name": "لبنان",
@@ -4602,7 +4457,7 @@
         }
     },
     {
-        "id": 130,
+        "id": 123,
         "code": "LS",
         "name": {
             "name": "Lesotho",
@@ -4638,7 +4493,7 @@
         }
     },
     {
-        "id": 131,
+        "id": 124,
         "code": "LR",
         "name": {
             "name": "Liberia",
@@ -4675,7 +4530,7 @@
         }
     },
     {
-        "id": 132,
+        "id": 125,
         "code": "LY",
         "name": {
             "name": "ليبيا",
@@ -4711,7 +4566,7 @@
         }
     },
     {
-        "id": 133,
+        "id": 126,
         "code": "LI",
         "name": {
             "name": "Liechtenstein",
@@ -4747,7 +4602,7 @@
         }
     },
     {
-        "id": 134,
+        "id": 127,
         "code": "LT",
         "name": {
             "name": "Lietuva",
@@ -4784,7 +4639,7 @@
         }
     },
     {
-        "id": 135,
+        "id": 128,
         "code": "LU",
         "name": {
             "name": "Luxembourg",
@@ -4821,7 +4676,7 @@
         }
     },
     {
-        "id": 136,
+        "id": 129,
         "code": "MO",
         "name": {
             "name": "澳门",
@@ -4858,7 +4713,7 @@
         }
     },
     {
-        "id": 137,
+        "id": 130,
         "code": "MG",
         "name": {
             "name": "Madagasikara",
@@ -4895,7 +4750,7 @@
         }
     },
     {
-        "id": 138,
+        "id": 131,
         "code": "MW",
         "name": {
             "name": "Malawi",
@@ -4932,7 +4787,7 @@
         }
     },
     {
-        "id": 139,
+        "id": 132,
         "code": "MY",
         "name": {
             "name": "Malaysia",
@@ -4971,7 +4826,7 @@
         }
     },
     {
-        "id": 140,
+        "id": 133,
         "code": "MV",
         "name": {
             "name": "Maldives",
@@ -5006,7 +4861,7 @@
         }
     },
     {
-        "id": 141,
+        "id": 134,
         "code": "ML",
         "name": {
             "name": "Mali",
@@ -5043,7 +4898,7 @@
         }
     },
     {
-        "id": 142,
+        "id": 135,
         "code": "MT",
         "name": {
             "name": "Malta",
@@ -5079,7 +4934,7 @@
         }
     },
     {
-        "id": 143,
+        "id": 136,
         "code": "MH",
         "name": {
             "name": "Marshall Islands",
@@ -5115,7 +4970,7 @@
         }
     },
     {
-        "id": 144,
+        "id": 137,
         "code": "MQ",
         "name": {
             "name": "Martinique",
@@ -5151,7 +5006,7 @@
         }
     },
     {
-        "id": 145,
+        "id": 138,
         "code": "MR",
         "name": {
             "name": "موريتانيا",
@@ -5186,7 +5041,7 @@
         }
     },
     {
-        "id": 146,
+        "id": 139,
         "code": "MU",
         "name": {
             "name": "Mauritius",
@@ -5225,7 +5080,7 @@
         }
     },
     {
-        "id": 147,
+        "id": 140,
         "code": "YT",
         "name": {
             "name": "Mayotte",
@@ -5262,7 +5117,7 @@
         }
     },
     {
-        "id": 148,
+        "id": 141,
         "code": "MX",
         "name": {
             "name": "México",
@@ -5298,7 +5153,7 @@
         }
     },
     {
-        "id": 149,
+        "id": 142,
         "code": "MD",
         "name": {
             "name": "Republica Moldova",
@@ -5334,7 +5189,7 @@
         }
     },
     {
-        "id": 150,
+        "id": 143,
         "code": "MC",
         "name": {
             "name": "Monaco",
@@ -5370,7 +5225,7 @@
         }
     },
     {
-        "id": 151,
+        "id": 144,
         "code": "MN",
         "name": {
             "name": "Mongolia",
@@ -5407,7 +5262,7 @@
         }
     },
     {
-        "id": 152,
+        "id": 145,
         "code": "ME",
         "name": {
             "name": "Crna Gora",
@@ -5445,7 +5300,7 @@
         }
     },
     {
-        "id": 153,
+        "id": 146,
         "code": "MS",
         "name": {
             "name": "Montserrat",
@@ -5481,7 +5336,7 @@
         }
     },
     {
-        "id": 154,
+        "id": 147,
         "code": "MA",
         "name": {
             "name": "المغرب",
@@ -5517,7 +5372,7 @@
         }
     },
     {
-        "id": 155,
+        "id": 148,
         "code": "MZ",
         "name": {
             "name": "Moçambique",
@@ -5554,7 +5409,7 @@
         }
     },
     {
-        "id": 156,
+        "id": 149,
         "code": "MM",
         "name": {
             "name": "Myanmar",
@@ -5592,7 +5447,7 @@
         }
     },
     {
-        "id": 157,
+        "id": 150,
         "code": "NA",
         "name": {
             "name": "Namibia",
@@ -5628,7 +5483,7 @@
         }
     },
     {
-        "id": 158,
+        "id": 151,
         "code": "NR",
         "name": {
             "name": "Nauru",
@@ -5664,7 +5519,7 @@
         }
     },
     {
-        "id": 159,
+        "id": 152,
         "code": "NP",
         "name": {
             "name": "Nepal",
@@ -5703,7 +5558,7 @@
         }
     },
     {
-        "id": 160,
+        "id": 153,
         "code": "NL",
         "name": {
             "name": "Nederland",
@@ -5741,7 +5596,7 @@
         }
     },
     {
-        "id": 161,
+        "id": 154,
         "code": "NC",
         "name": {
             "name": "Nouvelle-Calédonie",
@@ -5777,7 +5632,7 @@
         }
     },
     {
-        "id": 162,
+        "id": 155,
         "code": "NZ",
         "name": {
             "name": "New Zealand",
@@ -5814,7 +5669,7 @@
         }
     },
     {
-        "id": 163,
+        "id": 156,
         "code": "NI",
         "name": {
             "name": "Nicaragua",
@@ -5850,7 +5705,7 @@
         }
     },
     {
-        "id": 164,
+        "id": 157,
         "code": "NE",
         "name": {
             "name": "Niger",
@@ -5887,7 +5742,7 @@
         }
     },
     {
-        "id": 165,
+        "id": 158,
         "code": "NG",
         "name": {
             "name": "Nigeria",
@@ -5923,7 +5778,7 @@
         }
     },
     {
-        "id": 166,
+        "id": 159,
         "code": "NU",
         "name": {
             "name": "Niue",
@@ -5959,7 +5814,7 @@
         }
     },
     {
-        "id": 167,
+        "id": 160,
         "code": "NF",
         "name": {
             "name": "Norfolk Island",
@@ -5995,7 +5850,7 @@
         }
     },
     {
-        "id": 168,
+        "id": 161,
         "code": "KP",
         "name": {
             "name": "조선민주주의인민공화국",
@@ -6030,7 +5885,7 @@
         }
     },
     {
-        "id": 169,
+        "id": 162,
         "code": "MK",
         "name": {
             "name": "North Macedonia",
@@ -6067,7 +5922,7 @@
         }
     },
     {
-        "id": 170,
+        "id": 163,
         "code": "GB-NIR",
         "name": {
             "name": "Northern Ireland",
@@ -6103,7 +5958,7 @@
         }
     },
     {
-        "id": 171,
+        "id": 164,
         "code": "MP",
         "name": {
             "name": "Northern Mariana Islands",
@@ -6139,7 +5994,7 @@
         }
     },
     {
-        "id": 172,
+        "id": 165,
         "code": "NO",
         "name": {
             "name": "Norge",
@@ -6175,7 +6030,7 @@
         }
     },
     {
-        "id": 173,
+        "id": 166,
         "code": "OM",
         "name": {
             "name": "عُمان",
@@ -6211,7 +6066,7 @@
         }
     },
     {
-        "id": 174,
+        "id": 167,
         "code": "PK",
         "name": {
             "name": "Pakistan",
@@ -6247,7 +6102,7 @@
         }
     },
     {
-        "id": 175,
+        "id": 168,
         "code": "PW",
         "name": {
             "name": "Palau",
@@ -6283,7 +6138,7 @@
         }
     },
     {
-        "id": 176,
+        "id": 169,
         "code": "PA",
         "name": {
             "name": "Panamá",
@@ -6319,7 +6174,7 @@
         }
     },
     {
-        "id": 177,
+        "id": 170,
         "code": "PG",
         "name": {
             "name": "Papua New Guinea",
@@ -6355,7 +6210,7 @@
         }
     },
     {
-        "id": 178,
+        "id": 171,
         "code": "PY",
         "name": {
             "name": "Paraguay",
@@ -6391,7 +6246,7 @@
         }
     },
     {
-        "id": 179,
+        "id": 172,
         "code": "PE",
         "name": {
             "name": "Perú",
@@ -6427,7 +6282,7 @@
         }
     },
     {
-        "id": 180,
+        "id": 173,
         "code": "PH",
         "name": {
             "name": "Philippines",
@@ -6463,7 +6318,7 @@
         }
     },
     {
-        "id": 181,
+        "id": 174,
         "code": "PN",
         "name": {
             "name": "Pitcairn",
@@ -6499,7 +6354,7 @@
         }
     },
     {
-        "id": 182,
+        "id": 175,
         "code": "PL",
         "name": {
             "name": "Polska",
@@ -6535,7 +6390,7 @@
         }
     },
     {
-        "id": 183,
+        "id": 176,
         "code": "PT",
         "name": {
             "name": "Portugal",
@@ -6571,7 +6426,7 @@
         }
     },
     {
-        "id": 184,
+        "id": 177,
         "code": "PR",
         "name": {
             "name": "Puerto Rico",
@@ -6607,7 +6462,7 @@
         }
     },
     {
-        "id": 185,
+        "id": 178,
         "code": "QA",
         "name": {
             "name": "قطر",
@@ -6643,7 +6498,7 @@
         }
     },
     {
-        "id": 186,
+        "id": 179,
         "code": "CG",
         "name": {
             "name": "République du Congo",
@@ -6679,7 +6534,7 @@
         }
     },
     {
-        "id": 187,
+        "id": 180,
         "code": "RO",
         "name": {
             "name": "România",
@@ -6715,7 +6570,7 @@
         }
     },
     {
-        "id": 188,
+        "id": 181,
         "code": "RU",
         "name": {
             "name": "Россия",
@@ -6751,7 +6606,7 @@
         }
     },
     {
-        "id": 189,
+        "id": 182,
         "code": "RW",
         "name": {
             "name": "Rwanda",
@@ -6787,7 +6642,7 @@
         }
     },
     {
-        "id": 190,
+        "id": 183,
         "code": "RE",
         "name": {
             "name": "La Réunion",
@@ -6823,7 +6678,7 @@
         }
     },
     {
-        "id": 191,
+        "id": 184,
         "code": "BL",
         "name": {
             "name": "Saint-Barthélemy",
@@ -6859,7 +6714,7 @@
         }
     },
     {
-        "id": 192,
+        "id": 185,
         "code": "SH",
         "name": {
             "name": "Saint Helena, Ascension and Tristan da Cunha",
@@ -6895,7 +6750,7 @@
         }
     },
     {
-        "id": 193,
+        "id": 186,
         "code": "KN",
         "name": {
             "name": "Saint Kitts and Nevis",
@@ -6931,7 +6786,7 @@
         }
     },
     {
-        "id": 194,
+        "id": 187,
         "code": "LC",
         "name": {
             "name": "Saint Lucia",
@@ -6967,7 +6822,7 @@
         }
     },
     {
-        "id": 195,
+        "id": 188,
         "code": "MF",
         "name": {
             "name": "Saint-Martin",
@@ -7003,7 +6858,7 @@
         }
     },
     {
-        "id": 196,
+        "id": 189,
         "code": "PM",
         "name": {
             "name": "Saint-Pierre-et-Miquelon",
@@ -7039,7 +6894,7 @@
         }
     },
     {
-        "id": 197,
+        "id": 190,
         "code": "VC",
         "name": {
             "name": "Saint Vincent and the Grenadines",
@@ -7075,7 +6930,7 @@
         }
     },
     {
-        "id": 198,
+        "id": 191,
         "code": "WS",
         "name": {
             "name": "Samoa",
@@ -7111,7 +6966,7 @@
         }
     },
     {
-        "id": 199,
+        "id": 192,
         "code": "SM",
         "name": {
             "name": "San Marino",
@@ -7147,7 +7002,7 @@
         }
     },
     {
-        "id": 200,
+        "id": 193,
         "code": "ST",
         "name": {
             "name": "São Tomé e Príncipe",
@@ -7183,7 +7038,7 @@
         }
     },
     {
-        "id": 201,
+        "id": 194,
         "code": "SA",
         "name": {
             "name": "السعودية",
@@ -7219,43 +7074,7 @@
         }
     },
     {
-        "id": 202,
-        "code": "GB",
-        "name": {
-            "name": "United Kingdom of Great Britain and Northern Ireland",
-            "arabic": "أسكتلندا",
-            "english": "Scotland"
-        },
-        "capital": "Edinburgh",
-        "continent": "Europe",
-        "dialCode": "+44",
-        "languages": "en",
-        "currency": "GBP",
-        "population": 5400000,
-        "flag": {
-            "image": "gb.png",
-            "emoji": "🏴"
-        },
-        "location": {
-            "latitude": 56.0,
-            "longitude": -4.0
-        },
-        "area": {
-            "water": 0.05,
-            "land": 0.95,
-            "total": 77933
-        },
-        "religion": {
-            "christianity": 0.7,
-            "other": 0.3
-        },
-        "time_zone": {
-            "winter": "+0",
-            "summer": "+1"
-        }
-    },
-    {
-        "id": 203,
+        "id": 195,
         "code": "SN",
         "name": {
             "name": "Sénégal",
@@ -7291,7 +7110,7 @@
         }
     },
     {
-        "id": 204,
+        "id": 196,
         "code": "RS",
         "name": {
             "name": "Srbija",
@@ -7327,7 +7146,7 @@
         }
     },
     {
-        "id": 205,
+        "id": 197,
         "code": "SC",
         "name": {
             "name": "Seychelles",
@@ -7363,7 +7182,7 @@
         }
     },
     {
-        "id": 206,
+        "id": 198,
         "code": "SL",
         "name": {
             "name": "Sierra Leone",
@@ -7400,7 +7219,7 @@
         }
     },
     {
-        "id": 207,
+        "id": 199,
         "code": "SG",
         "name": {
             "name": "Singapore",
@@ -7440,7 +7259,7 @@
         }
     },
     {
-        "id": 208,
+        "id": 200,
         "code": "SX",
         "name": {
             "name": "Sint Maarten",
@@ -7476,7 +7295,7 @@
         }
     },
     {
-        "id": 209,
+        "id": 201,
         "code": "SK",
         "name": {
             "name": "Slovensko",
@@ -7512,43 +7331,7 @@
         }
     },
     {
-        "id": 210,
-        "code": "SH",
-        "name": {
-            "name": "Saint Helena, Ascension and Tristan da Cunha",
-            "arabic": "سانت هيلينا، أسينشن وتريستان دا كونا",
-            "english": "Saint Helena, Ascension and Tristan da Cunha"
-        },
-        "capital": "Jamestown",
-        "continent": "Africa",
-        "dialCode": "+290",
-        "languages": "en",
-        "currency": "SHP",
-        "population": 7000,
-        "flag": {
-            "image": "sh.png",
-            "emoji": "🇱🇸"
-        },
-        "location": {
-            "latitude": -15.933,
-            "longitude": -5.717
-        },
-        "area": {
-            "water": 0.0,
-            "land": 0.0,
-            "total": 394
-        },
-        "religion": {
-            "christianity": 0.9,
-            "other": 0.1
-        },
-        "time_zone": {
-            "winter": "-1",
-            "summer": "-1"
-        }
-    },
-    {
-        "id": 211,
+        "id": 202,
         "code": "SI",
         "name": {
             "name": "Slovenija",
@@ -7584,7 +7367,7 @@
         }
     },
     {
-        "id": 212,
+        "id": 203,
         "code": "SB",
         "name": {
             "name": "Solomon Islands",
@@ -7620,7 +7403,7 @@
         }
     },
     {
-        "id": 213,
+        "id": 204,
         "code": "SO",
         "name": {
             "name": "Somalia",
@@ -7655,7 +7438,7 @@
         }
     },
     {
-        "id": 214,
+        "id": 205,
         "code": "ZA",
         "name": {
             "name": "South Africa",
@@ -7691,7 +7474,7 @@
         }
     },
     {
-        "id": 215,
+        "id": 206,
         "code": "GS",
         "name": {
             "name": "South Georgia and the South Sandwich Islands",
@@ -7726,7 +7509,7 @@
         }
     },
     {
-        "id": 216,
+        "id": 207,
         "code": "KR",
         "name": {
             "name": "대한민국",
@@ -7764,7 +7547,7 @@
         }
     },
     {
-        "id": 217,
+        "id": 208,
         "code": "SS",
         "name": {
             "name": "South Sudan",
@@ -7801,7 +7584,7 @@
         }
     },
     {
-        "id": 218,
+        "id": 209,
         "code": "ES",
         "name": {
             "name": "España",
@@ -7837,7 +7620,7 @@
         }
     },
     {
-        "id": 219,
+        "id": 210,
         "code": "LK",
         "name": {
             "name": "Sri Lanka",
@@ -7875,7 +7658,7 @@
         }
     },
     {
-        "id": 220,
+        "id": 211,
         "code": "PS",
         "name": {
             "name": "فلسطين",
@@ -7911,7 +7694,7 @@
         }
     },
     {
-        "id": 221,
+        "id": 212,
         "code": "SD",
         "name": {
             "name": "السودان",
@@ -7947,7 +7730,7 @@
         }
     },
     {
-        "id": 222,
+        "id": 213,
         "code": "SR",
         "name": {
             "name": "Suriname",
@@ -7985,7 +7768,7 @@
         }
     },
     {
-        "id": 223,
+        "id": 214,
         "code": "SJ",
         "name": {
             "name": "Svalbard og Jan Mayen",
@@ -8021,7 +7804,7 @@
         }
     },
     {
-        "id": 224,
+        "id": 215,
         "code": "SE",
         "name": {
             "name": "Sverige",
@@ -8057,7 +7840,7 @@
         }
     },
     {
-        "id": 225,
+        "id": 216,
         "code": "CH",
         "name": {
             "name": "Schweiz",
@@ -8093,7 +7876,7 @@
         }
     },
     {
-        "id": 226,
+        "id": 217,
         "code": "SY",
         "name": {
             "name": "سوريا",
@@ -8130,7 +7913,7 @@
         }
     },
     {
-        "id": 227,
+        "id": 218,
         "code": "TW",
         "name": {
             "name": "中国台湾省",
@@ -8169,7 +7952,7 @@
         }
     },
     {
-        "id": 228,
+        "id": 219,
         "code": "TJ",
         "name": {
             "name": "Tajikistan",
@@ -8205,7 +7988,7 @@
         }
     },
     {
-        "id": 229,
+        "id": 220,
         "code": "TZ",
         "name": {
             "name": "Tanzania",
@@ -8242,7 +8025,7 @@
         }
     },
     {
-        "id": 230,
+        "id": 221,
         "code": "TH",
         "name": {
             "name": "ไทย",
@@ -8280,7 +8063,7 @@
         }
     },
     {
-        "id": 231,
+        "id": 222,
         "code": "TL",
         "name": {
             "name": "Timor-Leste",
@@ -8316,7 +8099,7 @@
         }
     },
     {
-        "id": 232,
+        "id": 223,
         "code": "TG",
         "name": {
             "name": "Togo",
@@ -8353,7 +8136,7 @@
         }
     },
     {
-        "id": 233,
+        "id": 224,
         "code": "TK",
         "name": {
             "name": "Tokelau",
@@ -8389,7 +8172,7 @@
         }
     },
     {
-        "id": 234,
+        "id": 225,
         "code": "TO",
         "name": {
             "name": "Tonga",
@@ -8425,7 +8208,7 @@
         }
     },
     {
-        "id": 235,
+        "id": 226,
         "code": "TT",
         "name": {
             "name": "Trinidad and Tobago",
@@ -8463,7 +8246,7 @@
         }
     },
     {
-        "id": 236,
+        "id": 227,
         "code": "TA",
         "name": {
             "name": "Tristan da Cunha",
@@ -8498,7 +8281,7 @@
         }
     },
     {
-        "id": 237,
+        "id": 228,
         "code": "TN",
         "name": {
             "name": "تونس",
@@ -8534,7 +8317,7 @@
         }
     },
     {
-        "id": 238,
+        "id": 229,
         "code": "TM",
         "name": {
             "name": "Turkmenistan",
@@ -8570,7 +8353,7 @@
         }
     },
     {
-        "id": 239,
+        "id": 230,
         "code": "TC",
         "name": {
             "name": "Turks and Caicos Islands",
@@ -8606,7 +8389,7 @@
         }
     },
     {
-        "id": 240,
+        "id": 231,
         "code": "TV",
         "name": {
             "name": "Tuvalu",
@@ -8642,7 +8425,7 @@
         }
     },
     {
-        "id": 241,
+        "id": 232,
         "code": "TR",
         "name": {
             "name": "Türkiye",
@@ -8678,7 +8461,7 @@
         }
     },
     {
-        "id": 242,
+        "id": 233,
         "code": "UG",
         "name": {
             "name": "Uganda",
@@ -8715,7 +8498,7 @@
         }
     },
     {
-        "id": 243,
+        "id": 234,
         "code": "UA",
         "name": {
             "name": "Україна",
@@ -8753,7 +8536,7 @@
         }
     },
     {
-        "id": 244,
+        "id": 235,
         "code": "AE",
         "name": {
             "name": "الإمارات العربية المتحدة",
@@ -8789,44 +8572,7 @@
         }
     },
     {
-        "id": 245,
-        "code": "GB",
-        "name": {
-            "name": "United Kingdom of Great Britain and Northern Ireland",
-            "arabic": "المملكة المتحدة",
-            "english": "United Kingdom"
-        },
-        "capital": "London",
-        "continent": "Europe",
-        "dialCode": "+44",
-        "languages": "en",
-        "currency": "GBP",
-        "population": 68000000,
-        "flag": {
-            "image": "gb.png",
-            "emoji": "🇬🇧"
-        },
-        "location": {
-            "latitude": 55.378,
-            "longitude": -3.436
-        },
-        "area": {
-            "water": 0.07,
-            "land": 0.93,
-            "total": 243610
-        },
-        "religion": {
-            "christianity": 0.59,
-            "islam": 0.05,
-            "other": 0.36
-        },
-        "time_zone": {
-            "winter": "+0",
-            "summer": "+1"
-        }
-    },
-    {
-        "id": 246,
+        "id": 236,
         "code": "US",
         "name": {
             "name": "United States of America",
@@ -8863,7 +8609,7 @@
         }
     },
     {
-        "id": 247,
+        "id": 237,
         "code": "UY",
         "name": {
             "name": "Uruguay",
@@ -8899,7 +8645,7 @@
         }
     },
     {
-        "id": 248,
+        "id": 238,
         "code": "UZ",
         "name": {
             "name": "Uzbekistan",
@@ -8935,7 +8681,7 @@
         }
     },
     {
-        "id": 249,
+        "id": 239,
         "code": "VU",
         "name": {
             "name": "Vanuatu",
@@ -8971,7 +8717,7 @@
         }
     },
     {
-        "id": 250,
+        "id": 240,
         "code": "VE",
         "name": {
             "name": "Venezuela",
@@ -9007,7 +8753,7 @@
         }
     },
     {
-        "id": 251,
+        "id": 241,
         "code": "VN",
         "name": {
             "name": "Vietnam",
@@ -9044,7 +8790,7 @@
         }
     },
     {
-        "id": 252,
+        "id": 242,
         "code": "GB-WLS",
         "name": {
             "name": "Wales",
@@ -9081,7 +8827,7 @@
         }
     },
     {
-        "id": 253,
+        "id": 243,
         "code": "WF",
         "name": {
             "name": "Wallis and Futuna",
@@ -9117,7 +8863,7 @@
         }
     },
     {
-        "id": 254,
+        "id": 244,
         "code": "EH",
         "name": {
             "name": "الصحراء الغربية",
@@ -9152,7 +8898,7 @@
         }
     },
     {
-        "id": 255,
+        "id": 245,
         "code": "YE",
         "name": {
             "name": "اليمن",
@@ -9187,7 +8933,7 @@
         }
     },
     {
-        "id": 256,
+        "id": 246,
         "code": "ZM",
         "name": {
             "name": "Zambia",
@@ -9223,7 +8969,7 @@
         }
     },
     {
-        "id": 257,
+        "id": 247,
         "code": "ZW",
         "name": {
             "name": "Zimbabwe",
