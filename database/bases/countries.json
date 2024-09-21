@@ -861,41 +861,6 @@
         }
     },
     {
-        "id": 25,
-        "code": "BS",
-        "name": {
-            "name": "Bahamas",
-            "arabic": "باهاماس",
-            "english": "The Bahamas"
-        },
-        "capital": "Nassau",
-        "continent": "North America",
-        "dialCode": "+1-242",
-        "languages": "en",
-        "currency": "BSD",
-        "population": 400516,
-        "flag": {
-            "image": "bs.png",
-            "emoji": "🇧🇸"
-        },
-        "location": {
-            "latitude": 24.25,
-            "longitude": -76.0
-        },
-        "area": {
-            "water": 0.03,
-            "land": 0.97,
-            "total": 13943
-        },
-        "religion": {
-            "christianity": 0.95
-        },
-        "time_zone": {
-            "winter": "-5",
-            "summer": "-4"
-        }
-    },
-    {
         "id": 26,
         "code": "BM",
         "name": {
@@ -1075,41 +1040,6 @@
         "time_zone": {
             "winter": "+1",
             "summer": "+2"
-        }
-    },
-    {
-        "id": 31,
-        "code": "BS",
-        "name": {
-            "name": "Bahamas",
-            "arabic": "باهاماس",
-            "english": "The Bahamas"
-        },
-        "capital": "Nassau",
-        "continent": "North America",
-        "dialCode": "+1-242",
-        "languages": "en",
-        "currency": "BSD",
-        "population": 400516,
-        "flag": {
-            "image": "bs.png",
-            "emoji": "🇧🇸"
-        },
-        "location": {
-            "latitude": 24.25,
-            "longitude": -76.0
-        },
-        "area": {
-            "water": 0.03,
-            "land": 0.97,
-            "total": 13943
-        },
-        "religion": {
-            "christianity": 0.95
-        },
-        "time_zone": {
-            "winter": "-5",
-            "summer": "-4"
         }
     },
     {
