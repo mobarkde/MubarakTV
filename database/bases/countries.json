@@ -1555,42 +1555,6 @@
         }
     },
     {
-        "id": 46,
-        "code": "BS",
-        "name": {
-            "name": "Bahamas",
-            "arabic": "الباهاما",
-            "english": "Bahamas"
-        },
-        "capital": "Nassau",
-        "continent": "North America",
-        "dialCode": "+1-242",
-        "languages": "en",
-        "currency": "BSD",
-        "population": 400516,
-        "flag": {
-            "image": "bs.png",
-            "emoji": "🇧🇸"
-        },
-        "location": {
-            "latitude": 25.034,
-            "longitude": -77.396
-        },
-        "area": {
-            "water": 0.02,
-            "land": 0.98,
-            "total": 13943
-        },
-        "religion": {
-            "christianity": 0.9,
-            "no_religion": 0.1
-        },
-        "time_zone": {
-            "winter": "-5",
-            "summer": "-4"
-        }
-    },
-    {
         "id": 47,
         "code": "CV",
         "name": {
