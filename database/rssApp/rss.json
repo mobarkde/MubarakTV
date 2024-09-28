@@ -147,5 +147,20 @@
         "url": "https://www.alhadath.net/.mrss/alhadath/maghreb.xml"
       }
     ]
+  },
+  {
+    "id": 17,
+    "channel_id": 1,
+    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
+    "rss": [
+      {
+        "id": 1,
+        "name": "الجزيرة نت",
+        "datatype": "file",
+        "category": 9,
+        "language": 2,
+        "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
+      }
+    ]
   }
 ]
