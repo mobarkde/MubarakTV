@@ -66,5 +66,26 @@
       "arabic": "الحدة هي قناة تفاعلية للأخبار السعودية التي تركز على الأحداث السياسية في المنطقة العربية.",
       "english": "Al-Hadath is a Saudi news interactive channel focusing on political events in the Arab region."
     }
+  },
+    {
+    "id": 4,
+    "name": {
+      "name": "تشرين",
+      "arabic": "تشرين",
+      "english": "Tishreen"
+    },
+    "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/logo/sy/tishreen.png",
+    "font": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sy/ic_tishreen.png",
+    "countries": [
+      "SY"
+    ],
+    "categories": [
+      3
+    ],
+    "description": {
+      "description": "جريدة تشرين صحيفة حكومية سورية يومية سياسية شاملة، تصدر عن «مؤسسة الوحدة للصحافة والطباعة والنشر» في العاصمة السورية دمشق ويرأس تحريرها محمد البيرق منذ 13 فبراير 2017 خلفًا لرغداء مارديني.صدر العدد الأول من جريدة تشرين بتاريخ 2 تشرين الأول 1975.",
+      "arabic": "جريدة تشرين صحيفة حكومية سورية يومية سياسية شاملة، تصدر عن «مؤسسة الوحدة للصحافة والطباعة والنشر» في العاصمة السورية دمشق ويرأس تحريرها محمد البيرق منذ 13 فبراير 2017 خلفًا لرغداء مارديني.صدر العدد الأول من جريدة تشرين بتاريخ 2 تشرين الأول 1975.",
+      "english": ""
+    }
   }
 ]
