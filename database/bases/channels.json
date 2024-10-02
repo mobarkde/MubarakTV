@@ -7,6 +7,7 @@
       "english": "Al Jazeera"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/qa/al_jazeera.png",
+    "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/qa/al_jazeera.png",
     "font": 0,
     "countries": [
       "QA"
@@ -28,6 +29,7 @@
       "english": "Alarabiya"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/alarabiya.png",
+    "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sa/alarabiya.png",
     "font": 0,
     "countries": [
       "SA", "AE"
@@ -49,6 +51,7 @@
       "english": "Alhadath"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/alhadath.png",
+    "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sa/alhadath.jpg",
     "font": 0,
     "countries": [
       "SA",
