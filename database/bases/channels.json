@@ -51,7 +51,7 @@
       "english": "Alhadath"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/alhadath.png",
-    "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sa/alhadath.jpg",
+    "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sa/alhadath.jpg",
     "font": 0,
     "countries": [
       "SA",
@@ -75,7 +75,7 @@
       "english": "Tishreen"
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/logo/sy/tishreen.png",
-    "font": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sy/ic_tishreen.png",
+    "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sy/ic_tishreen.png",
     "countries": [
       "SY"
     ],
