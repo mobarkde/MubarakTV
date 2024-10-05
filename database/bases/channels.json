@@ -9,9 +9,7 @@
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/qa/al_jazeera.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/qa/al_jazeera.png",
     "font": 0,
-    "countries": [
-      "QA"
-    ],
+    "countries": "QA",
     "categories": [
       1, 6
     ],
@@ -31,9 +29,7 @@
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/alarabiya.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sa/alarabiya.png",
     "font": 0,
-    "countries": [
-      "SA", "AE"
-    ],
+    "countries": "SA",
     "categories": [
       2, 5, 6
     ],
@@ -53,10 +49,7 @@
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/images/logos/sa/alhadath.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sa/alhadath.jpg",
     "font": 0,
-    "countries": [
-      "SA",
-      "AE"
-    ],
+    "countries": "SA",
     "categories": [
       5,
       9
@@ -76,9 +69,7 @@
     },
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/logo/sy/tishreen.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/refs/heads/main/dataset/images/logos/icons/sy/ic_tishreen.png",
-    "countries": [
-      "SY"
-    ],
+    "countries": "SY",
     "categories": [
       3
     ],
