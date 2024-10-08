@@ -1,334 +1,2212 @@
 [
      {
-    "id": 1,
-    "channel_id": 1,
-    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
-    "rss": [
-      {
         "id": 1,
-        "name": "الجزيرة نت",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "channel_id": 2,
-    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
-    "rss": [
-      {
+        "rss": [
+            {
+                "id": 1,
+                "name": "الجزيرة نت",
+                "language": 1,
+                "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"
+            },
+            {
+                "id": 2,
+                "name": "الجزيرة مباشر",
+                "language": 1,
+                "url": "https://www.aljazeeramubasher.net/rss.xml"
+            }
+        ]
+    },
+    {
         "id": 2,
-        "datatype": "xml",
-        "name": "أخبار الصفحة الرئيسية",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 3,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar.xml"
+            },
+            {
+                "id": 4,
+                "name": "أخبار العرب والعالم",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml"
+            },
+            {
+                "id": 5,
+                "name": "أخبار السعودية",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/saudi-today.xml"
+            },
+            {
+                "id": 6,
+                "name": "أخبار الاقتصاد (أسواق)",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml"
+            },
+            {
+                "id": 7,
+                "name": "أخبار الرياضة",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/sport.xml"
+            },
+            {
+                "id": 8,
+                "name": "أخبار منوعة",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
+            },
+            {
+                "id": 9,
+                "name": "المقالات",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/views.xml"
+            },
+            {
+                "id": 10,
+                "name": "أخبار تكنولوجيا",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/technology.xml"
+            },
+            {
+                "id": 11,
+                "name": "أخبار الأخيرة",
+                "language": 1,
+                "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
+            }
+        ]
+    },
+    {
         "id": 3,
-        "datatype": "xml",
-        "name": "أخبار العرب والعالم",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 12,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.alhadath.net/.mrss/alhadath.xml"
+            },
+            {
+                "id": 13,
+                "name": "أخبار اليمن",
+                "language": 1,
+                "url": "https://www.alhadath.net/.mrss/alhadath/yemen.xml"
+            },
+            {
+                "id": 14,
+                "name": "أخبار سوريا",
+                "language": 1,
+                "url": "https://www.alhadath.net/.mrss/alhadath/syria.xml"
+            },
+            {
+                "id": 15,
+                "name": "أخبار مصر",
+                "language": 1,
+                "url": "https://www.alhadath.net/.mrss/alhadath/egypt.xml"
+            },
+            {
+                "id": 16,
+                "name": "أخبار العراق",
+                "language": 1,
+                "url": "https://www.alhadath.net/.mrss/alhadath/iraq.xml"
+            },
+            {
+                "id": 17,
+                "name": "أخبار المغرب العربي",
+                "language": 1,
+                "url": "https://www.alhadath.net/.mrss/alhadath/maghreb.xml"
+            }
+        ]
+    },
+    {
         "id": 4,
-        "datatype": "xml",
-        "name": "أخبار السعودية",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/saudi-today.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 18,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2"
+            },
+            {
+                "id": 19,
+                "name": "الاقتصاد",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1362"
+            },
+            {
+                "id": 20,
+                "name": "محليات",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1388"
+            },
+            {
+                "id": 21,
+                "name": "تحقيقات",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=57"
+            },
+            {
+                "id": 22,
+                "name": "دنيا الرياضة",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1374"
+            },
+            {
+                "id": 23,
+                "name": "سياسة",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1377"
+            },
+            {
+                "id": 24,
+                "name": "حوادث",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1370"
+            },
+            {
+                "id": 25,
+                "name": "ميديا ومنوعات",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1393"
+            },
+            {
+                "id": 26,
+                "name": "ملفات تشرين",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=3780"
+            },
+            {
+                "id": 27,
+                "name": "آراء",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=26"
+            },
+            {
+                "id": 28,
+                "name": "الافتتاحية",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=15"
+            },
+            {
+                "id": 29,
+                "name": "بالخط العريض",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=53"
+            },
+            {
+                "id": 30,
+                "name": "بصراحة",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=54"
+            },
+            {
+                "id": 31,
+                "name": "بلا مجاملات",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=55"
+            },
+            {
+                "id": 32,
+                "name": "بين السطور",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=56"
+            },
+            {
+                "id": 33,
+                "name": "على ما يبدو",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=30"
+            },
+            {
+                "id": 34,
+                "name": "قوس قزح",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=31"
+            },
+            {
+                "id": 35,
+                "name": "نافذة للمحرر",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=46"
+            },
+            {
+                "id": 36,
+                "name": "وجهات نظر",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=47"
+            },
+            {
+                "id": 37,
+                "name": "المواطن @ نت",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1469"
+            },
+            {
+                "id": 38,
+                "name": "مجتمع",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1386"
+            },
+            {
+                "id": 39,
+                "name": "ثقافة وفن",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=18"
+            },
+            {
+                "id": 40,
+                "name": "غير مصنف",
+                "language": 1,
+                "url": "http://tishreen.news.sy/?feed=rss2&cat=1"
+            }
+        ]
+    },
+    {
         "id": 5,
-        "datatype": "xml",
-        "name": "أخبار الاقتصاد (أسواق)",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 41,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2"
+            },
+            {
+                "id": 42,
+                "name": "رئيسي",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=33"
+            },
+            {
+                "id": 43,
+                "name": "أخبار حماه",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=19"
+            },
+            {
+                "id": 44,
+                "name": "أحدث الأخبار",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=16"
+            },
+            {
+                "id": 45,
+                "name": "أعمدة الرأي",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=25"
+            },
+            {
+                "id": 46,
+                "name": "اختيار المحرر",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=26"
+            },
+            {
+                "id": 47,
+                "name": "الأخبار العاجلة",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=27"
+            },
+            {
+                "id": 48,
+                "name": "ثقافة",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=20"
+            },
+            {
+                "id": 49,
+                "name": "ردود",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=29"
+            },
+            {
+                "id": 50,
+                "name": "على المكشوف",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=21"
+            },
+            {
+                "id": 51,
+                "name": "مجتمع",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=11"
+            },
+            {
+                "id": 52,
+                "name": "من مبدعي المحافظة",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=12"
+            },
+            {
+                "id": 53,
+                "name": "منوعات",
+                "language": 1,
+                "url": "http://fedaa.alwehda.gov.sy/?feed=rss2&cat=23"
+            }
+        ]
+    },
+    {
         "id": 6,
-        "datatype": "xml",
-        "name": "أخبار الرياضة",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/sport.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 54,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2"
+            },
+            {
+                "id": 55,
+                "name": "محليات",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=2"
+            },
+            {
+                "id": 56,
+                "name": "شباب وجامعات",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=9"
+            },
+            {
+                "id": 57,
+                "name": "أحدث الأخبار",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=16"
+            },
+            {
+                "id": 58,
+                "name": "تحقيقات",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=67"
+            },
+            {
+                "id": 59,
+                "name": "أعمدة الرأي",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=72"
+            },
+            {
+                "id": 60,
+                "name": "اختيار المحرر",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=73"
+            },
+            {
+                "id": 61,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=74"
+            },
+            {
+                "id": 62,
+                "name": "ثقافة",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=5"
+            },
+            {
+                "id": 63,
+                "name": "تراث",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=11"
+            },
+            {
+                "id": 64,
+                "name": "فنون",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=10"
+            },
+            {
+                "id": 65,
+                "name": "رياضة",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=68"
+            },
+            {
+                "id": 66,
+                "name": "منوعات",
+                "language": 1,
+                "url": "http://jamahir.alwehda.gov.sy/?feed=rss2&cat=7"
+            }
+        ]
+    },
+    {
         "id": 7,
-        "datatype": "xml",
-        "name": "أخبار منوعة",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/variety.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 67,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2"
+            },
+            {
+                "id": 68,
+                "name": "محليات",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=66"
+            },
+            {
+                "id": 69,
+                "name": "عين الفرات",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=17"
+            },
+            {
+                "id": 70,
+                "name": "أخر الأخبار",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=16"
+            },
+            {
+                "id": 71,
+                "name": "أعمدة الرأي",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=68"
+            },
+            {
+                "id": 72,
+                "name": "اختيار المحرر",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=90"
+            },
+            {
+                "id": 73,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=62"
+            },
+            {
+                "id": 74,
+                "name": "تحقيقات",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=64"
+            },
+            {
+                "id": 75,
+                "name": "ثقافة",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=63"
+            },
+            {
+                "id": 76,
+                "name": "رياضة",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=24"
+            },
+            {
+                "id": 77,
+                "name": "شباب وجامعات",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=25"
+            },
+            {
+                "id": 78,
+                "name": "علوم وتكنولوجيا",
+                "language": 1,
+                "url": "http://furat.alwehda.gov.sy/?feed=rss2&cat=27"
+            }
+        ]
+    },
+    {
         "id": 8,
-        "datatype": "xml",
-        "name": "المقالات",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/views.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 79,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2"
+            },
+            {
+                "id": 80,
+                "name": "تحقيقات وَ تقارير",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=45"
+            },
+            {
+                "id": 81,
+                "name": "أحدث الأخبار",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=2"
+            },
+            {
+                "id": 82,
+                "name": "أعمدة الرأي",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=40"
+            },
+            {
+                "id": 83,
+                "name": "اختيار المحرر",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=41"
+            },
+            {
+                "id": 84,
+                "name": "اقـتــصـــاد",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=48"
+            },
+            {
+                "id": 85,
+                "name": "ثقافة",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=35"
+            },
+            {
+                "id": 86,
+                "name": "مجتمع وَ جامعة",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=46"
+            },
+            {
+                "id": 87,
+                "name": "يوميات ساحليّة",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=44"
+            },
+            {
+                "id": 88,
+                "name": "ملف الوحدة",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=24"
+            },
+            {
+                "id": 89,
+                "name": "تحت الضوء",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=36"
+            },
+            {
+                "id": 90,
+                "name": "منوعات",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=38"
+            },
+            {
+                "id": 91,
+                "name": "رياضة",
+                "language": 1,
+                "url": "http://wehda.alwehda.gov.sy/?feed=rss2&cat=37"
+            }
+        ]
+    },
+    {
         "id": 9,
-        "datatype": "xml",
-        "name": "أخبار تكنولوجيا",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/technology.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 92,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2"
+            },
+            {
+                "id": 93,
+                "name": "أخبار العروبة",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=20"
+            },
+            {
+                "id": 94,
+                "name": "أحدث الأخبار",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=2"
+            },
+            {
+                "id": 95,
+                "name": "أعمدة الرأي",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=26"
+            },
+            {
+                "id": 96,
+                "name": "اختيار المحرر",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=27"
+            },
+            {
+                "id": 97,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=19"
+            },
+            {
+                "id": 98,
+                "name": "الصورة تتكلم",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=12"
+            },
+            {
+                "id": 99,
+                "name": "تحقيقات وتقارير",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=22"
+            },
+            {
+                "id": 100,
+                "name": "ثقافة",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=21"
+            },
+            {
+                "id": 101,
+                "name": "قضايا الناس",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=8"
+            },
+            {
+                "id": 102,
+                "name": "منوعات",
+                "language": 1,
+                "url": "http://ouruba.alwehda.gov.sy/?feed=rss2&cat=7"
+            }
+        ]
+    },
+    {
         "id": 10,
-        "datatype": "xml",
-        "name": "أخبار الأخيرة",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alarabiya.net/feed/rss2/ar/last-page.xml"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "channel_id": 3,
-    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
-    "rss": [
-      {
+        "rss": [
+            {
+                "id": 103,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://alwatan.sy/feed"
+            }
+        ]
+    },
+    {
         "id": 11,
-        "name": "أخبار الصفحة الرئيسية",
-        "datatype": "xml",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alhadath.net/.mrss/alhadath.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 104,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.shahbanews.com/feed"
+            },
+            {
+                "id": 105,
+                "name": "الأخبار",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/feed"
+            },
+            {
+                "id": 106,
+                "name": "أخبار البلد",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/country_news/feed"
+            },
+            {
+                "id": 107,
+                "name": "سياسية",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/political/feed"
+            },
+            {
+                "id": 108,
+                "name": "صحافة أجنبية",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/foreign_press/feed"
+            },
+            {
+                "id": 109,
+                "name": "الجولان السوري",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/the_syrian_golan/feed"
+            },
+            {
+                "id": 110,
+                "name": "الرئيس السوري",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/syrian_president/feed"
+            },
+            {
+                "id": 111,
+                "name": "مراسيم وتشريعات",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/decrees_legislation/feed"
+            },
+            {
+                "id": 112,
+                "name": "القضية الفلسطينية",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/the_palestinian_cause/feed"
+            },
+            {
+                "id": 113,
+                "name": "صدى الناس",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/people_resonate/feed"
+            },
+            {
+                "id": 114,
+                "name": "مقالات وآراء",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/articles_opinions/feed"
+            },
+            {
+                "id": 115,
+                "name": "شكاوي المواطنين",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/citizen_complaints/feed"
+            },
+            {
+                "id": 116,
+                "name": "جرائم وحوادث",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/accidents/feed"
+            },
+            {
+                "id": 117,
+                "name": "تحقيقات",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/investigations/feed"
+            },
+            {
+                "id": 118,
+                "name": "الزاوية الإجتماعية",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/the_social_corner/feed"
+            },
+            {
+                "id": 119,
+                "name": "التنمية البشرية",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/news/human_development/feed"
+            },
+            {
+                "id": 120,
+                "name": "لايف ستايل",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/life_style/feed"
+            },
+            {
+                "id": 121,
+                "name": "ثقافة وفن",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/culture_art/feed"
+            },
+            {
+                "id": 122,
+                "name": "أخبار الرياضة",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/sport/feed"
+            },
+            {
+                "id": 123,
+                "name": "اقتصاديات",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/economics/feed"
+            },
+            {
+                "id": 124,
+                "name": "شباب وتعليم",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/youth_education/feed"
+            },
+            {
+                "id": 125,
+                "name": "علوم وتقنيات",
+                "language": 1,
+                "url": "https://www.shahbanews.com/n/category/science_technology/feed"
+            }
+        ]
+    },
+    {
         "id": 12,
-        "name": "أخبار اليمن",
-        "datatype": "xml",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alhadath.net/.mrss/alhadath/yemen.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 126,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.syriasteps.com/archive/RSS/rss.xml"
+            }
+        ]
+    },
+    {
         "id": 13,
-        "name": "أخبار سوريا",
-        "datatype": "xml",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alhadath.net/.mrss/alhadath/syria.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 127,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://syriadailynews.com/rss"
+            }
+        ]
+    },
+    {
         "id": 14,
-        "name": "أخبار مصر",
-        "datatype": "xml",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alhadath.net/.mrss/alhadath/egypt.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 128,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.athrpress.com/feed/"
+            },
+            {
+                "id": 129,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/feed/"
+            },
+            {
+                "id": 130,
+                "name": "ميدان",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9/%d9%85%d9%8a%d8%af%d8%a7%d9%86/feed/"
+            },
+            {
+                "id": 131,
+                "name": "أثر الصحافة",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9/%d8%a3%d8%ab%d8%b1-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9/feed/"
+            },
+            {
+                "id": 132,
+                "name": "محليات",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d8%aa/feed/"
+            },
+            {
+                "id": 133,
+                "name": "خدمات",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/feed/"
+            },
+            {
+                "id": 134,
+                "name": "حوادث",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d8%aa/%d8%ad%d9%88%d8%a7%d8%af%d8%ab/feed/"
+            },
+            {
+                "id": 135,
+                "name": "شكاوى",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d8%aa/%d8%b4%d9%83%d8%a7%d9%88%d9%89/feed/"
+            },
+            {
+                "id": 136,
+                "name": "بيئة",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d8%aa/%d8%a8%d9%8a%d8%a6%d8%a9/feed/"
+            },
+            {
+                "id": 137,
+                "name": "مجتمع",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ac%d8%aa%d9%85%d8%b9/feed/"
+            },
+            {
+                "id": 138,
+                "name": "أثر الحرب",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ac%d8%aa%d9%85%d8%b9/%d8%a3%d8%ab%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8/feed/"
+            },
+            {
+                "id": 139,
+                "name": "أثرنا السوري",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d8%ac%d8%aa%d9%85%d8%b9/%d8%a3%d8%ab%d8%b1%d9%86%d8%a7-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a/feed/"
+            },
+            {
+                "id": 140,
+                "name": "أثر في العمق",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d8%a3%d8%ab%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d9%85%d9%82/feed/"
+            },
+            {
+                "id": 141,
+                "name": "منوعات",
+                "language": 1,
+                "url": "https://www.athrpress.com/category/%d9%85%d9%86%d9%88%d8%b9%d8%a7%d8%aa/feed/"
+            }
+        ]
+    },
+    {
         "id": 15,
-        "name": "أخبار العراق",
-        "datatype": "xml",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alhadath.net/.mrss/alhadath/iraq.xml"
-      },
-      {
+        "rss": [
+            {
+                "id": 142,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://alaan-media.com/feed/"
+            },
+            {
+                "id": 143,
+                "name": "مجتمع",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/localities/feed/"
+            },
+            {
+                "id": 144,
+                "name": "دولية",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/international/feed/"
+            },
+            {
+                "id": 145,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/economie/feed/"
+            },
+            {
+                "id": 146,
+                "name": "تقارير",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/articless/feed/"
+            },
+            {
+                "id": 147,
+                "name": "تربية وتعليم",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/education/feed/"
+            },
+            {
+                "id": 148,
+                "name": "حوادث",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/accidents/feed/"
+            },
+            {
+                "id": 149,
+                "name": "ثقافة",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/mix/culture/feed/"
+            },
+            {
+                "id": 150,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/mix/sports/feed/"
+            },
+            {
+                "id": 151,
+                "name": "سياحة",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/mix/tourism/feed/"
+            },
+            {
+                "id": 152,
+                "name": "صحة وجمال",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/mix/%d8%b5%d8%ad%d8%a9-%d9%88%d8%ac%d9%85%d8%a7%d9%84/feed/"
+            },
+            {
+                "id": 153,
+                "name": "علوم وتكنولوجيا",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/mix/%d8%b9%d9%84%d9%88%d9%85-%d9%88%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7/feed/"
+            },
+            {
+                "id": 154,
+                "name": "حول العالم",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/mix/around-the-world/feed/"
+            },
+            {
+                "id": 155,
+                "name": "فن",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/mix/%d9%81%d9%86/feed/"
+            },
+            {
+                "id": 156,
+                "name": "شكاوى",
+                "language": 1,
+                "url": "https://alaan-media.com/article/category/complaints/feed/"
+            }
+        ]
+    },
+    {
         "id": 16,
-        "name": "أخبار المغرب العربي",
-        "datatype": "xml",
-        "category": 6,
-        "language": 1,
-        "url": "https://www.alhadath.net/.mrss/alhadath/maghreb.xml"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "channel_id": 4,
-    "datetime": "E, dd MMM yyyy HH:mm:ss Z",
-    "rss": [
-      {
+        "rss": [
+            {
+                "id": 157,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2"
+            },
+            {
+                "id": 158,
+                "name": "سياسة",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=1"
+            },
+            {
+                "id": 159,
+                "name": "قراءة في الصحف",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=3"
+            },
+            {
+                "id": 160,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=4"
+            },
+            {
+                "id": 161,
+                "name": "تحقيقات وتقارير",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=5"
+            },
+            {
+                "id": 162,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=6"
+            },
+            {
+                "id": 163,
+                "name": "حوادث",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=7"
+            },
+            {
+                "id": 164,
+                "name": "بلدنا اليوم",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=8"
+            },
+            {
+                "id": 165,
+                "name": "منوعات",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=9"
+            },
+            {
+                "id": 166,
+                "name": "زاوية معمارية",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=10"
+            },
+            {
+                "id": 167,
+                "name": "مقالات وآراء",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=11"
+            },
+            {
+                "id": 168,
+                "name": "خبر هام",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=12"
+            },
+            {
+                "id": 169,
+                "name": "تلغراف",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&cat=13"
+            },
+            {
+                "id": 170,
+                "name": "علوم",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=14"
+            },
+            {
+                "id": 171,
+                "name": "عالمي",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=15"
+            },
+            {
+                "id": 172,
+                "name": "عربي",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=16"
+            },
+            {
+                "id": 173,
+                "name": "محلي",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=17"
+            },
+            {
+                "id": 174,
+                "name": "الفلك والأبراج",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=18"
+            },
+            {
+                "id": 175,
+                "name": "طب وصحة",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=19"
+            },
+            {
+                "id": 176,
+                "name": "جمال",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=20"
+            },
+            {
+                "id": 177,
+                "name": "قضايا ومجتمع",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=21"
+            },
+            {
+                "id": 178,
+                "name": "شباب",
+                "language": 1,
+                "url": "https://www.syriantelegraph.net/?feed=rss2&#038;cat=22"
+            }
+        ]
+    },
+    {
         "id": 17,
-        "name": "الرئيسية",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2"
-      },
-      {
+        "rss": [
+            {
+                "id": 179,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/feed"
+            },
+            {
+                "id": 180,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/feed"
+            },
+            {
+                "id": 181,
+                "name": "حوادث",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%ad%d9%88%d8%a7%d8%af%d8%ab/feed"
+            },
+            {
+                "id": 182,
+                "name": "اخبار العالم",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed"
+            },
+            {
+                "id": 183,
+                "name": "فلسطين",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86/feed"
+            },
+            {
+                "id": 184,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9/feed"
+            },
+            {
+                "id": 185,
+                "name": "ميداني",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a/feed"
+            },
+            {
+                "id": 186,
+                "name": "صحة",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%b5%d8%ad%d8%a9/feed"
+            },
+            {
+                "id": 187,
+                "name": "مجتمع",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%85%d8%ac%d8%aa%d9%85%d8%b9/feed"
+            },
+            {
+                "id": 188,
+                "name": "موجوعين",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%85%d9%88%d8%ac%d9%88%d8%b9%d9%8a%d9%86/feed"
+            },
+            {
+                "id": 189,
+                "name": "من كل شارع",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%85%d9%86-%d9%83%d9%84-%d8%b4%d8%a7%d8%b1%d8%b9/feed"
+            },
+            {
+                "id": 190,
+                "name": "بالحلبي العتيق",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%a8%d8%a7%d9%84%d8%ad%d9%84%d8%a8%d9%8a-%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d9%82/feed"
+            },
+            {
+                "id": 191,
+                "name": "ع البال",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%b9-%d8%a7%d9%84%d8%a8%d8%a7%d9%84/feed"
+            },
+            {
+                "id": 192,
+                "name": "في الغربة",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%81%d9%8a-%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d8%a9/feed"
+            },
+            {
+                "id": 193,
+                "name": "طافشين",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%b7%d8%a7%d9%81%d8%b4%d9%8a%d9%86/feed"
+            },
+            {
+                "id": 194,
+                "name": "سوريين عن جد",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86-%d8%b9%d9%86-%d8%ac%d8%af/feed"
+            },
+            {
+                "id": 195,
+                "name": "الكلمة",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%a7%d9%84%d9%83%d9%84%d9%85%d8%a9/feed"
+            },
+            {
+                "id": 196,
+                "name": "سينما",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%b3%d9%8a%d9%86%d9%85%d8%a7/feed"
+            },
+            {
+                "id": 197,
+                "name": "قانون",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%82%d8%a7%d9%86%d9%88%d9%86/feed"
+            },
+            {
+                "id": 198,
+                "name": "حواديت",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d8%ad%d9%88%d8%a7%d8%af%d9%8a%d8%aa/feed"
+            },
+            {
+                "id": 199,
+                "name": "كاسة شاي",
+                "language": 1,
+                "url": "https://alkhabar-sy.com/archives/category/%d9%83%d8%a7%d8%b3%d8%a9-%d8%b4%d8%a7%d9%8a/feed"
+            }
+        ]
+    },
+    {
         "id": 18,
-        "name": "الاقتصاد",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1362"
-      },
-      {
+        "rss": [
+            {
+                "id": 200,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://sana.sy/?feed=rss2"
+            },
+            {
+                "id": 201,
+                "name": "سورية والعالم",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=106"
+            },
+            {
+                "id": 202,
+                "name": "أخبار غير مصنفة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=1"
+            },
+            {
+                "id": 203,
+                "name": "سياسة -محلية",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=2"
+            },
+            {
+                "id": 204,
+                "name": "سياسة -عربي دولي",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=3"
+            },
+            {
+                "id": 205,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=5"
+            },
+            {
+                "id": 206,
+                "name": "ثقافة وفنون",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=8"
+            },
+            {
+                "id": 207,
+                "name": "بيئة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=9"
+            },
+            {
+                "id": 208,
+                "name": "علوم وتكنولوجيا",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=11"
+            },
+            {
+                "id": 209,
+                "name": "صحة وبيئة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=12"
+            },
+            {
+                "id": 210,
+                "name": "تقارير",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=13"
+            },
+            {
+                "id": 211,
+                "name": "صحافة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=14"
+            },
+            {
+                "id": 212,
+                "name": "مقالات مختارة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=15"
+            },
+            {
+                "id": 213,
+                "name": "حوادث",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=16"
+            },
+            {
+                "id": 214,
+                "name": "تحقيقات",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=17"
+            },
+            {
+                "id": 215,
+                "name": "ترجمات",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=18"
+            },
+            {
+                "id": 216,
+                "name": "مجتمع",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=19"
+            },
+            {
+                "id": 217,
+                "name": "تعليم",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=20"
+            },
+            {
+                "id": 218,
+                "name": "منوعات",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=21"
+            },
+            {
+                "id": 219,
+                "name": "سلايد",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=22"
+            },
+            {
+                "id": 220,
+                "name": "الشريط الإخباري",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=23"
+            },
+            {
+                "id": 221,
+                "name": "أخبار سياسية",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&#038;cat=25"
+            },
+            {
+                "id": 222,
+                "name": "محليات",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=115"
+            },
+            {
+                "id": 223,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=122"
+            },
+            {
+                "id": 224,
+                "name": "تقارير مصورة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=84"
+            },
+            {
+                "id": 225,
+                "name": "صحة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=44"
+            },
+            {
+                "id": 226,
+                "name": "فيديو سانا",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=726"
+            },
+            {
+                "id": 227,
+                "name": "صور سانا",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=723"
+            },
+            {
+                "id": 228,
+                "name": "تعليم وجامعات",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=196"
+            },
+            {
+                "id": 229,
+                "name": "سياحة ومجتمع",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=802"
+            },
+            {
+                "id": 230,
+                "name": "مبدع من سورية",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=162381"
+            },
+            {
+                "id": 231,
+                "name": "النشرات",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=41"
+            },
+            {
+                "id": 232,
+                "name": "عربي دولي",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=108"
+            },
+            {
+                "id": 233,
+                "name": "أخبار المحافظات",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=40"
+            },
+            {
+                "id": 234,
+                "name": "حلب",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=34"
+            },
+            {
+                "id": 235,
+                "name": "دمشق",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=29"
+            },
+            {
+                "id": 236,
+                "name": "حمص",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=32"
+            },
+            {
+                "id": 237,
+                "name": "حماة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=33"
+            },
+            {
+                "id": 238,
+                "name": "ادلب",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=35"
+            },
+            {
+                "id": 239,
+                "name": "دير الزور",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=36"
+            },
+            {
+                "id": 240,
+                "name": "اللاذقية",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=38"
+            },
+            {
+                "id": 241,
+                "name": "طرطوس",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=39"
+            },
+            {
+                "id": 242,
+                "name": "الرقة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=80"
+            },
+            {
+                "id": 243,
+                "name": "الحسكة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=79"
+            },
+            {
+                "id": 244,
+                "name": "القنيطرة",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=78"
+            },
+            {
+                "id": 245,
+                "name": "السويداء",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=82"
+            },
+            {
+                "id": 246,
+                "name": "ريف دمشق",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=81"
+            },
+            {
+                "id": 247,
+                "name": "درعا",
+                "language": 1,
+                "url": "https://www.sana.sy/?feed=rss2&cat=30"
+            }
+        ]
+    },
+    {
         "id": 19,
-        "name": "محليات",
-        "datatype": "",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1388"
-      },
-      {
+        "rss": [
+            {
+                "id": 248,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://wikimediia.com/feed/"
+            }
+        ]
+    },
+    {
         "id": 20,
-        "name": "تحقيقات",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=57"
-      },
-      {
+        "rss": [
+            {
+                "id": 249,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://syrianindex.org/feed/"
+            }
+        ]
+    },
+    {
         "id": 21,
-        "name": "دنيا الرياضة",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1374"
-      },
-      {
+        "rss": [
+            {
+                "id": 250,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.lakii.com/feed/"
+            }
+        ]
+    },
+    {
         "id": 22,
-        "name": "سياسة",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1377"
-      },
-      {
+        "rss": [
+            {
+                "id": 251,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/feed/"
+            },
+            {
+                "id": 252,
+                "name": "اخبار سوريا",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/syria-news/feed/"
+            },
+            {
+                "id": 253,
+                "name": "فلاش",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/flash/feed/"
+            },
+            {
+                "id": 254,
+                "name": "منوعات",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/around-the-world/feed/"
+            },
+            {
+                "id": 255,
+                "name": "سياسة",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/politics/feed/"
+            },
+            {
+                "id": 256,
+                "name": "حوادث",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/accidents/feed/"
+            },
+            {
+                "id": 257,
+                "name": "طافشين",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/immigrants/feed/"
+            },
+            {
+                "id": 258,
+                "name": "اقتصاد و أعمال",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/economics/feed/"
+            },
+            {
+                "id": 259,
+                "name": "الصورة بتحكي",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/photo-gallery/feed/"
+            },
+            {
+                "id": 260,
+                "name": "مقالات و آراء",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/press-views/feed/"
+            },
+            {
+                "id": 261,
+                "name": "اهم الأخبار",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/top-news/feed/"
+            },
+            {
+                "id": 262,
+                "name": "نيوميديا",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/new-media/feed/"
+            },
+            {
+                "id": 263,
+                "name": "أحدث الأخبار",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/latest-news/feed/"
+            },
+            {
+                "id": 264,
+                "name": "ورد الآن",
+                "language": 1,
+                "url": "https://www.aksalser.com/news/breaking-news/feed/"
+            }
+        ]
+    },
+    {
         "id": 23,
-        "name": "حوادث",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1370"
-      },
-      {
+        "rss": [
+            {
+                "id": 265,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/feed/"
+            },
+            {
+                "id": 266,
+                "name": "دوري المحترفين",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a%d9%86/feed/"
+            },
+            {
+                "id": 267,
+                "name": "أقلام سيريان",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d8%a3%d9%82%d9%84%d8%a7%d9%85-%d8%b3%d9%8a%d8%b1%d9%8a%d8%a7%d9%86-%d8%b3%d9%88%d9%83%d8%b1/feed/"
+            },
+            {
+                "id": 268,
+                "name": "نجوم",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d9%86%d8%ac%d9%88%d9%85/feed/"
+            },
+            {
+                "id": 269,
+                "name": "أخبار المحترفين",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a%d9%86/feed/"
+            },
+            {
+                "id": 270,
+                "name": "لقاءات",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d9%84%d9%82%d8%a7%d8%a1%d8%a7%d8%aa/feed/"
+            },
+            {
+                "id": 271,
+                "name": "كأس الأندية العربية",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/feed/"
+            },
+            {
+                "id": 272,
+                "name": "كأس الاتحاد الآسيوي",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a2%d8%b3%d9%8a%d9%88%d9%8a/feed/"
+            },
+            {
+                "id": 273,
+                "name": "الأخبار المحلية",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d8%a7%d9%84%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9/feed/"
+            },
+            {
+                "id": 274,
+                "name": "أخبار المنتخبات",
+                "language": 1,
+                "url": "https://syrian-soccer.com/site/category/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa/feed/"
+            }
+        ]
+    },
+    {
         "id": 24,
-        "name": "ميديا ومنوعات",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1393"
-      },
-      {
+        "rss": [
+            {
+                "id": 275,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.homsnews.net/feed"
+            },
+            {
+                "id": 276,
+                "name": "أخبار سوريا والعالم",
+                "language": 1,
+                "url": "https://www.homsnews.net/articles/news/feed"
+            },
+            {
+                "id": 277,
+                "name": "أخبار خدمية محلية",
+                "language": 1,
+                "url": "https://www.homsnews.net/articles/syria/feed"
+            },
+            {
+                "id": 278,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://www.homsnews.net/articles/economy/feed"
+            },
+            {
+                "id": 279,
+                "name": "تعليم",
+                "language": 1,
+                "url": "https://www.homsnews.net/articles/education/feed"
+            },
+            {
+                "id": 280,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://www.homsnews.net/articles/sports/feed"
+            },
+            {
+                "id": 281,
+                "name": "فنون",
+                "language": 1,
+                "url": "https://www.homsnews.net/articles/arts/feed"
+            },
+            {
+                "id": 282,
+                "name": "تكنولوجيا",
+                "language": 1,
+                "url": "https://www.homsnews.net/articles/technology/feed"
+            }
+        ]
+    },
+    {
         "id": 25,
-        "name": "ملفات تشرين",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=3780"
-      },
-      {
+        "rss": [
+            {
+                "id": 283,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://albaathmedia.sy/feed/"
+            },
+            {
+                "id": 284,
+                "name": "سورية",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/20/feed/"
+            },
+            {
+                "id": 285,
+                "name": "سياسة",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9/feed/"
+            },
+            {
+                "id": 286,
+                "name": "عربي",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9/26/feed/"
+            },
+            {
+                "id": 287,
+                "name": "دولي",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9/16/feed/"
+            },
+            {
+                "id": 288,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/feed/"
+            },
+            {
+                "id": 289,
+                "name": "الاقتصاد المحلي",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d9%85%d8%ad%d9%84%d9%8a/feed/"
+            },
+            {
+                "id": 290,
+                "name": "الاقتصاد الدولي",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%af%d9%88%d9%84%d9%8a/feed/"
+            },
+            {
+                "id": 291,
+                "name": "محليات",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/32/feed/"
+            },
+            {
+                "id": 292,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/18/feed/"
+            },
+            {
+                "id": 293,
+                "name": "ثقافة وفن",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/15/feed/"
+            },
+            {
+                "id": 294,
+                "name": "مجتمع",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/%d9%85%d8%ac%d8%aa%d9%85%d8%b9/feed/"
+            },
+            {
+                "id": 295,
+                "name": "أخبار البعث",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/5/feed/"
+            },
+            {
+                "id": 296,
+                "name": "مساحة حرة",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/34/feed/"
+            },
+            {
+                "id": 297,
+                "name": "مراسلون ومحافظات",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/77/feed/"
+            },
+            {
+                "id": 298,
+                "name": "إنفوغرافيك",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/6/feed/"
+            },
+            {
+                "id": 299,
+                "name": "B tv",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/b-tv/feed/"
+            },
+            {
+                "id": 300,
+                "name": "صحة",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/22/feed/"
+            },
+            {
+                "id": 301,
+                "name": "منوع",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/38/feed/"
+            },
+            {
+                "id": 302,
+                "name": "علوم وتكنولوجيا",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/14/feed/"
+            },
+            {
+                "id": 303,
+                "name": "منظمات أهلية",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/37/feed/"
+            },
+            {
+                "id": 304,
+                "name": "اخترنا لك",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/29/feed/"
+            },
+            {
+                "id": 305,
+                "name": "مساحات القرّاء",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/40/feed/"
+            },
+            {
+                "id": 306,
+                "name": "قصة بطولة",
+                "language": 1,
+                "url": "https://albaathmedia.sy/category/30/feed/"
+            }
+        ]
+    },
+    {
         "id": 26,
-        "name": "آراء",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=26"
-      },
-      {
+        "rss": [
+            {
+                "id": 307,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/feed/"
+            },
+            {
+                "id": 308,
+                "name": "سياسة",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/politics/feed/"
+            },
+            {
+                "id": 309,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/economy/feed/"
+            },
+            {
+                "id": 310,
+                "name": "خدمات",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/services/feed/"
+            },
+            {
+                "id": 311,
+                "name": "ناس",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/life-style/feed/"
+            },
+            {
+                "id": 312,
+                "name": "رأي",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/opinions/feed/"
+            },
+            {
+                "id": 313,
+                "name": "في العمق",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/indepth/feed/"
+            },
+            {
+                "id": 314,
+                "name": "منوعات",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/mix/feed/"
+            },
+            {
+                "id": 315,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/sport/feed/"
+            },
+            {
+                "id": 316,
+                "name": "مارس",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/mares/feed/"
+            },
+            {
+                "id": 317,
+                "name": "ملتيميديا",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/multimedia/feed/"
+            },
+            {
+                "id": 318,
+                "name": "حقوق وحریات",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/rights-freedoms/feed/"
+            },
+            {
+                "id": 319,
+                "name": "سوريون في الخارج",
+                "language": 1,
+                "url": "https://www.enabbaladi.net/category/syrians-abroad/feed/"
+            }
+        ]
+    },
+    {
         "id": 27,
-        "name": "الافتتاحية",
-        "datatype": "file",
-        "category": 0,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=15"
-      },
-      {
+        "rss": [
+            {
+                "id": 320,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://www.alghad.tv/feed/"
+            },
+            {
+                "id": 321,
+                "name": "الشرق الأوسط",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%a7%d9%84%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%a3%d9%88%d8%b3%d8%b7/feed/"
+            },
+            {
+                "id": 322,
+                "name": "فلسطين",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%a7%d9%84%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%a3%d9%88%d8%b3%d8%b7/%d8%a7%d9%84%d8%b4%d8%a7%d9%85/%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86/feed/"
+            },
+            {
+                "id": 323,
+                "name": "العالم",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed/"
+            },
+            {
+                "id": 324,
+                "name": "التقارير",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1/feed/"
+            },
+            {
+                "id": 325,
+                "name": "مراسلون",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d9%85%d8%b1%d8%a7%d8%b3%d9%84%d9%88%d9%86/feed/"
+            },
+            {
+                "id": 326,
+                "name": "رياضة",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9/feed/"
+            },
+            {
+                "id": 327,
+                "name": "منوعات",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d9%85%d9%86%d9%88%d8%b9%d8%a7%d8%aa/feed/"
+            },
+            {
+                "id": 328,
+                "name": "سوشيال ميديا",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%b3%d9%88%d8%b4%d9%8a%d8%a7%d9%84-%d9%85%d9%8a%d8%af%d9%8a%d8%a7/feed/"
+            },
+            {
+                "id": 329,
+                "name": "حوادث وقضايا",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%ad%d9%88%d8%a7%d8%af%d8%ab-%d9%88%d9%82%d8%b6%d8%a7%d9%8a%d8%a7/feed/"
+            },
+            {
+                "id": 330,
+                "name": "ثقافة وفن",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%ab%d9%82%d8%a7%d9%81%d8%a9-%d9%88%d9%81%d9%86/feed/"
+            },
+            {
+                "id": 331,
+                "name": "علوم وتكنولوجيا",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%b9%d9%84%d9%88%d9%85-%d9%88%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7/feed/"
+            },
+            {
+                "id": 332,
+                "name": "اقتصاد",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/feed/"
+            },
+            {
+                "id": 333,
+                "name": "مقالات رأي",
+                "language": 1,
+                "url": "https://www.alghad.tv/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d8%b1%d8%a3%d9%8a/feed/"
+            }
+        ]
+    },
+    {
         "id": 28,
-        "name": "بالخط العريض",
-        "datatype": "file",
-        "category": 0,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=53"
-      },
-      {
-        "id": 29,
-        "name": "بصراحة",
-        "datatype": "file",
-        "category": 0,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=54"
-      },
-      {
-        "id": 30,
-        "name": "بلا مجاملات",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=55"
-      },
-      {
-        "id": 31,
-        "name": "بين السطور",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=56"
-      },
-      {
-        "id": 32,
-        "name": "على ما يبدو",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=30"
-      },
-      {
-        "id": 33,
-        "name": "قوس قزح",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=31"
-      },
-      {
-        "id": 34,
-        "name": "نافذة للمحرر",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=46"
-      },
-      {
-        "id": 35,
-        "name": "وجهات نظر",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=47"
-      },
-      {
-        "id": 36,
-        "name": "المواطن @ نت",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1469"
-      },
-      {
-        "id": 37,
-        "name": "مجتمع",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=1386"
-      },
-      {
-        "id": 38,
-        "name": "ثقافة وفن",
-        "datatype": "file",
-        "category": 6,
-        "language": 1,
-        "url": "http://tishreen.news.sy/?feed=rss2&cat=18"
-      }
-    ]
-  }
+        "rss": [
+            {
+                "id": 334,
+                "name": "الرئيسية",
+                "language": 1,
+                "url": "https://iqtissadiya.com/feed/"
+            },
+            {
+                "id": 335,
+                "name": "لقاء مع مسؤول",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d9%84%d9%82%d8%a7%d8%a1-%d9%85%d8%b9-%d9%85%d8%b3%d8%a4%d9%88%d9%84/feed/"
+            },
+            {
+                "id": 336,
+                "name": "شؤون محلية",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d8%b4%d8%a4%d9%88%d9%86-%d9%85%d8%ad%d9%84%d9%8a%d8%a9/feed/"
+            },
+            {
+                "id": 337,
+                "name": "ملفات خاصة",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%ae%d8%a7%d8%b5%d8%a9/feed/"
+            },
+            {
+                "id": 338,
+                "name": "مال وأعمال",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d9%85%d8%a7%d9%84-%d9%88%d8%a3%d8%b9%d9%85%d8%a7%d9%84/feed/"
+            },
+            {
+                "id": 339,
+                "name": "اقتصاد عالمي",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%b9%d8%a7%d9%84%d9%85%d9%8a/feed/"
+            },
+            {
+                "id": 340,
+                "name": "منوعات",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d9%85%d9%86%d9%88%d8%b9%d8%a7%d8%aa/feed/"
+            },
+            {
+                "id": 341,
+                "name": "الاقتصاد ببساطة",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%a8%d8%b3%d8%a7%d8%b7%d8%a9/feed/"
+            },
+            {
+                "id": 342,
+                "name": "عَ الوتر",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d8%b1%d8%a3%d9%8a/%d8%b9%d9%8e-%d8%a7%d9%84%d9%88%d8%aa%d8%b1/feed/"
+            },
+            {
+                "id": 343,
+                "name": "كلام في الاقتصاد",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d8%b1%d8%a3%d9%8a/%d9%83%d9%84%d8%a7%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/feed/"
+            },
+            {
+                "id": 344,
+                "name": "إشراقات",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d8%b1%d8%a3%d9%8a/%d8%a5%d8%b4%d8%b1%d8%a7%d9%82%d8%a7%d8%aa/feed/"
+            },
+            {
+                "id": 345,
+                "name": "بوح الاقتصاد",
+                "language": 1,
+                "url": "https://iqtissadiya.com/category/%d8%a8%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/feed/"
+            }
+        ]
+    }
 ]
