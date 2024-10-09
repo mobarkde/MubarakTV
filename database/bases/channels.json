@@ -1,478 +1,226 @@
 [
-   {
+  {
     "id": 1,
-    "name": {
-      "name": "الجزيرة",
-      "arabic": "الجزيرة",
-      "english": "Al Jazeera"
-    },
+    "name": "الجزيرة",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/qa/al_jazeera.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/qa/al_jazeera.png",
     "country": "QA",
-    "category": 1,
-    "description": {
-      "description": "قناة الجزيرة هي قناة تلفزيونية إخبارية حكومية، تابعة لشبكة الجزيرة الإعلامية، تأسست في 1 نوفمبر 1996، ويقع مقرها في العاصمة القطرية الدوحة. في البداية بدأت بوصفها قناة فضائية للأنباء العربية والشؤون الجارية، ومنذ ذلك الحين مع نفس الاسم «الجزيرة»، توسعت القناة لتصبح شبكة إعلامية دولية بعدد من المنافذ، منها شبكة الإنترنت وقنوات تلفازية متخصصة في لغات متعددة في عدة مناطق من العالم.",
-      "arabic": "قناة الجزيرة هي قناة تلفزيونية إخبارية حكومية، تابعة لشبكة الجزيرة الإعلامية، تأسست في 1 نوفمبر 1996، ويقع مقرها في العاصمة القطرية الدوحة. في البداية بدأت بوصفها قناة فضائية للأنباء العربية والشؤون الجارية، ومنذ ذلك الحين مع نفس الاسم «الجزيرة»، توسعت القناة لتصبح شبكة إعلامية دولية بعدد من المنافذ، منها شبكة الإنترنت وقنوات تلفازية متخصصة في لغات متعددة في عدة مناطق من العالم.",
-      "english": "Al Jazeera Arabic is a Qatari state-owned Arabic-language news television network. It is based in Doha and operated by the Al Jazeera Media Network, which also operates Al Jazeera English. It is the largest news network in the Middle East and North Africa region.It was founded in 1996 by the then Emir of Qatar Sheikh Hamad bin Khalifa Al Thani."
-    }
+    "category": 1
   },
   {
     "id": 2,
-    "name": {
-      "name": "العربية",
-      "arabic": "العربية",
-      "english": "Alarabiya"
-    },
+    "name": "العربية",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sa/alarabiya.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sa/alarabiya.png",
     "country": "SA",
-    "category": 1,
-    "description": {
-      "description": "العربية هي قناة إخبارية باللغة العربية في مدينة دبي الإعلامية في الإمارات العربية المتحدة.",
-      "arabic": "العربية هي قناة إخبارية باللغة العربية في مدينة دبي الإعلامية في الإمارات العربية المتحدة.",
-      "english": "Al-Arabiya is an Arabic-language news channel in Dubai Media City in the United Arab Emirates."
-    }
+    "category": 1
   },
   {
     "id": 3,
-    "name": {
-      "name": "الحدث",
-      "arabic": "الحدث",
-      "english": "Alhadath"
-    },
+    "name": "الحدث",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sa/alhadath.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sa/alhadath.png",
     "country": "SA",
-    "category": 1,
-    "description": {
-      "description": "الحدة هي قناة تفاعلية للأخبار السعودية التي تركز على الأحداث السياسية في المنطقة العربية.",
-      "arabic": "الحدة هي قناة تفاعلية للأخبار السعودية التي تركز على الأحداث السياسية في المنطقة العربية.",
-      "english": "Al-Hadath is a Saudi news interactive channel focusing on political events in the Arab region."
-    }
+    "category": 1
   },
   {
     "id": 4,
-    "name": {
-      "name": "تشرين",
-      "arabic": "تشرين",
-      "english": "Tishreen"
-    },
+    "name": "تشرين",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/tishreen.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/tishreen.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "جريدة تشرين صحيفة حكومية سورية يومية سياسية شاملة، تصدر عن «مؤسسة الوحدة للصحافة والطباعة والنشر» في العاصمة السورية دمشق ويرأس تحريرها محمد البيرق منذ 13 فبراير 2017 خلفًا لرغداء مارديني.صدر العدد الأول من جريدة تشرين بتاريخ 2 تشرين الأول 1975.",
-      "arabic": "جريدة تشرين صحيفة حكومية سورية يومية سياسية شاملة، تصدر عن «مؤسسة الوحدة للصحافة والطباعة والنشر» في العاصمة السورية دمشق ويرأس تحريرها محمد البيرق منذ 13 فبراير 2017 خلفًا لرغداء مارديني.صدر العدد الأول من جريدة تشرين بتاريخ 2 تشرين الأول 1975.",
-      "english": ""
-    }
+    "category": 3
   },
   {
     "id": 5,
-    "name": {
-      "name": "صحيفة الفداء",
-      "arabic": "صحيفة الفداء",
-      "english": "Al fedaa"
-    },
+    "name": "صحيفة الفداء",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/fedaa.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/fedaa.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "صحيفة الفداء يومية محلية تصدر في محافظة حماة عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع وهي تعنى بقضايا المواطن الخدمية والتنموية وتركز على المبادرات الايجابية بكل المجالات وتسليط الضوء على النواحي السلبية ومتابعتها مع الجهات المعنية في المحافظة من خلال إجراء اللقاءات والتحقيقات والريبورتاجات والحوارات كما تقوم بتغطية كافة النشاطات والفعاليات والأخبار الشعبية والرسمية الهامة",
-      "arabic": "صحيفة الفداء يومية محلية تصدر في محافظة حماة عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع وهي تعنى بقضايا المواطن الخدمية والتنموية وتركز على المبادرات الايجابية بكل المجالات وتسليط الضوء على النواحي السلبية ومتابعتها مع الجهات المعنية في المحافظة من خلال إجراء اللقاءات والتحقيقات والريبورتاجات والحوارات كما تقوم بتغطية كافة النشاطات والفعاليات والأخبار الشعبية والرسمية الهامة",
-      "english": "Al -fedaa newspaper is a local daily issued in Hama Governorate by Al -Wahda Foundation for Press, Printing, Publishing and Distribution, which is concerned with citizen service and development issues and focuses on positive initiatives in all fields and highlights the negative aspects and follow -up with the relevant authorities in the governorate through conducting meetings, investigations, rough crows and dialogues. It also covers all activities Events and important and official news and news"
-    }
+    "category": 3
   },
   {
     "id": 6,
-    "name": {
-      "name": "صحيفة الجماهير",
-      "arabic": "صحيفة الجماهير",
-      "english": "Al jamahir"
-    },
+    "name": "صحيفة الجماهير",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/jamahir.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/jamahir.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "صحيفة الجماهير يومية محلية تصدر عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع، مقرها مدينة حلب، وتعني بتغطية الأحداث والأخبار والفعاليات في محافظة حلب",
-      "arabic": "صحيفة الجماهير يومية محلية تصدر عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع، مقرها مدينة حلب، وتعني بتغطية الأحداث والأخبار والفعاليات في محافظة حلب",
-      "english": "Al -jamahir newspaper is a local daily issued by Al -Wahda Foundation for Press, Printing, Publishing and Distribution, based in the city of Aleppo, and it means covering events, news and events in Aleppo Governorate"
-    }
+    "category": 3
   },
   {
     "id": 7,
-    "name": {
-      "name": "صحيفة الفرات",
-      "arabic": "صحيفة الفرات",
-      "english": "Al furat"
-    },
+    "name": "صحيفة الفرات",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/furat.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/furat.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "صحيفة الفرات يومية محلية تصدر عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع، مقرها مدينة دير الزور، وتعني بتغطية الأحداث والأخبار والفعاليات في محافظات دير الزور - الرقة - الحسكة",
-      "arabic": "صحيفة الفرات يومية محلية تصدر عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع، مقرها مدينة دير الزور، وتعني بتغطية الأحداث والأخبار والفعاليات في محافظات دير الزور - الرقة - الحسكة",
-      "english": "Al -Furat newspaper is a local daily issued by Al -Wahda Foundation for Press, Printing, Publishing and Distribution, based in the city of Deir Al -Zour."
-    }
+    "category": 3
   },
   {
     "id": 8,
-    "name": {
-      "name": "صحيفة الوحدة",
-      "arabic": "صحيفة الوحدة",
-      "english": "Al wehda"
-    },
+    "name": "صحيفة الوحدة",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/wehda.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/wehda.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "صحيفة الوَحدَة يوميّة محليّة. تصدر عن مؤسّسة الوحدة للصّحافة والطّباعة والنّشر والتّوزيع. مقرّها مدينة اللاذقية، تُعنَي بتغطية الأحداث، الأخبار والفعاليّات في محافظتي اللاذقية وطرطوس.",
-      "arabic": "صحيفة الوَحدَة يوميّة محليّة. تصدر عن مؤسّسة الوحدة للصّحافة والطّباعة والنّشر والتّوزيع. مقرّها مدينة اللاذقية، تُعنَي بتغطية الأحداث، الأخبار والفعاليّات في محافظتي اللاذقية وطرطوس.",
-      "english": "Al -Wahda newspaper is a local daily. It is issued by the Al -Wahda Foundation for Press, Publishing, Publishing and Distribution. Its headquarters, Lattakia, are intended to cover events, news and effects in the provinces of Lattakia and Tartous."
-    }
+    "category": 3
   },
   {
     "id": 9,
-    "name": {
-      "name": "صحيفة العروبة",
-      "arabic": "صحيفة العروبة",
-      "english": "Al ouruba"
-    },
+    "name": "صحيفة العروبة",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/ouruba.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/ouruba.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "صحيفة العروبة يومية محلية تصدر عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع، مقرها مدينة حمص، وتعني بتغطية الأحداث والأخبار والفعاليات في محافظة حمص..",
-      "arabic": "صحيفة العروبة يومية محلية تصدر عن مؤسسة الوحدة للصحافة والطباعة والنشر والتوزيع، مقرها مدينة حمص، وتعني بتغطية الأحداث والأخبار والفعاليات في محافظة حمص..",
-      "english": "Al -ouruba newspaper is a local daily issued by Al -Wahda Foundation for Press, Printing, Publishing and Distribution, based in Homs, which means covering events, news and events in Homs Governorate."
-    }
+    "category": 3
   },
   {
     "id": 10,
-    "name": {
-      "name": "صحيفة الوطن السورية",
-      "arabic": "صحيفة الوطن السورية",
-      "english": "Alwatan"
-    },
+    "name": "صحيفة الوطن السورية",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/alwatan.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/alwatan.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "الوطن صحيفة سورية يومية سياسية مستقلة. تصدر عن الشركة العربية السورية للنشر والتوزيع.",
-      "arabic": "الوطن صحيفة سورية يومية سياسية مستقلة. تصدر عن الشركة العربية السورية للنشر والتوزيع.",
-      "english": "Al -Watan is an independent, political, political newspaper. It is issued by the Syrian Arab Company for Publishing and Distribution."
-    }
+    "category": 3
   },
   {
     "id": 11,
-    "name": {
-      "name": "شهبا نيوز",
-      "arabic": "شهبا نيوز",
-      "english": "Shahba news"
-    },
+    "name": "شهبا نيوز",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/shahbanews.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/shahbanews.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "شهبا نيوز جاءت تلبية لحاجة الكثيرين من المهتمين بثقافة البلد وقضايا المجتمع والتحليل الاقتصادي للواقع الحالي والتخطيط لآفاق المستقبل شهبا نيوز وضعت في مقدمة اهتماماتها إظهار سورية وحلب خاصة بجمالها الفتان والجذاب ليكون الموقع الأكثر تقرباً للعالم الذي لا يعرف الكثير عن سورية و اهتمامنا الأكبر بشريحة المغتربين الذين يعملون مع موقعنا لتكون سورية الصورة الجميلة التي يرسمها الفنانون ببلدنا الحبيب",
-      "arabic": "شهبا نيوز جاءت تلبية لحاجة الكثيرين من المهتمين بثقافة البلد وقضايا المجتمع والتحليل الاقتصادي للواقع الحالي والتخطيط لآفاق المستقبل شهبا نيوز وضعت في مقدمة اهتماماتها إظهار سورية وحلب خاصة بجمالها الفتان والجذاب ليكون الموقع الأكثر تقرباً للعالم الذي لا يعرف الكثير عن سورية و اهتمامنا الأكبر بشريحة المغتربين الذين يعملون مع موقعنا لتكون سورية الصورة الجميلة التي يرسمها الفنانون ببلدنا الحبيب",
-      "english": "Shahba News came in response to the need of many people interested in the culture of the country and the issues of society and the economic analysis of the current reality and planning for the future horizons of Shahba News put at the forefront of its interests to show Syria and Aleppo for its own beauty and attractive beauty to be the most close site for the world that does not know much about Syria and our greatest interest in the segment of expatriates who work With our site to be Syria, the beautiful picture that artists draw in our beloved country"
-    }
+    "category": 5
   },
   {
     "id": 12,
-    "name": {
-      "name": "سيريا ستيبس",
-      "arabic": "سيريا ستيبس",
-      "english": "Syria steps"
-    },
+    "name": "سيريا ستيبس",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/syriasteps.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/syriasteps.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": " العنوان: دمشق - الجسر الأبيض - دخلة نادي الصحفيين",
-      "arabic": " العنوان: دمشق - الجسر الأبيض - دخلة نادي الصحفيين",
-      "english": ""
-    }
+    "category": 5
   },
   {
     "id": 13,
-    "name": {
-      "name": "سيريا ديلي نيوز",
-      "arabic": "سيريا ديلي نيوز",
-      "english": "Syria daily news"
-    },
+    "name": "سيريا ديلي نيوز",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/syriadailynews.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/syriadailynews.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "سيريا ديلي للإعلام الإلكتروني  تأسست كشركة إعلام و إعلان و تسويق إلكتروني …و تتنوع شبكة سيريا ديلي بين الأخبار المحلية والعربية والعالمية ، وأخبار الاقتصاد وعالم الأعمال، إلى الفن والثقافة  ودنيا المشاهير ونجوم العالم ، ثم تحط الشبكة رحالها في دنيا الاطفال بكل ما فيها  كما انشئت سيريا ديلي انكلش للأخبار باللغة الانكليزية",
-      "arabic": "سيريا ديلي للإعلام الإلكتروني  تأسست كشركة إعلام و إعلان و تسويق إلكتروني …و تتنوع شبكة سيريا ديلي بين الأخبار المحلية والعربية والعالمية ، وأخبار الاقتصاد وعالم الأعمال، إلى الفن والثقافة  ودنيا المشاهير ونجوم العالم ، ثم تحط الشبكة رحالها في دنيا الاطفال بكل ما فيها  كما انشئت سيريا ديلي انكلش للأخبار باللغة الانكليزية",
-      "english": "Syria Daily Electronic Media was established as an electronic media, advertising and marketing company ... The Siria Daily network varies between local, Arab and international news, economy news and business world, to art, culture, celebrity world and the stars of the world, then the network lands its journey in the world of children with everything in it as Siria was established Daily Ankalsh News in English"
-    }
+    "category": 5
   },
   {
     "id": 14,
-    "name": {
-      "name": "أثر برس",
-      "arabic": "أثر برس",
-      "english": "Athrpress"
-    },
+    "name": "أثر برس",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/athrpress.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/athrpress.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "مؤسسة إعلامية سورية مستقلة تضم مجموعة من الصحفيين السوريين وتقدم تغطيات على مدار الساعة عبر الموقع الإلكتروني ومجموعة من الحسابات النشطة على مواقع التواصل الاجتماعي، وتسعى لنقل صورة واقعية عن الحياة السياسية والاقتصادية والاجتماعية في سوريا من خلال مجموعة من المراسلين المنتشرين على كامل الجغرافيا السورية بعيداً عن أي انتماء سياسي أو ديني أو عرقي.",
-      "arabic": "مؤسسة إعلامية سورية مستقلة تضم مجموعة من الصحفيين السوريين وتقدم تغطيات على مدار الساعة عبر الموقع الإلكتروني ومجموعة من الحسابات النشطة على مواقع التواصل الاجتماعي، وتسعى لنقل صورة واقعية عن الحياة السياسية والاقتصادية والاجتماعية في سوريا من خلال مجموعة من المراسلين المنتشرين على كامل الجغرافيا السورية بعيداً عن أي انتماء سياسي أو ديني أو عرقي.",
-      "english": "An independent Syrian media institution that includes a group of Syrian journalists and provides coverage around the clock through the website and a group of active accounts on social media, and seeks to transfer a realistic image of political, economic and social life in Syria through a group of correspondents spread over the entire Syrian geography away from any Political, religious or ethnic affiliation."
-    }
+    "category": 5
   },
   {
     "id": 15,
-    "name": {
-      "name": "وكالة الآن الإعلامية",
-      "arabic": "وكالة الآن الإعلامية",
-      "english": "Alaan media"
-    },
+    "name": "وكالة الآن الإعلامية",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/alaan-media.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/alaan-media.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "",
-      "arabic": "",
-      "english": ""
-    }
+    "category": 5
   },
   {
     "id": 16,
-    "name": {
-      "name": "سيريان تلغراف",
-      "arabic": "سيريان تلغراف",
-      "english": "Syrian telegraph"
-    },
+    "name": "سيريان تلغراف",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/syriantelegraph.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/syriantelegraph.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "“سيريان تلغراف” صحيفة الكترونية مستقلة، ناطقة بالعربية، تعنى بأخبار سورية والعرب والعالم وتسعى لمتابعة القضايا العربية لا سيما القضية الفلسطينية، كما تهتم بمتابعة كافة الامور المؤثرة في مستقبل المنطقة العربية اضافة الى صفحات دولية وثقافية ومنوعات من العالم..",
-      "arabic": "“سيريان تلغراف” صحيفة الكترونية مستقلة، ناطقة بالعربية، تعنى بأخبار سورية والعرب والعالم وتسعى لمتابعة القضايا العربية لا سيما القضية الفلسطينية، كما تهتم بمتابعة كافة الامور المؤثرة في مستقبل المنطقة العربية اضافة الى صفحات دولية وثقافية ومنوعات من العالم..",
-      "english": "Sierian Telegraph is an independent electronic newspaper, which is in Arabic, concerned with news of Syria, the Arabs and the world and seeks to follow the Arab issues, especially the Palestinian issue, as well as following up on all matters affecting the future of the Arab region in addition to international, cultural and varied pages from the world .."
-    }
+    "category": 5
   },
   {
     "id": 17,
-    "name": {
-      "name": "تلفزيون الخبر",
-      "arabic": "تلفزيون الخبر",
-      "english": "Alkhabar"
-    },
+    "name": "تلفزيون الخبر",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/alkhabar.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/alkhabar.png",
     "country": "SY",
-    "category": 1,
-    "description": {
-      "description": "مشروع إعلامي شبابي أسسه ويرأس تحريره الصحافي ( عبدالله عبدالوهاب) ، نضع نصب أعيننا خلال عملنا أن السوري يستحق الحقيقة فنقدم الخبر والمعلومة بعيدا عن الخطابية والانشائية والتأويل، بقوالب أكاديمية احترافية متعارف عليها عالمياً لنقدم سوريا بلا مكياج.",
-      "arabic": "مشروع إعلامي شبابي أسسه ويرأس تحريره الصحافي ( عبدالله عبدالوهاب) ، نضع نصب أعيننا خلال عملنا أن السوري يستحق الحقيقة فنقدم الخبر والمعلومة بعيدا عن الخطابية والانشائية والتأويل، بقوالب أكاديمية احترافية متعارف عليها عالمياً لنقدم سوريا بلا مكياج.",
-      "english": "A youth media project founded by its editorial journalist (Abdullah Abdel Wahab), we put our eyes during our work that the Syrian deserves the truth, so we present the news and information away from rhetorical, construction and interpretation, with professional academic templates that are universally accepted to present Syria without makeup."
-    }
+    "category": 1
   },
   {
     "id": 18,
-    "name": {
-      "name": "الوكالة العربية السورية للأنباء",
-      "arabic": "الوكالة العربية السورية للأنباء",
-      "english": "Sana"
-    },
+    "name": "الوكالة العربية السورية للأنباء",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/sana.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/sana.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "الوكالة العربية السورية للأنباء سانا هي الوكالة الوطنية الرسمية تأسست في 24-6 -1965، وترتبط بوزارة الإعلام ومركزها الرئيسي في مدينة دمشق.",
-      "arabic": "الوكالة العربية السورية للأنباء سانا هي الوكالة الوطنية الرسمية تأسست في 24-6 -1965، وترتبط بوزارة الإعلام ومركزها الرئيسي في مدينة دمشق.",
-      "english": "The Syrian Arab News Agency SANA is the official National Agency established on 24-6-1965, and it is linked to the Ministry of Information and its main center in the city of Damascus."
-    }
+    "category": 5
   },
   {
     "id": 19,
-    "name": {
-      "name": "ويكي ميديا",
-      "arabic": "ويكي ميديا",
-      "english": "Wiki mediia"
-    },
+    "name": "ويكي ميديا",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/wikimediia.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/wikimediia.png",
     "country": "SY",
-  "category": 5,
-    "description": {
-      "description": "اطلق مشروع ويكي ميديا للبحث والتقصي وجمع المعلومات المفيدة ووضعها بين يدي ملايين العرب. حيث تقدم المدونة مجموعة من المواضيع المتخصصة في العديد من المجالات العلمية والطبية والثقافية والرياضية. وحاولنا من خلال الموقع تحسين وتسهيل عملية الوصول للمعلومة الصحيحة لإثراء المحتوى العربي على الإنترنت لكل الأفراد",
-      "arabic": "اطلق مشروع ويكي ميديا للبحث والتقصي وجمع المعلومات المفيدة ووضعها بين يدي ملايين العرب. حيث تقدم المدونة مجموعة من المواضيع المتخصصة في العديد من المجالات العلمية والطبية والثقافية والرياضية. وحاولنا من خلال الموقع تحسين وتسهيل عملية الوصول للمعلومة الصحيحة لإثراء المحتوى العربي على الإنترنت لكل الأفراد",
-      "english": "The Wiki Media project launched research, investigation, collecting useful information and placing it in the hands of millions of Arabs. The blog provides a set of specialized topics in many scientific, medical, cultural and sports fields. Through the site, we tried to improve and facilitate the process of access to the correct information to enrich the Arab content on the Internet for all individuals"
-    }
+    "category": 5
   },
   {
     "id": 20,
-    "name": {
-      "name": "المؤشر السوري",
-      "arabic": "المؤشر السوري",
-      "english": "Syrian index"
-    },
+    "name": "المؤشر السوري",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/syrianindex.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/syrianindex.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "مركز محلي مستقل يهدف لقياس نبض الشعب السوري عبر إجراء استطلاعات رأي دقيقة وموثوقة في سوريا والدول التي يتواجد فيها السوريون، وذلك عبر تقديم تحليلات واستبيانات شاملة حول القضايا المجتمعية والحقوقية التي تهم الشارع، بإشراف فريق حقوقي مؤمن بأهمية إبراز قضايا شعبه والسعي لإيصال صوته، والبحث عن حلول للمشاكل التي يعاني منها.",
-      "arabic": "مركز محلي مستقل يهدف لقياس نبض الشعب السوري عبر إجراء استطلاعات رأي دقيقة وموثوقة في سوريا والدول التي يتواجد فيها السوريون، وذلك عبر تقديم تحليلات واستبيانات شاملة حول القضايا المجتمعية والحقوقية التي تهم الشارع، بإشراف فريق حقوقي مؤمن بأهمية إبراز قضايا شعبه والسعي لإيصال صوته، والبحث عن حلول للمشاكل التي يعاني منها.",
-      "english": "An independent local center aims to measure the pulse of the Syrian people by conducting accurate and reliable opinion polls in Syria and the countries where the Syrians are, by providing comprehensive analyzes and questionnaires on societal and legal issues of concern to the street, under the supervision of a human rights team that believes in the importance of highlighting the issues of its people and seeking to communicate its voice, and searching for Solutions to the problems he suffers from."
-    }
+    "category": 5
   },
   {
     "id": 21,
-    "name": {
-      "name": "شبكة لكِ النسائية",
-      "arabic": "شبكة لكِ النسائية",
-      "english": "Lakii"
-    },
+    "name": "شبكة لكِ النسائية",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/lakii.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/lakii.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "",
-      "arabic": "",
-      "english": ""
-    }
+    "category": 5
   },
   {
     "id": 22,
-    "name": {
-      "name": "عكس السير",
-      "arabic": "عكس السير",
-      "english": "Aksalser"
-    },
+    "name": "عكس السير",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/aksalser.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/aksalser.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "",
-      "arabic": "",
-      "english": ""
-    }
+    "category": 5
   },
   {
     "id": 23,
-    "name": {
-      "name": "Syrian Soccer",
-      "arabic": "سوريا سكور",
-      "english": "Syrian Soccer"
-    },
+    "name": "سوريا سكور",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/syrian-soccer.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/syrian-soccer.png",
     "country": "SY",
-   "category": 5,
-    "description": {
-      "description": "",
-      "arabic": "",
-      "english": ""
-    }
+    "category": 5
   },
   {
     "id": 24,
-    "name": {
-      "name": "حمص نيوز",
-      "arabic": "حمص نيوز",
-      "english": "Homs news"
-    },
+    "name": "حمص نيوز",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/homsnews.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/homsnews.png",
     "country": "SY",
-    "category": 5,
-    "description": {
-      "description": "حمص نيوز : موقع إعلامي مستقل يتابع آخر التطورات في سورية والمنطقة. حمص نيوز هو فريق عمل متكامل من الشباب السوريين المتابعين للتطورات السورية. الهدف من حمص نيوز هو إيصال معلومات صحيحة عن التطورات الميدانية السورية للعالم العربي والغربي ، بالإضافة لتغطية الاحداث المحلية والاجتماعية على الصعيد السوري والعربي.",
-      "arabic": "حمص نيوز : موقع إعلامي مستقل يتابع آخر التطورات في سورية والمنطقة. حمص نيوز هو فريق عمل متكامل من الشباب السوريين المتابعين للتطورات السورية. الهدف من حمص نيوز هو إيصال معلومات صحيحة عن التطورات الميدانية السورية للعالم العربي والغربي ، بالإضافة لتغطية الاحداث المحلية والاجتماعية على الصعيد السوري والعربي.",
-      "english": "Homs News: An independent media site that follows the latest developments in Syria and the region. Homs News is an integrated team of Syrian youth who follow the Syrian developments. The goal of Homs News is to deliver correct information on the Syrian field developments to the Arab and Western world, in addition to covering local and social events at the Syrian and Arab levels."
-    }
+    "category": 5
   },
   {
     "id": 25,
-    "name": {
-      "name": "البعث ميديا",
-      "arabic": "البعث ميديا",
-      "english": "Albaath media"
-    },
+    "name": "البعث ميديا",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/albaathmedia.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/albaathmedia.png",
     "country": "SY",
-   "category": 5,
-    "description": {
-      "description": "موقع الكتروني سوري اخباري شامل يتضمن محتوى نوعي على شكل مقالات وتحليلات وأخبار وتقارير تلفزيونية وملفات فيديوغراف وملفات إنفوغراف وإذاعة إلكترونية",
-      "arabic": "موقع الكتروني سوري اخباري شامل يتضمن محتوى نوعي على شكل مقالات وتحليلات وأخبار وتقارير تلفزيونية وملفات فيديوغراف وملفات إنفوغراف وإذاعة إلكترونية",
-      "english": "A comprehensive Syrian news website that includes qualitative content in the form of articles, analyzes, news, television reports, video files, infographics and electronic radio"
-    }
+    "category": 5
   },
   {
     "id": 26,
-    "name": {
-      "name": "عنب بلدي",
-      "arabic": "عنب بلدي",
-      "english": "Enab baladi"
-    },
+    "name": "عنب بلدي",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/enabbaladi.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/enabbaladi.png",
     "country": "SY",
-   "category": 5,
-    "description": {
-      "description": "مؤسسة إعلامية سورية مستقلة، تأسست عام 2011، تقدم تغطيات صحفية على مدار الساعة، عبر موقعها الإلكتروني التفاعلي، بأكثر من لغة، وتصدر مطبوعة أسبوعية سياسية، اجتماعية، منوعة. فضلًا عن مجموعة من الحسابات النشطة على مواقع التواصل الاجتماعي، وعدد من الخدمات الأخرى.",
-      "arabic": "مؤسسة إعلامية سورية مستقلة، تأسست عام 2011، تقدم تغطيات صحفية على مدار الساعة، عبر موقعها الإلكتروني التفاعلي، بأكثر من لغة، وتصدر مطبوعة أسبوعية سياسية، اجتماعية، منوعة. فضلًا عن مجموعة من الحسابات النشطة على مواقع التواصل الاجتماعي، وعدد من الخدمات الأخرى.",
-      "english": "An independent Syrian media institution, established in 2011, provides press coverage around the clock, through its interactive website, in more than one language, and issues a weekly political, social, and varied publication. As well as a group of active accounts on social media, and a number of other services."
-    }
+    "category": 5
   },
   {
     "id": 27,
-    "name": {
-      "name": "قناة الغد",
-      "arabic": "قناة الغد",
-      "english": "Alghad"
-    },
+    "name": "قناة الغد",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/eg/alghad.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/eg/alghad.png",
     "country": "EG",
-    "category": 1,
-    "description": {
-      "description": "مؤسسة إعلامية سورية مستقلة، تأسست عام 2011، تقدم تغطيات صحفية على مدار الساعة، عبر موقعها الإلكتروني التفاعلي، بأكثر من لغة، وتصدر مطبوعة أسبوعية سياسية، اجتماعية، منوعة. فضلًا عن مجموعة من الحسابات النشطة على مواقع التواصل الاجتماعي، وعدد من الخدمات الأخرى.",
-      "arabic": "مؤسسة إعلامية سورية مستقلة، تأسست عام 2011، تقدم تغطيات صحفية على مدار الساعة، عبر موقعها الإلكتروني التفاعلي، بأكثر من لغة، وتصدر مطبوعة أسبوعية سياسية، اجتماعية، منوعة. فضلًا عن مجموعة من الحسابات النشطة على مواقع التواصل الاجتماعي، وعدد من الخدمات الأخرى.",
-      "english": "An independent Syrian media institution, established in 2011, provides press coverage around the clock, through its interactive website, in more than one language, and issues a weekly political, social, and varied publication. As well as a group of active accounts on social media, and a number of other services."
-    }
+    "category": 1
   },
   {
     "id": 28,
-    "name": {
-      "name": "الاقتصادية",
-      "arabic": "الاقتصادية",
-      "english": "Iqtissadiya"
-    },
+    "name": "الاقتصادية",
     "logo": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/logos/sy/iqtissadiya.png",
     "icon": "https://raw.githubusercontent.com/mobarkde/MubarakTV/main/dataset/channels/icons/sy/iqtissadiya.png",
     "country": "SY",
-    "category": 3,
-    "description": {
-      "description": "",
-      "arabic": "",
-      "english": ""
-    }
+    "category": 3
   }
 ]
