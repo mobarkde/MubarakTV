@@ -1,5 +1,68 @@
 [
   {
+    "id": 0,
+    "active": 1,
+    "name": "دبي الرياضية 2",
+    "logo": "http://dagav.com/images/ar/dubai_spt_2.jpg",
+    "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+  }, 
+ {
+    "id": 0,
+    "active": 1,
+    "name": "دبي الرياضية 3",
+    "logo": "http://dagav.com/images/ar/dubai_spt_3.jpg",
+    "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
+  }, 
+   {
+    "id": 0,
+    "active": 1,
+    "name": "الشارقة الرياضية",
+    "logo": "http://dagav.com/images/ar/sharjahtv_sp.jpg",
+    "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+  }, 
+    {
+    "id": 0,
+    "active": 1,
+    "name": "الكويت الرياضية",
+    "logo": "http://dagav.com/images/ar/kuwaitsplus.jpg",
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8.shaka"
+  },  
+    {
+    "id": 0,
+    "active": 1,
+    "name": "الكويت الرياضية 2",
+    "logo": "http://dagav.com/images/ar/kuwaitsplus.jpg",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8.shaka"
+  },
+    {
+    "id": 0,
+    "active": 1,
+    "name": "عمان الرياضية",
+    "logo": "http://dagav.com/images/ar/oman_sport.jpg",
+    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8.shaka"
+  },
+    {
+    "id": 0,
+    "active": 1,
+    "name": "البحرين الرياضية",
+    "logo": "http://dagav.com/images/ar/bahrain_sp.jpg",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8"
+  },
+    {
+    "id": 0,
+    "active": 1,
+    "name": "اون تايم سبورت 1",
+    "logo": "http://dagav.com/images/ar/onsrt.jpg",
+    "url": "https://sportina.cc/ON-TIME-1/video.m3u8"
+  },
+    {
+    "id": 0,
+    "active": 1,
+    "name": "سوريا 2",
+    "logo": "https://www.althania.tv/themes/custom/althania/Default.png",
+    "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8"
+  },
+  {
     "id": 159,
     "active": 1,
     "name": "سبيس تون",
