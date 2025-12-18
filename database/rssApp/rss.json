@@ -1,5 +1,19 @@
 [
     {
+        "name": "برايم",
+        "logo": "https://aloula1.com/wp-content/uploads/2025/12/7-1.png",
+        "category": "قناة تلفزيونية",
+        "country": "سوريا",
+        "rss": [
+            {
+                "name": "الأخبار",
+                "category": "سياسة",
+                "language": "العربية",
+                "link": "http://aloula1.com/feed/"
+            }
+        ]
+    },
+    {
         "name": "الوكالة الموريتانية للأنباء",
         "logo": "https://www.ami.mr/wp-content/uploads/2022/07/logo-ar.png",
         "category": "موقع الكتروني",
