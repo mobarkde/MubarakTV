@@ -9,7 +9,7 @@
                 "name": "الأخبار",
                 "category": "سياسة",
                 "language": "العربية",
-                "link": "http://aloula1.com/feed/"
+                "link": "https://aloula1.com/feed/"
             }
         ]
     },
@@ -645,7 +645,7 @@
     },
     {
         "name": "الصباح",
-        "logo": "http://www.alsbah.net/wordpress/wp-content/uploads/2019/09/logo1.gif",
+        "logo": "https://www.alsbah.net/wordpress/wp-content/uploads/2019/09/logo1.gif",
         "category": "موقع الكتروني",
         "country": "دولة فلسطين",
         "rss": [
@@ -695,7 +695,7 @@
                 "name": "الأخبار",
                 "category": "سياسة",
                 "language": "العربية",
-                "link": "http://www.almassira.com/feed/"
+                "link": "https://www.almassira.com/feed/"
             }
         ]
     },
@@ -1121,7 +1121,7 @@
                 "name": "الأخبار",
                 "category": "سياسة",
                 "language": "العربية",
-                "link": "http://feeds.feedburner.com/Azzaman"
+                "link": "https://feeds.feedburner.com/Azzaman"
             }
         ]
     },
@@ -1423,49 +1423,49 @@
                 "name": "حوادث",
                 "category": "حوادث",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/37"
+                "link": "https://www.soutalomma.com/Rss/Section/37"
             },
             {
                 "name": "رياضة",
                 "category": "رياضة",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/42"
+                "link": "https://www.soutalomma.com/Rss/Section/42"
             },
             {
                 "name": "اقتصاد و بنوك",
                 "category": "اقتصاد",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/47"
+                "link": "https://www.soutalomma.com/Rss/Section/47"
             },
             {
                 "name": "حياة الناس",
                 "category": "الناس",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/104"
+                "link": "https://www.soutalomma.com/Rss/Section/104"
             },
             {
                 "name": "سيارات",
                 "category": "السيارات",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/105"
+                "link": "https://www.soutalomma.com/Rss/Section/105"
             },
             {
                 "name": "عقارات",
                 "category": "اقتصاد",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/1425"
+                "link": "https://www.soutalomma.com/Rss/Section/1425"
             },
             {
                 "name": "تحقيقات خاصة",
                 "category": "تحقيقات",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/46"
+                "link": "https://www.soutalomma.com/Rss/Section/46"
             },
             {
                 "name": "رأى الأمة",
                 "category": "منوعات",
                 "language": "العربية",
-                "link": "http://www.soutalomma.com/Rss/Section/1429"
+                "link": "https://www.soutalomma.com/Rss/Section/1429"
             }
         ]
     },
@@ -1595,49 +1595,49 @@
                 "name": "آخر الأخبار",
                 "category": "سياسة",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/ONL"
+                "link": "https://www.alwasatnews.com/rss/ONL"
             },
             {
                 "name": "أخبار البحرين",
                 "category": "محليات",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/LLN"
+                "link": "https://www.alwasatnews.com/rss/LLN"
             },
             {
                 "name": "أخبار دولية",
                 "category": "سياسة",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/LLI"
+                "link": "https://www.alwasatnews.com/rss/LLI"
             },
             {
                 "name": "أخبار رياضية",
                 "category": "رياضة",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/LLS"
+                "link": "https://www.alwasatnews.com/rss/LLS"
             },
             {
                 "name": "أخبار محلية",
                 "category": "محليات",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/LOC"
+                "link": "https://www.alwasatnews.com/rss/LOC"
             },
             {
                 "name": "أخبار دولية",
                 "category": "سياسة",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/INT"
+                "link": "https://www.alwasatnews.com/rss/INT"
             },
             {
                 "name": "أخبار اقتصادية",
                 "category": "اقتصاد",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/BUS"
+                "link": "https://www.alwasatnews.com/rss/BUS"
             },
             {
                 "name": "أخبار رياضية",
                 "category": "رياضة",
                 "language": "العربية",
-                "link": "http://www.alwasatnews.com/rss/SPT"
+                "link": "https://www.alwasatnews.com/rss/SPT"
             }
         ]
     },
@@ -1973,7 +1973,7 @@
                 "name": "أخبار",
                 "category": "رياضة",
                 "language": "العربية",
-                "link": "http://feeds.feedburner.com/GalerieArtciles"
+                "link": "https://feeds.feedburner.com/GalerieArtciles"
             }
         ]
     },
@@ -2145,7 +2145,7 @@
                 "name": "الاخبار",
                 "category": "المرأة",
                 "language": "العربية",
-                "link": "http://www.sayidaty.net/rss.xml"
+                "link": "https://www.sayidaty.net/rss.xml"
             }
         ]
     },
@@ -2921,7 +2921,7 @@
     },
     {
         "name": "أخبار شفق",
-        "logo": "http://www.shafaq.com/assets/imgs/logo.png",
+        "logo": "https://www.shafaq.com/assets/imgs/logo.png",
         "category": "موقع الكتروني",
         "country": "العراق",
         "rss": [
@@ -4145,7 +4145,7 @@
                 "name": "الأخبار",
                 "category": "سياسة",
                 "language": "العربية",
-                "link": "http://www.skynewsarabia.com/rss.xml"
+                "link": "https://www.skynewsarabia.com/rss.xml"
             }
         ]
     },
