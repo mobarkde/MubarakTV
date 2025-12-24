@@ -127,55 +127,55 @@
                 "name": "محليات",
                 "category": "محليات",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/feed"
+                "link": "https://alarab.qa/category/محليات/feed"
             },
             {
                 "name": "أفراح",
                 "category": "مناسبات",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD-%D9%88%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA/feed"
+                "link": "https://alarab.qa/category/أفراح-ومناسبات/feed"
             },
             {
                 "name": "تحقيقات",
                 "category": "تحقيقات",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA/feed"
+                "link": "https://alarab.qa/category/تحقيقات/feed"
             },
             {
                 "name": "اقتصاد",
                 "category": "اقتصاد",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/feed"
+                "link": "https://alarab.qa/category/اقتصاد/feed"
             },
             {
                 "name": "رياضة",
                 "category": "رياضة",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/feed"
+                "link": "https://alarab.qa/category/رياضة/feed"
             },
             {
                 "name": "حول العالم",
                 "category": "منوعات",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/feed"
+                "link": "https://alarab.qa/category/حول-العالم/feed"
             },
             {
                 "name": "تكنولوجيا",
                 "category": "تقنية",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/feed"
+                "link": "https://alarab.qa/category/تكنولوجيا/feed"
             },
             {
                 "name": "سيارات",
                 "category": "السيارات",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA/feed"
+                "link": "https://alarab.qa/category/سيارات/feed"
             },
             {
                 "name": "ثقافة وفنون",
                 "category": "ثقافة",
                 "language": "العربية",
-                "link": "https://alarab.qa/category/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86/feed"
+                "link": "https://alarab.qa/category/ثقافة-وفنون/feed"
             }
         ]
     },
@@ -222,12 +222,6 @@
                 "link": "https://www.omandaily.om/rssFeed/44"
             },
             {
-                "name": "صحافة",
-                "category": "سياسة",
-                "language": "العربية",
-                "link": "https://www.omandaily.om/rssFeed/45"
-            },
-            {
                 "name": "أعمدة",
                 "category": "سياسة",
                 "language": "العربية",
@@ -244,12 +238,6 @@
                 "category": "تحقيقات",
                 "language": "العربية",
                 "link": "https://www.omandaily.om/rssFeed/48"
-            },
-            {
-                "name": "مرايا",
-                "category": "تحقيقات",
-                "language": "العربية",
-                "link": "https://www.omandaily.om/rssFeed/49"
             },
             {
                 "name": "فيديو",
@@ -330,20 +318,6 @@
                 "category": "سياسة",
                 "language": "العربية",
                 "link": "https://alroya.om/rss"
-            }
-        ]
-    },
-    {
-        "name": "إذاعة الوصال",
-        "logo": "https://ik.imagekit.io/d3nlekvyf/wisalfm/media/site_settings/meta_image_1_1.jpg",
-        "category": "إذاعة",
-        "country": "عمان",
-        "rss": [
-            {
-                "name": "الأخبار",
-                "category": "سياسة",
-                "language": "العربية",
-                "link": "https://wisal.fm/rss.php"
             }
         ]
     },
@@ -624,20 +598,6 @@
                 "category": "سياسة",
                 "language": "العربية",
                 "link": "https://www.al-bayader.com/feed/"
-            }
-        ]
-    },
-    {
-        "name": "الصنارة",
-        "logo": "https://sonara.net/wp-content/uploads/2022/09/cropped-logo-01-192x192.png",
-        "category": "موقع الكتروني",
-        "country": "دولة فلسطين",
-        "rss": [
-            {
-                "name": "الأخبار",
-                "category": "سياسة",
-                "language": "العربية",
-                "link": "https://sonara.net/feed/"
             }
         ]
     },
