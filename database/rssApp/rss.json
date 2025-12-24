@@ -1810,20 +1810,6 @@
         ]
     },
     {
-        "name": "الزمالك اليوم",
-        "logo": "https://www.zamalektoday.com/images_new/logo_red.png",
-        "category": "موقع الكتروني",
-        "country": "مصر",
-        "rss": [
-            {
-                "name": "أخبار",
-                "category": "رياضة",
-                "language": "العربية",
-                "link": "https://www.zamalektoday.com/index.php?go=rss"
-            }
-        ]
-    },
-    {
         "name": "موقع جماهير الأهلي",
         "logo": "https://www.el-ahly.com/Assets/imgs/logo.png",
         "category": "موقع الكتروني",
